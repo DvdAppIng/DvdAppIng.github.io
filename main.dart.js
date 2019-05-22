@@ -4997,9 +4997,11 @@ tv:function tv(){},
 np:function np(a){this.b=a},
 nU:function nU(){},
 wf:function wf(){},
-nE:function nE(a,b,c){this.d=a
-this.cx=b
-this.a=c},
+nE:function nE(a,b,c,d){var _=this
+_.d=a
+_.Q=b
+_.cx=c
+_.a=d},
 Oa:function Oa(){},
 wE:function wE(a){var _=this
 _.a=_.e=_.d=null
@@ -21215,13 +21217,13 @@ case 2:t=3
 return C.jY
 case 3:return P.cR()
 case 1:return P.cS(r)}}},[L.dg,,])},
-K:function(a){var u,t,s=this,r=null,q=s.a,p=q.cx,o=s.e
-q=q.d
+K:function(a){var u,t,s=this,r=null,q=s.a,p=q.cx,o=s.e,n=q.d
+q=q.Q
 u=p.b
 if(u==null)u=C.dW
 t=s.gx5()
 s.a.toString
-return new K.jQ(new S.Oa(),new K.mF(p,!0,new S.p_(r,r,new S.O4(),q,C.mT,r,r,o,r,"",r,C.pc,u,r,t,r,C.fF,!1,!1,!1,!1,new S.O5(),!0,new N.jf(s,[[N.ab,N.bP]])),C.T,C.x,r),r)},
+return new K.jQ(new S.Oa(),new K.mF(p,!0,new S.p_(r,r,new S.O4(),n,C.mT,r,r,o,r,q,r,C.pc,u,r,t,r,C.fF,!1,!1,!1,!1,new S.O5(),!0,new N.jf(s,[[N.ab,N.bP]])),C.T,C.x,r),r)},
 sLd:function(a){this.e=H.f(a,"$il",[K.lq],"$al")},
 $aab:function(){return[S.nE]}}
 S.O4.prototype={
@@ -46147,7 +46149,7 @@ fo:function(){this.or()
 this.bS$=null}}
 F.EA.prototype={
 K:function(a){var u=null
-return new S.nE(new F.td(u),X.JJ(u,u,u,u,C.dW,u),u)}}
+return new S.nE(new F.td(u),"Libretto",X.JJ(u,u,u,u,C.dW,u),u)}}
 F.td.prototype={
 aq:function(){return new F.wD(H.i([],[[K.rq,P.m]]),H.i([],[F.fn]),H.i(["Condizioni","Info"],[P.m]),C.p)}}
 F.wD.prototype={

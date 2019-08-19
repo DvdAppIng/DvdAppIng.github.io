@@ -51001,7 +51001,7 @@ case 2:r=H
 u=4
 return P.aG($.tc().CJ("condizioni.txt"),$async$o2)
 case 4:s.d=r.P(b)
-case 3:$.VT="1.2.0"
+case 3:$.VT="1.2.1"
 return P.au(null,t)}})
 return P.av($async$o2,t)},
 O:function(a){var u=null,t=$.a09()

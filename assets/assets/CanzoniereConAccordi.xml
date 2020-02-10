@@ -1347,6 +1347,7 @@ e Ti vedrò e Tu chiamerai per nome la mia realtà.
         </Canzone>      
         <Canzone Numero="33" Titolo="La libertà" Genere="">
             <Testo>
+Do   Fa7+       Do Fa7+
 Come tanti anni fa 
 nella terra dell’Egitto 
 hai salvato il Tuo popolo 
@@ -1357,9 +1358,13 @@ la tristezza mi accompagna
 nei giorni più neri.
 
 Rit.   
+    Do                       La-
     Mai nessuno al mondo incatenerà 
+           Re- Fa Do
     la mia libertà; 
+    Mi-                       La-
     mai nessuno al mondo mi dividerà 
+          Re- Fa Do     Fa Sol
     dalla libertà. (2v.)
 
 Scende piano il sole 
@@ -1441,12 +1446,21 @@ Rit.
         </Canzone>      
         <Canzone Numero="36" Titolo="Incontro" Genere="">
             <Testo>
+La- Sol La- Sol
+Do Do7+     Fa7+ Fa
 Cosa accadrà 
+      Do Do7+       Fa7+ Fa
 della foglia e del sole 
+        Re-                Re-7
 fioca è già la luce della lampada 
+     Sol                                 La-     La-7
 e la pioggia sta cadendo e bagna il marciapiede.
+         Re-              Re-7
 Non sei libero, non sei diverso 
+  Sol                             La-     
 è solo la frustata obliqua della pioggia.
+
+Sol
 
 Che senso ha 
 guardo tante cose ma non vedo niente 
@@ -1455,11 +1469,14 @@ come un edificio costruito dentro l’uomo.
 Ed inciamperò contro il pensiero 
 come un bambino contro un filo teso.
 
-Cerchio nell’acqua 
-non turbato da un’ombra 
-Qualcuno su di me si chinò lungamente 
-non so nascondermi in questa luce 
-io sento su di me il chinarsi di Dio.
+	Fa      Do
+	Cerchio nell’acqua 
+	Sib7+   Re- Do     Re-
+	non turbato da un’ombra 
+	Qualcuno su di me si chinò lungamente 	                                              
+	non so nascondermi in questa luce io sento su di 
+	La-               La-  Sol La- Sol
+	me il chinarsi di Dio.
 
 L’anima, lo sai 
 non è una foglia, può trattenere il sole 
@@ -1498,16 +1515,22 @@ Dove Tu sei, torna la vita.
         </Canzone>      
         <Canzone Numero="38" Titolo="Fratello sole" Genere="">
             <Testo>
+Do        Mi-
 Dolce sentire 
+Fa   Sol      Do    Do Mi-
 come nel mio cuore, 
+La-     Mi-
 ora umilmente 
+Re-   Re-7    Sol
 sta nascendo amore.
 Dolce capire 
 che non son più solo 
 ma che son parte 
+   Re- Sol     Do Mi- La-
 di una immensa vita: 
+La- Mi- Do      Re-      Sol     Do
 che generosa risplende intorno a me.
-
+    La- Mi- Do      Re-      Sol     Do Mi- La-
     Dono di Lui e del suo immenso amor.
     Dono di Lui e del suo immenso amor.
 
@@ -1565,7 +1588,9 @@ avremo ancora vino.
         </Canzone>      
         <Canzone Numero="40" Titolo="Risposta (Rosy)" Genere="">
             <Testo>
+Do       Fa      Do Mi- La-
 Quante strade un uomo farà 
+    Do         Fa        Sol
 finché uomo tu lo potrai dir.
 Quanti mari una bianca colomba vedrà 
 per poter sulla sabbia dormir.
@@ -1573,7 +1598,9 @@ Quante volte le armi dovranno colpir
 finché più nessun uomo le avrà.
 
 Rit:
+	Fa     Sol     Do  Mi-  La-
     Amico, se il vento ascolterai 
+	Fa           Sol       Do Do7
     Risposta nel vento tu avrai (2v.)
 
 Quanti anni dovrà una montagna aspettar 
@@ -1670,13 +1697,21 @@ sono le più grandi.
         <Canzone Numero="43" Titolo="Vieni Spirito di Cristo" Genere="">
             <Testo>
 Rit:
+	Mi-
     Vieni, vieni, 
+	La-
     Spirito d’amore, 
+	Mi-                    Si-
     ad insegnar le cose di Dio.
+	Mi-
     Vieni, vieni, 
+	La-
     Spirito di pace, 
+	  Mi-             
     a suggerir le cose 
+	    Si-            Mi-
     che Lui ha detto a noi.
+
 
 Noi ti invochiamo, 
 Spirito di Cristo, 
@@ -1709,11 +1744,17 @@ Rit.
         <Canzone Numero="44" Titolo="Nessuno sa" Genere="Quaresima">
             <Testo>
 Rit:
+	Do      Fa
     Nessuno sa 
+	Do       La-
     il mio dolor, 
+	Do        Fa       Sol
     ma ben lo sa il Signore.
+	Do      Fa
     Nessuno sa 
+	Do       La-
     il mio dolor, 
+	Do    Sol    Do
     glory alleluia.
 
 Or triste, or muto, 
@@ -1733,10 +1774,14 @@ Rit.
         </Canzone>      
         <Canzone Numero="45" Titolo="Padre nostro" Genere="">
             <Testo>
+Do    Sol             La-  Sol
 Padre nostro che nei cieli stai, 
 sia santificato il nome Tuo. 
+Do        Do7
 Venga il regno 
+  Fa
 e la Tua volontà 
+    Do            Sol    La-     Sol
 sia fatta come in cielo così fra noi.
 
 Dacci anche oggi il nostro pane 
@@ -1752,16 +1797,25 @@ che sei nostro Padre.
         </Canzone>      
         <Canzone Numero="46" Titolo="Su ali d’aquila" Genere="Comunione">
             <Testo>
+Fa7+              Do7+
 Tu che abiti al riparo del Signore
+Fa7+                  Do7+
 e che dimori alla sua ombra
+Mib7+                 Lab7+
 dì al Signore: “Mio rifugio, 
+Fa-7               Sol4 Sol
 mia roccia in cui confido.”
 
 Rit:
+	Do                Do7+
     E ti rialzerà, ti solleverà
+	       Re- Re-7 Sol Sol7
     su ali d’aquila ti reggerà
+	      Sol-        Do7       Fa     Re-
     sulla brezza dell’alba ti farà brillar
+	         La- Mi-7
     come il sole, 
+	Re-7           Sol7   Do   Do7
     così nelle sue mani vivrai.
 
 Dal laccio del cacciatore ti libererà
@@ -1841,10 +1895,14 @@ Rit.
         <Canzone Numero="48" Titolo="Addio goodbye" Genere="">
             <Testo>
 Rit:
+	Re
     Addio goodbye, 
+	  Si-      Re
     addio goodbye. 
+	Sol       Re        La        Re
     Io me ne vado alla patria del ciel. (2v.)
 
+        Sol        Re    La    Re
 Voglio prendere le ali e volar via.
 Io me ne vado alla patria del ciel.
 
@@ -1864,11 +1922,13 @@ Rit.
         <Canzone Numero="49" Titolo="Scendi Moses" Genere="">
             <Testo>
 Rit:
+	Mi-    La-7  Si7            Mi-
     Scendi Moses ritorna là in Egitto 
-    dillo tu, al suo re, 
-    e lasciali partire.
+    dillo tu, al suo re e lasciali partire.
 
+Mi-       Si7    Mi-
 Là nell’Egitto, Israel, 
+Mi-     Si7    Mi-
 troppo soffre ancor. 
 La pena sua non potrà durar, 
 lo libererai.
@@ -1892,9 +1952,13 @@ Rit.
         </Canzone>      
         <Canzone Numero="50" Titolo="Colori" Genere="">
             <Testo>
+Sol
 Questo prato verde ti ricorderà 
+   Do               Sol
 la speranza del mattino, 
+        Do           Sol Re Do
 non smarrirla, amico mio, 
+Sol 
 perché io, perché io ritornerò.
 
 Questo cielo azzurro ti ricorderà 
@@ -1980,11 +2044,15 @@ Rit.
         <Canzone Numero="53" Titolo="Osanna" Genere="">
             <Testo>
 Rit:
+	Re      Sol Re
     Osanna, osanna, 
+	Sol Re   La   Re
     osanna, Jerusalem.
-
+Re     Sol Re
 Dormi regina, 
+Sol    Re
 notte farà,
+Sol      Re La      La7
 Gerusalemme non morirà.
 
 Rit.
@@ -2091,12 +2159,15 @@ non avrà splendore per dilettarsi di lui.
         </Canzone>      
         <Canzone Numero="56" Titolo="Gerico" Genere="">
             <Testo>
-Rit.   
+Rit. 
+	Re-                   La7     Re-
     Si combatte a Gerico, Gerico, Gerico, 
     si combatte a Gerico con le armi del Signor. (2v.)
-
+	
+Re-                         La7
 D’Israele i re furon grandi però 
 il più grande è stato Giosuè, 
+Re-                         La7   Re-
 che le alte mura di Gerico, senza armi ha fatto crollar.
 
 Rit.
@@ -2110,13 +2181,20 @@ Rit.
         </Canzone>      
         <Canzone Numero="57" Titolo="Se non ritornerete come bambini" Genere="Comunione|Fine">
             <Testo>
+    Re- Sol Sib Re- (2v.)
 Rit:
+	Re-           Do           Re-
     Se non ritornerete come bambini 
+	       Sol Sib Re-
     non entrerete mai. (2v.)
 
+Re-    Do          Re-
 La mia porta sarà chiusa 
+Re-    Do             Fa
 per il ricco e per il forte 
+          Sol-           Sib    Re-
 per tutti quelli che non hanno amato 
+              Do   La7     Re-
 per chi ha giocato con la morte.
 Per gli uomini per bene 
 per chi cerca la sua gloria 
@@ -2151,14 +2229,19 @@ Rit.
         <Canzone Numero="58" Titolo="Oh Dio non lasciarmi" Genere="Inizio">
             <Testo>
 Rit:
+	Sol Re          Mi-  Do 
     Oh Dio non lasciarmi solo mai 
     senza Te dimmi che farò. (2v.)
 
+Sol                     Mi-
 All’aurora cerco sempre Te 
+Do                    Sol    Re
 com’è dolce vivere nella Tua casa. 
 Il calore che sai dare Tu 
 più del fuoco sa bruciare nel mio cuore.
+Do                            Re
 Il mio giorno nasce insieme a Te, Dio mio 
+Do                        Re Re4 Re
 io Ti prego resta qui con me ancora.
 
 Rit.
@@ -2184,16 +2267,24 @@ Rit.
         </Canzone>              
         <Canzone Numero="59" Titolo="Alleluia AC" Genere="Alleluia">
             <Testo>
+La  Re              La  Mi
 Alleluia, alleluia, alleluia, alleluia,
+La  Re              La Mi La
 alleluia, alleluia, alleluia!
 
+La        Re        Mi     La
 La nostra festa non deve finire,
+    Fa#-   Si-    Mi      La
 non deve finire e non finirà
 La nostra festa non deve finire,
 non deve finire e non finirà.
+La7 Re    Mi    La    La7
 Perché la festa siamo noi
+    Re    Mi         La
 che camminiamo verso Te
+La7 Re    Mi     La   FA#-
 Perché la festa siamo noi
+    Si-     Re    Mi
 cantando insieme così
 
 Alleluia…
@@ -2201,11 +2292,15 @@ Alleluia…
         </Canzone>
         <Canzone Numero="60" Titolo="Emmaus" Genere="Pasqua">
             <Testo>
+Sol      Re                            Mi-
 Sai, ci ritroviamo ancora a parlare di Lui 
+     Re                             Mi-
 dell’eco dei suoi passi rimasta fra noi.
 Sai, andava per le vie della nostra città 
 la gente si fermava a sentirlo parlare 
+La-   Do         Mi-
 assetata d’improvviso 
+La-      Do         Mi- Re       Do        Mi-
 di quel sogno di verità che solo Lui ci portava.
 
 Sai, le dita della sera ci sfioravano piano 
@@ -2223,9 +2318,11 @@ quella luce di verità che solo Tu ci puoi dare.
         </Canzone>      
         <Canzone Numero="61" Titolo="Alleluia (Taizé)" Genere="Alleluia">
             <Testo>
+Re    La      Si-         FA#-
 Alleluia, alleluia, alleluia, 
+Sol   Re      La La7
 Alleluia, alleluia (2v.)
-    
+    	
 Canto per Cristo che mi libererà
 quando verrà nella gloria,
 quando la vita con Lui rinascerà
@@ -2266,11 +2363,15 @@ ora io lo so che sei con me.
         </Canzone>      
         <Canzone Numero="63" Titolo="Alleluia (Simo e Claudio)" Genere="Alleluia">
             <Testo>
+Re-  Sol- Do    Fa  Sib  Sol- La4   Re-
 Alleluia, alleluia, alleluia, alleluia;
 alleluia, alleluia, alleluia, alleluia. (2v.)
 
+                  Sol-
 Ed oggi ancora mio Signore, 
+      Do         Fa
 ascolterò la Tua Parola 
+     Sib         Sol-         La4 La
 che mi guida nel cammino della vita.
 
 Alleluia…
@@ -2278,12 +2379,17 @@ Alleluia…
         </Canzone>      
         <Canzone Numero="64" Titolo="Le tue mani" Genere="Pasqua">
             <Testo>
+Do              Sol      La- 
 Le tue mani son piene di fiori 
+Do          Mi-    Fa    Sol
 dove li portavi fratello mio?
+      Do        Sol       La-
 Li portavo alla tomba di Cristo 
+     Fa          Do      Sol    Do
 ma l’ho trovata vuota fratello mio.
 
-Rit>  Alleluia, alleluia, alleluia, alleluia
+      Fa Do La- Fa Do Sol Fa Do La- Fa Sol Do
+Rit.  Alleluia, alleluia, alleluia, alleluia
 
 I tuoi occhi riflettono gioia 
 dimmi cosa hai visto fratello mio?
@@ -2309,14 +2415,22 @@ Rit.
         </Canzone>      
         <Canzone Numero="65" Titolo="Alleluia (Carmela)" Genere="Alleluia">
             <Testo>
+Re            La        Si-       Fa#-
 Alleluia, alleluia, alleluia, alleluia,
+       Sol Re    La
 oggi è festa per noi.
+Re            La        Si-       Fa#-
 Alleluia, alleluia, alleluia, alleluia,
+       Sol        La         Re
 il Tuo amore sarà sempre con noi.
 
+Re La            Si-   Sol La
 Tu hai portato a noi l'amore
+Re La            Si-   Sol La
 Tu vivi sempre in noi Signore
+Re    La         Si-     Fa#-          Sol 
 Tu ci hai voluti qui per dire il nostro sì
+              Re La
 promessa di unione.
 
 Alleluia...
@@ -2324,9 +2438,13 @@ Alleluia...
         </Canzone>      
         <Canzone Numero="66" Titolo="È giunta l’ora" Genere="Quaresima">
             <Testo>
+Re Sol     Re  Sol       Re			
 È giunta l’ora Padre per me;
+         Si-     Sol   La La7
 ai miei amici ho detto che
+            Re   FA#-      Si- Sol
 questa è la vita conoscere Te
+            La    Sol     Re
 e il Figlio Tuo Cristo Gesù.
 Erano Tuoi li hai dati a me,
 ed ora sanno che torno a Te
@@ -2345,9 +2463,13 @@ che li hai amati come ami me.
         </Canzone>      
         <Canzone Numero="67" Titolo="Hanno preso un uomo" Genere="Quaresima">
             <Testo>
+Do             La-      Do
 Hanno preso un uomo, 
+Do             La-      Do
 a un angolo di strada, 
+               Re- Sol
 nessuno l’ha difeso, 
+                Do
 e l’han portato via.
 E sento una voce           (e sento una voce) 
 una voce che mi chiama     (una voce che mi chiama) 
@@ -2384,8 +2506,12 @@ la mano nella mano.
         </Canzone>      
         <Canzone Numero="68" Titolo="Alleluia Sambe" Genere="Alleluia">     
             <Testo>
+Re Re/Re9/Re
+Re        La
 Alle, alleluia,
+    Si-       Fa#-
 a – alleluia, alleluia,
+Sol       Re  Sol La Re Sol     La   Re Re/Re9/Re
 alleluia, alleluia, alleluia, alle-luia.
 
 Passeranno i cieli
@@ -2399,12 +2525,18 @@ Alle, alleluia…
         <Canzone Numero="69" Titolo="Voglio ritornare" Genere="">
             <Testo>
 Rit:
+	Do
     Voglio ritornare, 
+	Fa         Do
     devo ritornare, 
+	Sol	
     voglio ritornare 
+	  Fa         Sol      Do
     ancora in Gerusalemme camminar. (2v)
 
+Do              La-
 Per rivedere il mio Signor, 
+Fa      Sol       Do
 là in Gerusalemme camminar.         
 Come Giovanni l’incontrerò 
 ed in Gerusalemme tornerò.
@@ -2421,9 +2553,11 @@ Rit.
         </Canzone>      
         <Canzone Numero="70" Titolo="Santo (Andrea)" Genere="Santo">
             <Testo>
+Re  La6+    Si-          Sol La
 (Santo)     Santo è il Signore.
 (Dio)       Dio dell’universo Santo è il Signore.
 (I cieli)   I cieli e la terra pieni della Tua gloria.
+    Re   La Si-                  Sol La
     Osanna, osanna nell’alto dei cieli. (2v.)
 (Benedetto) Benedetto chi viene nel nome del Signore.
 (Benedetto) Benedetto chi viene nel nome del Signore.
@@ -2432,15 +2566,23 @@ Rit.
         </Canzone>      
         <Canzone Numero="71" Titolo="Chi sei Tu" Genere="">
             <Testo>
+Si-           La      Sol             La
 Chi sei Tu dolcissimo Iddio che m’ami tanto, 
+Si-              La   Sol               La
 chi sono io, chi sono io, se t’amo così poco, 
+Si-           La      Sol                          La
 chi sei Tu dolcissimo Iddio che di gioia inondi il cuore, 
+Si-              La   Sol                  La
 chi sono io, chi sono io, che gioia non so darti.
 
 Rit:
+	Si-             Sol La
     Io sono un peccatore, 
-    ma confido nel Tuo amore, 
+          Si-             Sol La
+	ma confido nel Tuo amore, 
+	      Si-           Sol     La
     e ricordo la Tua parola che dice: 
+	                       Sol
     “Sono venuto anche per te.”
 
 Chi sei Tu dolcissimo Iddio che m’ami tanto, 
@@ -2454,17 +2596,24 @@ Chi sei Tu dolcissimo Iddio che m’ami tanto,
 chi sono io, chi sono io, se t’amo così poco, 
 Chi sei Tu dolcissimo Iddio che m’ami tanto, 
 chi sei Tu, Tu sei il mio Dio ora e per sempre, 
+    Si-
 per sempre.
             </Testo>
         </Canzone>      
         <Canzone Numero="72" Titolo="Santo" Genere="Santo">
             <Testo>
+Re Re La Sol La
+Re La  Si-
 Santo, santo,
+Sol          La
 santo il Signore 
+Re          La Sol La Mi- La 
 Dio dell’universo. 
+  Re         Sol        Mi-             La
 I cieli e la terra sono pieni della Tua gloria.
-
+	Re       Si-
     Osanna, osanna, 
+	 Re Si-     Sol      La
     osanna nell’alto dei cieli.
 
 Benedetto colui che viene 

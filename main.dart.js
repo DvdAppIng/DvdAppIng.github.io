@@ -47600,7 +47600,7 @@ $0:function(){var u=V.nY(new F.ID(this.a),null,null),t=this.b.d5(K.cd)
 t.eE(u,null)},
 $S:0}
 F.ID.prototype={
-$1:function(a){return new F.ks(F.a1w("0","Condizioni d'uso",this.a.d,!0),null)}}
+$1:function(a){return new F.ks(F.a1w(null,"Condizioni d'uso",this.a.d,!0),null)}}
 F.IN.prototype={
 $0:function(){var u=null,t=$.a0k
 A.aby(M.ba(u,U.a1t("assets/appicon.png"),u,u,u,u,100,u,u,u,100),"","Libretto dei canti",t,H.e([L.aG("\xa92019 Parrocchia dell'Immacolata\r\nConcezione di Maria Vergine",u,u,u,A.c4(u,u,u,u,u,u,u,u,u,u,u,14,u,u,u,u,!0,u,u,u,u,u,u),u)],[N.ay]),this.a)},

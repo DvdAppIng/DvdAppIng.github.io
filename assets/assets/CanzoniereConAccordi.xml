@@ -2676,9 +2676,13 @@ Benedetto colui che viene nel nome del Signore.
         <Canzone Numero="75" Titolo="Dove troveremo tutto il pane" Genere="Offertorio">
             <Testo>
 Rit.   
+	Do        La-  Fa       Sol
     Dove troveremo tutto il pane, 
-    per sfamare tanta gente? 
-    Dove troveremo tutto il pane, 
+    Do     La-  Fa    Sol
+	per sfamare tanta gente? 
+    Do        La-  Fa       Sol
+	Dove troveremo tutto il pane, 
+	Fa         Sol  Do       Do Fa Sol
     se non abbiamo niente?
 
 Io possiedo solo cinque pani, 
@@ -2710,12 +2714,17 @@ Rit.
         </Canzone>          
         <Canzone Numero="76" Titolo="Lodate lodate" Genere="">
             <Testo>
+La-
 Cantate al Signore 
+Mi-       La-
 un canto nuovo, 
+La-          Sol
 cantate al Signore 
+              La-
 voi tutti del mondo.
 
 Rit.   
+	Re-     La-     Mi7          La-
     Lodate, lodate, lodate il Signore. 
     Cantate, cantate, cantate il Suo nome.
 
@@ -2753,12 +2762,17 @@ Rit.
         </Canzone>  
         <Canzone Numero="77" Titolo="Resurrezione" Genere="Fine|Pasqua">
             <Testo>
-Signore che ci hai dato questo giorno di salvezza
-accetta che cantiamo, come sanno i nostri cuori.
-La gioia di saperti qui risorto in mezzo a noi;
-ma lascia che Ti offriamo anche il nostro dolor.
+	Do Do7
+	Fa                 Sol         Do     Mi-   La-
+	Signore che ci hai dato questo giorno di salvezza
+	accetta che cantiamo, come sanno i nostri cuori.
+	La gioia di saperti qui risorto in mezzo a noi;
+	   Fa                              Sol
+	ma lascia che Ti offriamo anche il nostro dolor.
 
+Do                 Mi-        La-             Re-
 Per questo Ti chiediamo di restare in mezzo a noi
+   Fa            Do       Re-       Sib Fa
 di prenderci per mano, andremo dove vuoi.
 Per le città dell’uomo che Tu conosci già
 in mezzo alle miserie di questa umanità.
@@ -2768,10 +2782,10 @@ ma la gente che passa lo vuole sempre là;
 e c’è anche il soldato con il fucile in mano
 che guarda un altro uomo che forse ucciderà.
 
-Signore, perdonaci, non è cambiato niente
-è tutto come quando Tu venisti fra di noi.
-A portarci la Tua voce che chiamava che chiamava, 
-i sordi, chi non sente, chi non vuole mai sentir.
+	Signore, perdonaci, non è cambiato niente
+	è tutto come quando Tu venisti fra di noi.
+	A portarci la Tua voce che chiamava che chiamava, 
+	i sordi, chi non sente, chi non vuole mai sentir.
 
 E forse Tu vedrai nascosto fra di noi
 qualcuno che ha promesso di fare come Te.
@@ -2786,15 +2800,23 @@ e insieme ce ne andremo fino alla casa Tua.
         </Canzone>  
         <Canzone Numero="78" Titolo="Io lo so" Genere="Fine|Pasqua">
             <Testo>
+Do             Mi-           Fa     Do
 Io lo so che risorgerai e mi condurrai 
+     Fa       Sol       Do
 e la terra un giorno mi darai.
 
+Do                           Mi-
 Io lo so (credimi, credimi…) io lo so 
+      Fa   Do        Fa   Sol          Do
 che risorgerai e con me sarai o mio Signor.
 
+Do       Mi-       Fa Sol Do
 Dicevano dove vai? Resta qui, 
+Do                 Mi-            Fa     Sol     Do
 non lasciare tutto quello che hai il tuo mondo è qui. 
+Do         Mi-              Fa          Sol Do
 Ma la voce del Signore alta nel mattino risuonò: 
+           Mi-            Fa
 esci dalla tenda e vai la terra io ti darò.
 
 Io lo so (credimi, credimi…) io lo so 
@@ -2803,10 +2825,18 @@ che risorgerai e con me sarai o mio Signor.
         </Canzone>  
         <Canzone Numero="79" Titolo="Resurrezione (Gen)" Genere="Fine|Pasqua">
             <Testo>
+Re Sol (4 v.)
+
+Re               Sol  Re          Sol
 Che gioia ci hai dato Signore del cielo
+Re          Sol       La  
 Signore del grande universo
+Re               Sol    Re      Sol
 Che gioia ci ha dato vestito di luce
-vestito di gloria infinita. (2v.)
+Re         La        Si- Sol    Re      Sol
+vestito di gloria infinita
+Re         La       Sol Re
+vestito di gloria infinita
 
 Vederti risorto, vederti Signore
 il cuore sta per impazzire.
@@ -2828,9 +2858,15 @@ Tutti noi uomini con Te.
         </Canzone>  
         <Canzone Numero="80" Titolo="Shalom" Genere="Scambio della pace">
             <Testo>
-Evenu shalom aleyem (3 v.)
+      La-
+Evenu shalom aleyem
+      Re-
+Evenu shalom aleyem
+      Mi       La-
+Evenu shalom aleyem
 
 Rit:
+          Mi                     La-
     Evenu shalom shalom shalom aleyem.
 
 E sia la pace con noi (3 v.)
@@ -2861,10 +2897,17 @@ Rit.
         </Canzone>  
         <Canzone Numero="81" Titolo="Il tuo pane" Genere="Offertorio">
             <Testo>
+Do Do9 Do Do Do9 Do Re- Sol
+Do Mi- La- La-4 La- 
+Re- Sol Do Do9 Do Do Do9 Do 
+
+Do        Re-
 Oltre l’amore
+Sol        Do             Mi- La-
 Oltre quel pianto o mio Signore, 
+        Re-            Sol
 ho ritrovato un po’ di Te. 
-Quella su quel colle Tu sei salito mio Signore, 
+Quella notte su quel colle Tu sei salito mio Signore, 
 e ho temuto di averti perso.
 Ora in questa stanza
 ho ripensato al Tuo amore 

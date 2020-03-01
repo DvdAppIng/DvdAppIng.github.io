@@ -1,34 +1,34 @@
 <?xml version="1.0"?>
 <Canzoniere Version="1">
-    <Generi>
-        <Genere>Tutte</Genere>
-        <Genere>Inizio</Genere> 
-        <Genere>Introduzione</Genere> 
-        <Genere>Alleluia</Genere> 
-        <Genere>Offertorio</Genere> 
-        <Genere>Santo</Genere> 
-        <Genere>Comunione</Genere> 
-        <Genere>Scambio della pace</Genere>
-        <Genere>Fine</Genere> 
-        <Genere>Maria</Genere>
-        <Genere>Quaresima</Genere>
-        <Genere>Pasqua</Genere>
-        <Genere>Natale</Genere>
-        <Genere>Matrimonio</Genere>
-    </Generi>
-    <Canzoni>
-        <Canzone Numero="1" Titolo="Grazie Dio" Genere="Inizio|Natale">
-            <Testo>
+	<Generi>
+		<Genere>Tutte</Genere>
+		<Genere>Inizio</Genere> 
+		<Genere>Introduzione</Genere> 
+		<Genere>Alleluia</Genere> 
+		<Genere>Offertorio</Genere> 
+		<Genere>Santo</Genere> 
+		<Genere>Comunione</Genere> 
+		<Genere>Scambio della pace</Genere>
+		<Genere>Fine</Genere> 
+		<Genere>Maria</Genere>
+		<Genere>Quaresima</Genere>
+		<Genere>Pasqua</Genere>
+		<Genere>Natale</Genere>
+		<Genere>Matrimonio</Genere>
+	</Generi>
+	<Canzoni>
+		<Canzone Numero="1" Titolo="Grazie Dio" Genere="Inizio|Natale">
+			<Testo>
 Do Sol Re- La-
 (Sol)Fa Do Sol (2 volte)
 
 La-            Sol
 Signore Ti ringrazio,
-               Re-         La-
+			   Re-         La-
 perché ci hai dato questo giorno
    (Sol) Fa             Do
 ce l’hai dato col Tuo amore,
-         Sol             Do   Sol
+		 Sol             Do   Sol
 ce l’hai dato nella Tua luce.
 
 Cristo ti prego,
@@ -37,21 +37,21 @@ io ho paura a restare,
 solo, senza la tua guida.
 
 Rit:
-    Do                 Sol
-    Io Ti ringrazio perché,
-    La-       Sol
-    sei sceso fra di noi,
-    Fa          Do
-    ci hai dato la speranza,
-    Sol
-    sei Tu la nostra luce!
-    
-    Io Ti ringrazio perché,
-    mi hai colmato d’amore,
-    mi hai amato
-    e Ti sei fatto uomo.
-    
-    Do              Sol
+	Do                 Sol
+	Io Ti ringrazio perché,
+	La-       Sol
+	sei sceso fra di noi,
+	Fa          Do
+	ci hai dato la speranza,
+	Sol
+	sei Tu la nostra luce!
+	
+	Io Ti ringrazio perché,
+	mi hai colmato d’amore,
+	mi hai amato
+	e Ti sei fatto uomo.
+	
+	Do              Sol
 Mio Dio in Te ho trovato
  Re-          La-
 quello che cercavo,
@@ -64,7 +64,7 @@ Mi              La-
 Grazie del tuo amore,
 Do           Fa
 grazie della vita
-        Sol            Do
+		Sol            Do
 che hai mandato tra di noi. (2v.)
 Sol
 
@@ -78,10 +78,10 @@ fuori fa freddo ma
 il Tuo amore mi riscalda.
 
 Rit.
-            </Testo>
-        </Canzone>
-        <Canzone Numero="2" Titolo="Vieni dal Libano" Genere="Matrimonio">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="2" Titolo="Vieni dal Libano" Genere="Matrimonio">
+			<Testo>
 Re-           Do            
 Vieni dal Libano, mia sposa, 
 Sib       Do       Re-
@@ -94,14 +94,14 @@ Vieni dal Libano, mia sposa,
 vieni dal Libano, vieni.
 
 Rit:
-               Fa             Do
-    Cercai l’amore dell’anima mia,
-         Sol- La       Re-
-    lo cercai senza trovarlo.
-               Fa             Do
-    Trovai l’amore dell’anima mia,
-               Sib            Do      Re-
-    l’ho abbracciato e non lo lascerò mai.
+			   Fa             Do
+	Cercai l’amore dell’anima mia,
+		 Sol- La       Re-
+	lo cercai senza trovarlo.
+			   Fa             Do
+	Trovai l’amore dell’anima mia,
+			   Sib            Do      Re-
+	l’ho abbracciato e non lo lascerò mai.
 
 Alzati in fretta, mia diletta, 
 vieni colomba, vieni.
@@ -135,19 +135,19 @@ Come sigillo sul tuo cuore,
 come sigillo sul braccio.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="3" Titolo="Com'è bello" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="3" Titolo="Com'è bello" Genere="">
+			<Testo>
 Rit.  
-    La-   Re-
-    Com’è bello,
-                 La-      Mi
-    com’è bello, come dà gioia;
-    La-      Re-
-    che i fratelli, 
-                   La- Mi La-
-    che i fratelli stiano insieme.
+	La-   Re-
+	Com’è bello,
+				 La-      Mi
+	com’è bello, come dà gioia;
+	La-      Re-
+	che i fratelli, 
+				   La- Mi La-
+	che i fratelli stiano insieme.
 
 Fa      Sol           Do      Sol
 Come unguento che dal capo discende 
@@ -170,21 +170,21 @@ Li benedica il Signore dall’alto
 la vita Egli dona in eterno. (2v.)
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="4" Titolo="Sono io" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="4" Titolo="Sono io" Genere="">
+			<Testo>
 Rit:
-    Do   
-    Sono io,
-    La-
-    io, Signor
-        Fa         Sol    Do
-    che ho bisogno di pregar. (2v.)
-    
-        Do                           La-
+	Do   
+	Sono io,
+	La-
+	io, Signor
+		Fa         Sol    Do
+	che ho bisogno di pregar. (2v.)
+	
+		Do                           La-
 Non il diacono o il fratello, ma son io, Signor, 
-    Fa         Sol    Do
+	Fa         Sol    Do
 che ho bisogno di pregar.
 Non mia madre o mia sorella, ma son io, Signor, 
 che ho bisogno di pregar.
@@ -197,10 +197,10 @@ Per i poveri del mondo sono io, Signor,
 che ho bisogno di pregar.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="5" Titolo="Cantico di Osea" Genere="Inizio|Matrimonio">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="5" Titolo="Cantico di Osea" Genere="Inizio|Matrimonio">
+			<Testo>
 Mi- Si- Re
 Mi- Si- Do (Do Re)          
 
@@ -222,19 +222,19 @@ marito per te,
 marito sarò e non più Signore.
 
   Mi- Re Sol              Re
-    Ti farò mia sposa per sempre, 
-        La- Do    Mi-
-    ti farò mia sposa
+	Ti farò mia sposa per sempre, 
+		La- Do    Mi-
+	ti farò mia sposa
   Mi- Re     Sol                      Re    
-    nella giustizia, nel diritto, nel bene, nell’amor, 
-        La- Do    Mi-
-    ti farò mia sposa.
+	nella giustizia, nel diritto, nel bene, nell’amor, 
+		La- Do    Mi-
+	ti farò mia sposa.
   Mi- Sol Re                  Do
-    Ti fidanzerò con me nella fedeltà
-     Sol        Re
-    e tu conoscerai 
-              La-           Do       Re
-    quanto è grande il mio amore per te.
+	Ti fidanzerò con me nella fedeltà
+	 Sol        Re
+	e tu conoscerai 
+			  La-           Do       Re
+	quanto è grande il mio amore per te.
 
 In quel giorno risponderò al cielo 
 e il cielo alla terra parlerà,
@@ -248,10 +248,10 @@ ti condurrò nel mio amore
 e amata sarai 
 e mi chiamerai:
 Dio mio!            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="6" Titolo="Preghiera in si minore" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="6" Titolo="Preghiera in si minore" Genere="">
+			<Testo>
 Si-    La6+   Sol        Mi-         Si-
 Vivere attimi lungo i confini dell’anima
 Si-              La6+        Sol      Mi-      Si-
@@ -261,28 +261,28 @@ Strade che mentono e quante mani si alzano.
 
 Rit:
    Sol La Re     Mi-                    Si-       Si- La
-    E pregano la terra sorda che non risponde mai
-    Gridano verità che vivono un istante e poi bruciano
+	E pregano la terra sorda che non risponde mai
+	Gridano verità che vivono un istante e poi bruciano
 	      La6                    Sol    Mi- Si-
-    e aspettano un amore che non viene.
+	e aspettano un amore che non viene.
 
 Sei Tu l’acqua che questa mia sete può togliere
 Tu verità, la luce che non si spegne mai.
 
-    E io crederò anche se i miei occhi non vedono
-    cercherò le Tue vie;
-    nel Tuo nome avrò la mia libertà.
+	E io crederò anche se i miei occhi non vedono
+	cercherò le Tue vie;
+	nel Tuo nome avrò la mia libertà.
 
-    La6 Sol Mi- Si-
+	La6 Sol Mi- Si-
 	Si- La6 Sol Mi- Si-   Si- La 
 
-    E io crederò anche se i miei occhi non vedono
-    cercherò le Tue vie;
-    nel Tuo nome avrò la mia libertà.           
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="7" Titolo="Astro del ciel" Genere="Natale">
-            <Testo>
+	E io crederò anche se i miei occhi non vedono
+	cercherò le Tue vie;
+	nel Tuo nome avrò la mia libertà.           
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="7" Titolo="Astro del ciel" Genere="Natale">
+			<Testo>
 La
 Astro del ciel 
 Pargol divin 
@@ -295,7 +295,7 @@ Tu che angeliche voci annunziar.
 
 Mi              La
 Luce dona alle menti 
-        Mi        La   La7
+		Mi        La   La7
 pace infondi nei cuor. (2v.) 
 
 Astro del ciel 
@@ -306,13 +306,13 @@ Tu virgineo mistico fior.
 
 Luce dona alle menti 
 pace infondi nei cuor. (2v.)
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="8" Titolo="Spiritual" Genere="Fine">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="8" Titolo="Spiritual" Genere="Fine">
+			<Testo>
 Do               Fa    Do La-
 Dio del cielo se mi vorrai, 
-                    Re-       Sol    Do
+					Re-       Sol    Do
 in mezzo agli altri uomini mi cercherai. 
 Dio del cielo se mi cercherai, 
 nei campi di granturco mi troverai. 
@@ -333,7 +333,7 @@ Dio del cielo se mi vorrai amare,
 scendi dalle stelle e vienimi a salvare. (2v.) 
 Sol                     Re           Sol  Si-
 e se ci hai regalato il pianto ed il riso 
-              Mi-            La     Re
+			  Mi-            La     Re
 noi qui sulla terra non lo abbiamo diviso. (2v.)
 
 O Dio del cielo se mi vorrai amare 
@@ -348,65 +348,65 @@ nei campi di granturco mi troverai.
 Dio del cielo io Ti aspetterò, 
 nel cielo e sulla terra io Ti cercherò.
 O Dio del cielo. (5v.)          
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="9" Titolo="Inno alla parola" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="9" Titolo="Inno alla parola" Genere="">
+			<Testo>
 La                   Re   
 Nei giorni che non avevano tempo,
-                     La 
+					 La 
 viveva con Dio nel silenzio;
 La                 Re 
 parola che era la gioia e l’amore
-                        La
+						La
 fiorita in segreto all’immenso. 
-       Mi                  Fa#-     Re
-    In Lei è la forza del mondo, la vita,
-       Fa#-                        Si-
-    fu fatto da Lei lo spazio e il sol.   
-       Mi                  Fa#-     Re
-    Infuse la mente alla carne dell’uomo,
-       Fa#-      Sol#  Do#- Mi  
-    la terra per casa donò.
+	   Mi                  Fa#-     Re
+	In Lei è la forza del mondo, la vita,
+	   Fa#-                        Si-
+	fu fatto da Lei lo spazio e il sol.   
+	   Mi                  Fa#-     Re
+	Infuse la mente alla carne dell’uomo,
+	   Fa#-      Sol#  Do#- Mi  
+	la terra per casa donò.
 Nascendo poi nella storia del mondo,
 vedemmo tra noi la sua gloria;
 nel buio una luce era apparsa in un volto
 l’amore ebbe il nome di un uomo.
-    Il mondo di tenebre fugge la luce,
-    l’accoglie chi il cuore aprirà.
-    Credendo che quella parola è la vita,
-    Iddio per Padre avrà.
+	Il mondo di tenebre fugge la luce,
+	l’accoglie chi il cuore aprirà.
+	Credendo che quella parola è la vita,
+	Iddio per Padre avrà.
 Vivendo le nostre giornate ai poveri 
 annuncia il perdono e il suo regno;
 e come il seme per crescere grano 
 dovrà nella terra morire.
-    Così per dar vita fu uomo di croce,
-    vivente per Dio ritornò.
-    Signore del cielo speranza del mondo
-    la forza all’uomo donò.
+	Così per dar vita fu uomo di croce,
+	vivente per Dio ritornò.
+	Signore del cielo speranza del mondo
+	la forza all’uomo donò.
 Ci rese le ali per farci salire
 gli spazi abitati da Dio;
 ci disse che il mondo crescendo nel tempo
 matura il suo corpo di gloria.
-    L’immenso rimane con noi incarnato,
-    la luce tramonto non avrà.
-    La fede proclama il nostro Signore,
-    il Dio che vive con noi.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="10" Titolo="Camminerò" Genere="">
-            <Testo>
+	L’immenso rimane con noi incarnato,
+	la luce tramonto non avrà.
+	La fede proclama il nostro Signore,
+	il Dio che vive con noi.            
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="10" Titolo="Camminerò" Genere="">
+			<Testo>
 Do La- Re- Sol
 
 Rit:    
-    Do         La-
-    Camminerò, camminerò 
-    Re-                 Sol
-    nella Tua strada, Signor.
-    Do             La-
-    Dammi la mano, voglio restare 
-        Re-      Sol     Do
-    per sempre insieme a Te.
+	Do         La-
+	Camminerò, camminerò 
+	Re-                 Sol
+	nella Tua strada, Signor.
+	Do             La-
+	Dammi la mano, voglio restare 
+		Re-      Sol     Do
+	per sempre insieme a Te.
 
 Quando ero solo, solo e stanco del mondo,
 quando non c’era l’amor, 
@@ -435,10 +435,10 @@ son questi i doni che Lui fa per me
 e felice ritorno a cantar.      
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="11" Titolo="Lui ritornerà" Genere="Fine">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="11" Titolo="Lui ritornerà" Genere="Fine">
+			<Testo>
 Re La Do Sol
 Re La Sol
 
@@ -454,14 +454,14 @@ Ma la Tua parola suono senza fine
 voce che mi chiama e che non mi lascerà.
 
 Rit:    
-    Re  La     Re
-    Lui ritornerà,
-          Sol   La   Re  Re La 
-    io lo so, ritornerà
-    Sol   La   Re  La Si-
-    Lui ritornerà,
-          Sol    La    Re
-    io lo so, mi salverà.
+	Re  La     Re
+	Lui ritornerà,
+		  Sol   La   Re  Re La 
+	io lo so, ritornerà
+	Sol   La   Re  La Si-
+	Lui ritornerà,
+		  Sol    La    Re
+	io lo so, mi salverà.
 
 Dammi un cuore semplice, dammi la speranza
 non abbandonarmi, senza Te io che farò?
@@ -484,10 +484,10 @@ giorno dopo giorno, ora dopo ora
 sento già che si avvicina il momento in cui
 
 Rit.
-            </Testo>
-        </Canzone>
-        <Canzone Numero="12" Titolo="Prova a pensare" Genere="Comunione">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="12" Titolo="Prova a pensare" Genere="Comunione">
+			<Testo>
 Do Fa Do Sol
 La- Re- Fa Sol Do
 
@@ -497,7 +497,7 @@ Do                 Sol
 che se ne va via sicuro,
 La-               Re-
 posto fra solidi argini 
-      Fa Sol      Do
+	  Fa Sol      Do
 non avrà mai una crisi.
 Prova a pensare ad un albero 
 che se ne sta lì piantato, 
@@ -505,12 +505,12 @@ certo le sue radici
 non lo lasciano andare.
 
 Rit:
-    Do           Fa
-    Ma arriva il vento 
-    Do                 Sol
-    che muove tutte le cose 
-    Fa           Sol            Do    Fa Sol
-    non posso restare qui a guardare.
+	Do           Fa
+	Ma arriva il vento 
+	Do                 Sol
+	che muove tutte le cose 
+	Fa           Sol            Do    Fa Sol
+	non posso restare qui a guardare.
 
 Noi restavamo qui fermi 
 perché eravamo convinti 
@@ -533,29 +533,29 @@ tradizioni e pregiudizi
 che mi tenevano fermo.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="13" Titolo="Signor rimani con noi" Genere="Inizio">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="13" Titolo="Signor rimani con noi" Genere="Inizio">
+			<Testo>
 Fa Sib Fa Re- La- Do
 
 Rit:
-    Fa       Sib       Fa
-    Signor rimani con noi
-            Re-   La-       Do Do7
-    non lasciarci soli quaggiù.
-    Fa       Sib       Fa
-    Signor rimani con noi
-           Fa       Do   Sib Do
-    già discende la sera ormai
-        Mib       Fa
-    o… dimmi dove sei.
+	Fa       Sib       Fa
+	Signor rimani con noi
+			Re-   La-       Do Do7
+	non lasciarci soli quaggiù.
+	Fa       Sib       Fa
+	Signor rimani con noi
+		   Fa       Do   Sib Do
+	già discende la sera ormai
+		Mib       Fa
+	o… dimmi dove sei.
 
 Fa        Sib             Re-
 In questo giorno Ti ho cercato 
 Sol-                Sib          Do             Fa
 e la Tua mano finalmente ho ritrovato accanto a me
-        Sib        Re- 
+		Sib        Re- 
 e come luce del mattino 
 Sol-                   Sib     Do   Do7
 io ho avvertito la Tua voce Signor.
@@ -568,22 +568,22 @@ Se chiudo gli occhi la mia anima
 rivede fiumi di tranquillità. 
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="14" Titolo="Dolce silenzio" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="14" Titolo="Dolce silenzio" Genere="">
+			<Testo>
 Si- La Sol La Si-
 Si- La Sol Mi
 
 Rit.    
-    Si-     La   Sol
-    Dolce silenzio 
-             La Si-
-    in te cammino 
-              La Sol
-    fammi scoprire 
-                 Mi
-    Colui che estingue la mia sete.
+	Si-     La   Sol
+	Dolce silenzio 
+			 La Si-
+	in te cammino 
+			  La Sol
+	fammi scoprire 
+				 Mi
+	Colui che estingue la mia sete.
 
 Si-                        La     Sol             Fa#-      La
 Nella mia vita di tutti i giorni, ansie e paure sempre più grandi, 
@@ -599,10 +599,10 @@ Rit.
 O mio Signore Tu sei la strada, la mia fortezza nella tempesta 
 io Ti ringrazio Tu mi hai ascoltato, nella Tua casa mi hai voluto.
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="15" Titolo="Simbolum 77" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="15" Titolo="Simbolum 77" Genere="">
+			<Testo>
 Re-           Sib   Do           Fa
 Tu sei la mia vita, altro io non ho.
 Re-           Sib     Do         La7
@@ -636,10 +636,10 @@ Spirito d’amore vieni in mezzo a noi,
 Tu da mille strade ci raduni in unità,
 e per mille strade, poi, dove Tu vorrai,
 noi saremo il seme di Dio.          
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="16" Titolo="Simbolum 80" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="16" Titolo="Simbolum 80" Genere="">
+			<Testo>
 Re-                  Sol-             Re-
 Oltre le memorie del tempo che ho vissuto,
 Do                    La              La7
@@ -648,7 +648,7 @@ Re-                  Sol-             Re-
 Oltre il desiderio di vivere il presente,
 Do
 anch’io confesso ho chiesto
-    La         La7
+	La         La7
 che cosa è verità?
 Re La Si-        Fa#-
 E Tu come un desiderio 
@@ -660,19 +660,19 @@ Sol           Re     Mi      La
 come un tempo eterno sei per me.
 
 Rit:
-    Fa Do Re-          La-
-    Io so quanto amore chiede
-    Sib    Do      Fa
-    questa lunga attesa
-    Sol              Do
-    del Tuo giorno o Dio,
-    Fa           Do
-    luce in ogni cosa
-    Re-           La-
-    io non vedo ancora
-    Sib         Fa   Sol        La
-    ma la Tua parola mi rischiarerà.
-    
+	Fa Do Re-          La-
+	Io so quanto amore chiede
+	Sib    Do      Fa
+	questa lunga attesa
+	Sol              Do
+	del Tuo giorno o Dio,
+	Fa           Do
+	luce in ogni cosa
+	Re-           La-
+	io non vedo ancora
+	Sib         Fa   Sol        La
+	ma la Tua parola mi rischiarerà.
+	
 Quando le parole non bastano all’amore,
 quando il mio fratello domanda più del pane.
 Quando l’illusione promette un mondo nuovo,
@@ -694,10 +694,10 @@ grembo di ogni cosa, tenerezza immensa,
 verità dell’uomo sei per me.    
 
 Rit.                            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="17" Titolo="Tu sei l'aurora" Genere="Comunione">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="17" Titolo="Tu sei l'aurora" Genere="Comunione">
+			<Testo>
 Re- Do Sib Do (2 volte)
 
 Re- Do         Sib-       Do  Re- Do Sib Do
@@ -706,13 +706,13 @@ Re- Do         Sib-   Do           Re- Do Sib Do
 e per i Tuoi sentieri dirigi i miei passi.
 Fa Do           Re-    Do/Sib    Fa
 Ma certe volte, sai, abbasso gli occhi
-       Do          Sib Do      
+	   Do          Sib Do      
 e la paura sale in me
 Fa   Do        Re- 
 e allora Tu lo sai
 Do/Sib  Fa            Do      Sib
 senza volerlo mi allontano da Te
-      Do
+	  Do
 che m’ami.
 
 Abbi pietà di me, pietà del mio pianto
@@ -738,21 +738,21 @@ Sol Re       Mi- Re/Do      Sol       Re-        Do Re
 e allora io sarò ciò che da sempre volevi Tu per me
 Sol  Re       Mi- Re/Do Sol         Re          Do  Re  Mi-
 e allora canterò e finalmente Padre io ti chiamerò.
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="18" Titolo="Laudato si’" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="18" Titolo="Laudato si’" Genere="">
+			<Testo>
 Do La- Fa Sol
 
 Rit:    
-    Do
-    Laudato si’, o mio Signore
-    La-
-    Laudato si’, o mio Signore
-    Fa
-    Laudato si’, o mio Signore
-    Sol
-    Laudato si’, o mio Signore
+	Do
+	Laudato si’, o mio Signore
+	La-
+	Laudato si’, o mio Signore
+	Fa
+	Laudato si’, o mio Signore
+	Sol
+	Laudato si’, o mio Signore
 
 E per tutte le Tue creature,
 per il sole e per il vento,
@@ -781,17 +781,17 @@ e perché la nostra vita
 sia sempre una canzone.     
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="19" Titolo="Quanta strada" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="19" Titolo="Quanta strada" Genere="">
+			<Testo>
 Rit:
-    Do               Fa        Do  La-
-    Quanta strada ancora dovrò far 
+	Do               Fa        Do  La-
+	Quanta strada ancora dovrò far 
 	Fa           Sol           Do Sol
-    per vedere ancora il mio Signor.
-    Tutte le speranze sono in me  
-    per trovare poi la verità.
+	per vedere ancora il mio Signor.
+	Tutte le speranze sono in me  
+	per trovare poi la verità.
 
 Fa        Do             Fa
 Tutto il mondo, un mondo è 
@@ -807,23 +807,23 @@ aperta per tutti, per tutti è
 e Lui ci sta aspettando come un padre per noi.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="20" Titolo="Disegno" Genere="">
-            <Testo>
-    La-        Fa         Sol      Do
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="20" Titolo="Disegno" Genere="">
+			<Testo>
+	La-        Fa         Sol      Do
 Nel mare del silenzio una voce si alzò,
 da una notte senza confini una luce brillò
-         Fa                 Mi
+		 Fa                 Mi
 dove non c’era niente quel giorno…
 
 Rit.    
-    La-           Re-        Sol            Do  
-    Avevi scritto già il mio nome lassù nel cielo,
-    La-           Re-        Sol            Do  
-    avevi scritto già la mia vita insieme a Te
+	La-           Re-        Sol            Do  
+	Avevi scritto già il mio nome lassù nel cielo,
+	La-           Re-        Sol            Do  
+	avevi scritto già la mia vita insieme a Te
 	       Fa            Mi
-    avevi scritto già di me.
+	avevi scritto già di me.
 
 E quando la Tua mente fece splendere le stelle,
 e quando le Tue mani modellarono la terra
@@ -849,48 +849,48 @@ non cercherò più niente perché…
 Tu mi salverai.                     
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="21" Titolo="Ho pregato il mio Signor" Genere="Comunione">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="21" Titolo="Ho pregato il mio Signor" Genere="Comunione">
+			<Testo>
 Do Fa7+ Do Fa7+
 
 Do
 Ho pregato il mio Signor
-       Fa7+
+	   Fa7+
 Lui si è chinato verso me
    Do
 il mio peccato è vinto
-     Fa7+
+	 Fa7+
 sono fuori dal dolor
 
 Rit:
-         Do
-    Canterò
-           Fa7+
-    una canzone
-         Do
-    Loderò
-           Fa7+  Do Sol
-    il Tuo nome.
-                    
-         Do
-    Da quanto
-            Fa7+
-    tempo ormai
-        Do
-    io sto
-             Fa7+
-    aspettando Te.
-                 
-        Do               
-    Da quanto
-      Fa7+
-    Ormai
-      Do     Fa7+
-    aspetto Te.
-           Do      Fa7+
-    O mio Signor.
+		 Do
+	Canterò
+		   Fa7+
+	una canzone
+		 Do
+	Loderò
+		   Fa7+  Do Sol
+	il Tuo nome.
+					
+		 Do
+	Da quanto
+			Fa7+
+	tempo ormai
+		Do
+	io sto
+			 Fa7+
+	aspettando Te.
+				 
+		Do               
+	Da quanto
+	  Fa7+
+	Ormai
+	  Do     Fa7+
+	aspetto Te.
+		   Do      Fa7+
+	O mio Signor.
 
 Cammino sulla pietra
 il mio passo va sicuro
@@ -898,23 +898,23 @@ molti vedranno
 molti udranno Te.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="22" Titolo="Beato l’uomo" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="22" Titolo="Beato l’uomo" Genere="">
+			<Testo>
 Rit:
-            La-          
-    Beato l’uomo che retto procede 
+			La-          
+	Beato l’uomo che retto procede 
 	      Sol                        Do
-    e non entra al consiglio con gli empi 
+	e non entra al consiglio con gli empi 
 	      Re-                    La-
-    e non va per la via dei peccatori 
+	e non va per la via dei peccatori 
 	        Re-       Mi         La-
-    nel convegno dei tristi non siede.
+	nel convegno dei tristi non siede.
 
-      Do           Sol
+	  Do           Sol
 Nella legge del Signore 
-     Fa    Mi      La-
+	 Fa    Mi      La-
 ha riposto la sua gioia,
 se l’è scritta sulle porte 
 e la medita di giorno e di notte    
@@ -941,24 +941,24 @@ Me l’hai detto son sicuro
 non potrai scordarti di me.     
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="23" Titolo="Signore pietà" Genere="Introduzione">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="23" Titolo="Signore pietà" Genere="Introduzione">
+			<Testo>
   Mi-     Sol     Do     Mi-  
 Signore pietà, pietà di noi
   Do      La-    Si7
 Signore pietà di noi
 
-    Cristo pietà, pietà di noi
-    Cristo pietà di noi
+	Cristo pietà, pietà di noi
+	Cristo pietà di noi
 
 Signore pietà, pietà di noi
 Signore pietà di noi        (2v.)           
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="24" Titolo="Gloria" Genere="Introduzione">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="24" Titolo="Gloria" Genere="Introduzione">
+			<Testo>
 Re La Re Sol/La
 Gloria, 
 Re La Re Sol/La
@@ -989,7 +989,7 @@ immensa
 Fa#
 Si-                 Fa#-       Sol
 Signore Figlio unigenito, Gesù Cristo
-    La   Re Fa#- Si-    La   Sol       Fa#4 Fa#
+	La   Re Fa#- Si-    La   Sol       Fa#4 Fa#
 Signore Dio, Agnello di Dio, Figlio del Padre
 Si-              Fa#-   Si-            Fa#-
 Tu che togli i peccati, i peccati del mondo 
@@ -1010,40 +1010,40 @@ Nella gloria di Dio Padre - Amen
 Con lo Spirito Santo                            
 Nella gloria di Dio Padre - Amen
 Nella gloria di Dio Padre - Amen            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="25" Titolo="Vocazione" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="25" Titolo="Vocazione" Genere="">
+			<Testo>
 Do            Sol         Fa
 Era un giorno come tanti altri
-      Sol          Do    Fa Do Sol
+	  Sol          Do    Fa Do Sol
 e quel giorno Lui passò.
 Do          Sol             Fa
 Era un uomo come tutti gli altri 
-     Sol       Do    Re- Do Mi
+	 Sol       Do    Re- Do Mi
 e passando mi chiamò.
 La-       Sol              Fa
 Come lo sapesse che il mio nome 
-    Sol
+	Sol
 era proprio quello
 Do       Sol             Fa
 come mai vedesse proprio me 
-          Sol         Do Fa Do Sol
+		  Sol         Do Fa Do Sol
 nella sua vita non lo so.
 Do            Sol          Fa
 Era un giorno come tanti altri  
-       Sol           Do  Re- Do Mi
+	   Sol           Do  Re- Do Mi
 e quel giorno mi chiamò.        
 
 Rit:
 	La- Sol  Fa             Sol
-    Tu, Dio, che conosci il nome mio,
+	Tu, Dio, che conosci il nome mio,
 	La- Sol  Fa           Sol
-    fa che ascoltando la Tua voce
+	fa che ascoltando la Tua voce
 	Do     Sol      Fa            Sol
-    io ricordi dove porta la mia strada
+	io ricordi dove porta la mia strada
 	 Do   Sol         Fa         Do Fa Do Sol
-    nella vita, all’incontro con Te.
+	nella vita, all’incontro con Te.
 
 Era l’alba triste e senza vita
 e qualcuno mi chiamò.
@@ -1057,23 +1057,23 @@ Era un uomo come nessun altro
 e quel giorno mi chiamò.        
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="26" Titolo="Un'altra umanità" Genere="">
-            <Testo>
-    La                                Fa#-
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="26" Titolo="Un'altra umanità" Genere="">
+			<Testo>
+	La                                Fa#-
 “Ma dove andremo a finire se continua così?
-     La                                  Fa#-
+	 La                                  Fa#-
 - si sente spesso dire dalla gente qua e là -
 Re         
 Continua violenza, scandali, imbrogli e mali:
 Mi
 dove sono finiti i veri, grandi ideali?”                
-    La                                   Fa#-
+	La                                   Fa#-
 È vero, il mondo oggi si dipinge a tinte scure,
-     La                                     Fa#-
+	 La                                     Fa#-
 si esaltano gli equivoci, le scene crude e dure,
-        Re 
+		Re 
 soldi e facili successi col “piglia, usa e getta”.
 Mi                                             Re Mi
 Però, mi si permetta:non è questa la sola umanità.
@@ -1084,7 +1084,7 @@ Fa#-
 quella che spesso incontro per la strada;
 Re
 quella che non grida, quella che non schiaccia 
-    La                    Mi
+	La                    Mi
 per emergere sull'altra gente.
 Conosco un'altra umanità 
 quella che non sa rubare per avere, 
@@ -1093,9 +1093,9 @@ Re La  Fa#-
 Credo in questa umanità.
 Re La Re             Mi
 Credo in questa umanità
-    Fa#-                     Re
+	Fa#-                     Re
 che vive nel silenzio, che ancora sa arrossire
-                 La            Fa#-
+				 La            Fa#-
 sa abbassare gli occhi e sa scusare.
 Re             Mi               Re
 Questa è l'umanità che mi fa sperare.
@@ -1111,13 +1111,13 @@ Credo, credo in questa umanità
 che abbatte le frontiere, che paga di persona,
 che non usa armi, ma sa usare il cuore.
 Questa è l'umanità che crede nell'amore.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="27" Titolo="Preghiera" Genere="">
-            <Testo>
-      Re              Sol
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="27" Titolo="Preghiera" Genere="">
+			<Testo>
+	  Re              Sol
 Ti ho chiesto Signore forza 
-    La                Re
+	La                Re
 per compiere grandi imprese, 
 Si-               Mi-
 ma Tu mi hai reso debole 
@@ -1147,21 +1147,21 @@ Alle mie preghiere non dette hai dato risposta
 io Ti ringrazio o mio Signore e Ti rendo il mio cuore; 
 alle mie preghiere non dette hai dato risposta 
 io Ti ringrazio o mio Signore e Ti rendo il mio cuore.          
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="28" Titolo="Non fermarti ora" Genere="Fine">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="28" Titolo="Non fermarti ora" Genere="Fine">
+			<Testo>
 Do              Do4 Do
 Non fermarti ora 
-                   Sol
+				   Sol
 non credere alla notte
 Re-          Fa 
 non fermarti mai 
-      Do         Sol
+	  Do         Sol
 non cadere nella trappola 
-        Re-   
+		Re-   
 non lasciarti ingannare 
-     Sol
+	 Sol
 non farti trascinare giù.
 
 Non fermarti mai 
@@ -1173,13 +1173,13 @@ tu non sarai mai solo.*
 
 Do        
 Sì, finirà
-       La-                  Fa 
+	   La-                  Fa 
 questa nebbia che porta nel mondo 
-          Do
+		  Do
 l’indifferenza; 
 La-
 finirà questa notte 
-       Fa                    Do
+	   Fa                    Do
 e gli uomini potranno incontrarsi.
    Do
 Io credo nell’amore 
@@ -1187,20 +1187,20 @@ La-         Fa
 credo nell’amore 
 Do                    La-      Fa
 anche se intorno a me vedo solitudine 
-       Do    Sol
+	   Do    Sol
 solo dolore.
 
 Rit:
-    Do    Sol     La-        Sol
-    Credo che l’amore è più grande 
-    Credo che l’amore è più forte
-    Credo che l’amore vincerà. (2v.)
+	Do    Sol     La-        Sol
+	Credo che l’amore è più grande 
+	Credo che l’amore è più forte
+	Credo che l’amore vincerà. (2v.)
 
 (Da capo fino a * e poi Rit.)           
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="29" Titolo="Hopes of peace" Genere="Scambio della pace">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="29" Titolo="Hopes of peace" Genere="Scambio della pace">
+			<Testo>
 Do             Fa           Do
 Senti il cuore della tua città,
 La-          Fa              Do
@@ -1210,14 +1210,14 @@ sembra una canzone muta che
 Fa            Sol      Do
 cerca un’alba di serenità.
 
-    Do(Re)    Fa(Sol)      Do(Re)
-    Semina la pace e tu vedrai,
-    La-(Si-)    Fa(Sol)      Do(Re)
-    che la tua speranza rivivrà;
+	Do(Re)    Fa(Sol)      Do(Re)
+	Semina la pace e tu vedrai,
+	La-(Si-)    Fa(Sol)      Do(Re)
+	che la tua speranza rivivrà;
 	Do(Re)        Fa(Sol)    Do(Re) Mi-(Fa#-) La-(Si-) Sol(La)
-    spine tra le mani piangerai,
+	spine tra le mani piangerai,
 	Fa(Sol)      Sol(La)   Do(Re Re7)
-    ma un mondo nuovo nascerà. (2v.)
+	ma un mondo nuovo nascerà. (2v.)
 
 Sol La        Re    Fa#   Si- La
 Sì nascerà il mondo della pace:
@@ -1225,10 +1225,10 @@ di guerra non si parlerà mai più.
 La pace è un dono che il Signore ci darà,
    Sol                La Sol Re
 un sogno che si avvererà.           
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="30" Titolo="Ave Maria" Genere="Maria">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="30" Titolo="Ave Maria" Genere="Maria">
+			<Testo>
 Mi-   La-7 Re           Mi-
 Ave Maria il Signore è con Te 
 Tu sei benedetta fra tutte le donne 
@@ -1253,13 +1253,13 @@ Tu sei stata scelta come madre per noi
 Benedetto il frutto del seno Tuo, Gesù 
 Ave Maria prega per noi peccatori 
 Adesso e nell’ora della nostra morte            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="31" Titolo="Le mie radici" Genere="Comunione">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="31" Titolo="Le mie radici" Genere="Comunione">
+			<Testo>
 Re-             La-                      Sib
 Sono nato di mattino in un bosco che non so,
-                       Fa 
+					   Fa 
 voci e suoni intorno a me.
 Ho ascoltato nel silenzio, la Tua voce mi chiamava, 
 non vedevo il volto Tuo.
@@ -1267,15 +1267,15 @@ Troppo buio questa sera, ad un tratto Ti ho chiamato
 e sei già vicino a me.
 
 Rit.    
-        Re-         Sol
-    Ho trovato una terra nuova 
-        Do           Fa
-    per piantare le mie radici,
-    salirò verso il cielo aperto, 
-    abbracciando coi rami il sole.  
-    Crescerò nei miei frutti nuovi                      
-                                 Re- Sol
-    e nel vento la vita canterò. 
+		Re-         Sol
+	Ho trovato una terra nuova 
+		Do           Fa
+	per piantare le mie radici,
+	salirò verso il cielo aperto, 
+	abbracciando coi rami il sole.  
+	Crescerò nei miei frutti nuovi                      
+								 Re- Sol
+	e nel vento la vita canterò. 
 
 Quanta voglia sentirò di fuggire via da qui 
 quando il freddo arriverà.
@@ -1293,21 +1293,21 @@ che dà vita ad ogni cosa (e ripete all’infinito)
 l’immagine di Dio vivo dentro una preghiera
 che si leva nel silenzio (di un creato tutto in festa)
 
-    Ti ho trovato vivo in me, 
-    Ti ho trovato vivo in me.               
-    
+	Ti ho trovato vivo in me, 
+	Ti ho trovato vivo in me.               
+	
 Rit.
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="32" Titolo="Avvento" Genere="Natale">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="32" Titolo="Avvento" Genere="Natale">
+			<Testo>
 La-   Sol     Fa
 Sento parole nuove 
 Re-       Mi-        La-
 voce che soffia nel vento 
 La-   Sol        Do
 eco leggera del pianto 
-    Fa    Do    Sol  Sol Sol#
+	Fa    Do    Sol  Sol Sol#
 che dalle terra sale.
 Alba che si avvicina 
 onda che cresce nel tempo 
@@ -1343,10 +1343,10 @@ luce che i pensieri guarirà.
 
 Mi alzerò dalla povertà di starTi lontano 
 e Ti vedrò e Tu chiamerai per nome la mia realtà.
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="33" Titolo="La libertà" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="33" Titolo="La libertà" Genere="">
+			<Testo>
 Do   Fa7+       Do Fa7+
 Come tanti anni fa 
 nella terra dell’Egitto 
@@ -1358,14 +1358,14 @@ la tristezza mi accompagna
 nei giorni più neri.
 
 Rit.   
-    Do                       La-
-    Mai nessuno al mondo incatenerà 
-           Re- Fa Do
-    la mia libertà; 
-    Mi-                       La-
-    mai nessuno al mondo mi dividerà 
-          Re- Fa Do     Fa Sol
-    dalla libertà. (2v.)
+	Do                       La-
+	Mai nessuno al mondo incatenerà 
+		   Re- Fa Do
+	la mia libertà; 
+	Mi-                       La-
+	mai nessuno al mondo mi dividerà 
+		  Re- Fa Do     Fa Sol
+	dalla libertà. (2v.)
 
 Scende piano il sole 
 nei campi di cotone 
@@ -1377,60 +1377,60 @@ che la speranza non è morta
 vive qui in mezzo a noi.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="34" Titolo="Grandi cose" Genere="Inizio">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="34" Titolo="Grandi cose" Genere="Inizio">
+			<Testo>
 Rit:
-    Do     Sol           Re-    La-
-    Grandi cose ha fatto il Signore per noi
-    Do       Fa             Do           Sol
-    ha fatto germogliare i fiori fra le rocce.  
-    Grandi cose ha fatto il Signore per noi
-    ci ha riportati liberi alla nostra terra;
-    La-                Re-            Mi-
-    ed ora possiamo cantare, possiamo gridare
-                Fa                Sol
-    l’amore che Dio ha versato su noi.
+	Do     Sol           Re-    La-
+	Grandi cose ha fatto il Signore per noi
+	Do       Fa             Do           Sol
+	ha fatto germogliare i fiori fra le rocce.  
+	Grandi cose ha fatto il Signore per noi
+	ci ha riportati liberi alla nostra terra;
+	La-                Re-            Mi-
+	ed ora possiamo cantare, possiamo gridare
+				Fa                Sol
+	l’amore che Dio ha versato su noi.
 
 Tu che sai strappare dalla morte hai sollevato il nostro viso dalla polvere. Tu che hai sentito il nostro pianto
 nel nostro cuore hai messo un seme di felicità.
 
 Rit.
-            </Testo> 
-        </Canzone>
-        <Canzone Numero="35" Titolo="Servo per amore" Genere="Comunione|Maria">
-            <Testo>
+			</Testo> 
+		</Canzone>
+		<Canzone Numero="35" Titolo="Servo per amore" Genere="Comunione|Maria">
+			<Testo>
 Si-
 Una notte di sudore
-                         Re
+						 Re
 sulla barca in mezzo al mare
-             La              Fa#-             
+			 La              Fa#-             
 e mentre il cielo s'imbianca già
    Sol                Si-
 tu guardi le tue reti vuote;
-      Re
+	  Re
 ma la voce che ti chiama
-         La            Re
+		 La            Re
 un altro mare ti mostrerà
-         Sol            Re
+		 Sol            Re
 e sulle rive di ogni cuore
-        Mi- Sol   Re
+		Mi- Sol   Re
 le tue reti getterai.
 
 Rit:
-    Si-
-    Offri la vita tua
+	Si-
+	Offri la vita tua
  La Re     La     Fa#-         Sol
-    come Maria ai piedi della croce
-       Si-
-    e sarai
+	come Maria ai piedi della croce
+	   Si-
+	e sarai
  La Re            La    
-    servo di ogni uomo
-    Re        Sol
-    servo per amore
-    Re        Mi-   Sol Re
-    sacerdote dell'umanità.
+	servo di ogni uomo
+	Re        Sol
+	servo per amore
+	Re        Mi-   Sol Re
+	sacerdote dell'umanità.
 
 Avanzavi nel silenzio
 fra le lacrime e speravi
@@ -1442,20 +1442,20 @@ perché il grano biondeggia ormai
 puoi riporlo nei granai.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="36" Titolo="Incontro" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="36" Titolo="Incontro" Genere="">
+			<Testo>
 La- Sol La- Sol
 Do Do7+     Fa7+ Fa
 Cosa accadrà 
-      Do Do7+       Fa7+ Fa
+	  Do Do7+       Fa7+ Fa
 della foglia e del sole 
-        Re-                Re-7
+		Re-                Re-7
 fioca è già la luce della lampada 
-     Sol                                 La-     La-7
+	 Sol                                 La-     La-7
 e la pioggia sta cadendo e bagna il marciapiede.
-         Re-              Re-7
+		 Re-              Re-7
 Non sei libero, non sei diverso 
   Sol                             La-     
 è solo la frustata obliqua della pioggia.
@@ -1489,19 +1489,19 @@ Tu sei il silenzio, questo grande tacere
 fammi libero da ogni suono di voce 
 ed entra in me con il Tuo essere, 
 come il vento tra le spighe.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="37" Titolo="Dove Tu sei" Genere="Comunione">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="37" Titolo="Dove Tu sei" Genere="Comunione">
+			<Testo>
 Do                    Fa
 Dove Tu sei, torna la vita
-        Do                 Mi-
+		Do                 Mi-
 Dove Tu passi fiorisce il deserto
-         Fa                     Do
+		 Fa                     Do
 Dove Tu guardi si rischiara il cielo
-     Sol-      Re-   Fa-      Do
+	 Sol-      Re-   Fa-      Do
 E in fondo al cuore torna il sereno
-        Fa           La- Dodim Do Sol La-   Fa
+		Fa           La- Dodim Do Sol La-   Fa
 Dove Tu sei, dove Tu sei.
 
 Dove Tu sei, torna la vita
@@ -1511,10 +1511,10 @@ E in fondo al cuore torna il sereno
 Dove Tu sei, dove Tu sei.
 Fa                     Fa- Do
 Dove Tu sei, torna la vita.         
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="38" Titolo="Fratello sole" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="38" Titolo="Fratello sole" Genere="">
+			<Testo>
 Do        Mi-
 Dolce sentire 
 Fa   Sol      Do    Do Mi-
@@ -1530,9 +1530,9 @@ ma che son parte
 di una immensa vita: 
 La- Mi- Do      Re-      Sol     Do
 che generosa risplende intorno a me.
-    La- Mi- Do      Re-      Sol     Do Mi- La-
-    Dono di Lui e del suo immenso amor.
-    Dono di Lui e del suo immenso amor.
+	La- Mi- Do      Re-      Sol     Do Mi- La-
+	Dono di Lui e del suo immenso amor.
+	Dono di Lui e del suo immenso amor.
 
 Ci ha dato i cieli 
 e le chiare stelle, 
@@ -1544,34 +1544,34 @@ il fuoco e il vento,
 l’aria e l’acqua pura, 
 fonte di vita per le sue creature.
 
-    Dono di Lui e del Suo immenso amor.
-    Dono di Lui e del Suo immenso amor.         
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="39" Titolo="Benedici o Signore" Genere="Offertorio">
-            <Testo>
+	Dono di Lui e del Suo immenso amor.
+	Dono di Lui e del Suo immenso amor.         
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="39" Titolo="Benedici o Signore" Genere="Offertorio">
+			<Testo>
 La-9 La- La-4
 La-                              Sol
 Nebbia e freddo, giorni lunghi e amari
-                La-
+				La-
 mentre il seme muore.
 Do                              Sol
 Poi il prodigio antico e sempre nuovo
-                 Fa7+
+				 Fa7+
 del primo filo d’erba.
-       Do        Sol       La-         Do
+	   Do        Sol       La-         Do
 E nel vento dell’estate ondeggiano le spighe:
  Sol          Mi La
 avremo ancora pane.
 
-    Re   La   Re  La
-    Benedici, o Signore 
-    Sol       Re        Mi
-    questa offerta che portiamo a Te
-    Re    La  Fa#-    Do#-
-    Facci uno come il pane
-    Si        Re       La   
-    che anche oggi hai dato a noi.
+	Re   La   Re  La
+	Benedici, o Signore 
+	Sol       Re        Mi
+	questa offerta che portiamo a Te
+	Re    La  Fa#-    Do#-
+	Facci uno come il pane
+	Si        Re       La   
+	che anche oggi hai dato a noi.
 
 Nei filari, dopo il lungo inverno 
 fremono le viti.
@@ -1580,17 +1580,17 @@ i primi tralci verdi.
 Poi i colori dell’autunno coi grappoli maturi: 
 avremo ancora vino.
 
-    Benedici, o Signore
-    questa offerta che portiamo a Te
-    Facci uno come il vino 
-    che anche oggi hai dato a noi.          
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="40" Titolo="Risposta (Rosy)" Genere="">
-            <Testo>
+	Benedici, o Signore
+	questa offerta che portiamo a Te
+	Facci uno come il vino 
+	che anche oggi hai dato a noi.          
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="40" Titolo="Risposta (Rosy)" Genere="">
+			<Testo>
 Do       Fa      Do Mi- La-
 Quante strade un uomo farà 
-    Do         Fa        Sol
+	Do         Fa        Sol
 finché uomo tu lo potrai dir.
 Quanti mari una bianca colomba vedrà 
 per poter sulla sabbia dormir.
@@ -1599,9 +1599,9 @@ finché più nessun uomo le avrà.
 
 Rit:
 	Fa     Sol     Do  Mi-  La-
-    Amico, se il vento ascolterai 
+	Amico, se il vento ascolterai 
 	Fa           Sol       Do Do7
-    Risposta nel vento tu avrai (2v.)
+	Risposta nel vento tu avrai (2v.)
 
 Quanti anni dovrà una montagna aspettar 
 perché il mare la possa lavar.
@@ -1620,20 +1620,20 @@ Quante morti ci vogliano per farti dir
 che son troppi innocenti a morir.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="41" Titolo="Vieni Spirito di Dio" Genere="Offertorio">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="41" Titolo="Vieni Spirito di Dio" Genere="Offertorio">
+			<Testo>
 Rit:
-    Mi    Sol#-      La   Si
-    Vieni spirito di Dio
-               Mi  Fa#- La Si
-    in mezzo a noi
-    manda la tua luce a chi
-    l’attende già.
+	Mi    Sol#-      La   Si
+	Vieni spirito di Dio
+			   Mi  Fa#- La Si
+	in mezzo a noi
+	manda la tua luce a chi
+	l’attende già.
 Fa#-        Do#-
 Tu parola eterna
-     La          Mi
+	 La          Mi
 che riempi l’universo
 Fa#-       Do#-        Si
 se mi guiderai non mi perderò.
@@ -1660,10 +1660,10 @@ perché possa gridare
 che ogni cosa è piena del Tuo amore.                    
 
 Rit.                                
-            </Testo> 
-        </Canzone>
-        <Canzone Numero="42" Titolo="Cantico di San Damiano" Genere="">
-            <Testo>
+			</Testo> 
+		</Canzone>
+		<Canzone Numero="42" Titolo="Cantico di San Damiano" Genere="">
+			<Testo>
 Re   La   Re   La
 Ogni uomo semplice 
 porta in cuore un sogno
@@ -1673,12 +1673,12 @@ Se con fede tu saprai
 vivere umilmente
 più felice tu sarai 
 anche senza niente
-    Mi        Sol
-    Se vorrai ogni giorno 
-    Re         La
-    con il tuo sudor    
-    una pietra dopo l’altra 
-    alto arriverai.
+	Mi        Sol
+	Se vorrai ogni giorno 
+	Re         La
+	con il tuo sudor    
+	una pietra dopo l’altra 
+	alto arriverai.
 
 Nella vita semplice
 troverai la strada
@@ -1688,29 +1688,29 @@ E le gioie semplici
 sono le più belle
 sono quelle che alla fine 
 sono le più grandi.
-    Dai e dai ogni giorno
-    con il tuo sudor
-    una pietra dopo l’altra
-    alto arriverai.         
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="43" Titolo="Vieni Spirito di Cristo" Genere="">
-            <Testo>
+	Dai e dai ogni giorno
+	con il tuo sudor
+	una pietra dopo l’altra
+	alto arriverai.         
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="43" Titolo="Vieni Spirito di Cristo" Genere="">
+			<Testo>
 Rit:
 	Mi-
-    Vieni, vieni, 
+	Vieni, vieni, 
 	La-
-    Spirito d’amore, 
+	Spirito d’amore, 
 	Mi-                    Si-
-    ad insegnar le cose di Dio.
+	ad insegnar le cose di Dio.
 	Mi-
-    Vieni, vieni, 
+	Vieni, vieni, 
 	La-
-    Spirito di pace, 
+	Spirito di pace, 
 	  Mi-             
-    a suggerir le cose 
+	a suggerir le cose 
 	    Si-            Mi-
-    che Lui ha detto a noi.
+	che Lui ha detto a noi.
 
 
 Noi ti invochiamo, 
@@ -1739,23 +1739,23 @@ insegnaci la via,
 insegnaci Tu l’unità.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="44" Titolo="Nessuno sa" Genere="Quaresima">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="44" Titolo="Nessuno sa" Genere="Quaresima">
+			<Testo>
 Rit:
 	Do      Fa
-    Nessuno sa 
+	Nessuno sa 
 	Do       La-
-    il mio dolor, 
+	il mio dolor, 
 	Do        Fa       Sol
-    ma ben lo sa il Signore.
+	ma ben lo sa il Signore.
 	Do      Fa
-    Nessuno sa 
+	Nessuno sa 
 	Do       La-
-    il mio dolor, 
+	il mio dolor, 
 	Do    Sol    Do
-    glory alleluia.
+	glory alleluia.
 
 Or triste, or muto, 
 or lieto son, o Signor.
@@ -1770,10 +1770,10 @@ A tutti dite
 che verrò, o Signor.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="45" Titolo="Padre nostro" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="45" Titolo="Padre nostro" Genere="">
+			<Testo>
 Do    Sol             La-  Sol
 Padre nostro che nei cieli stai, 
 sia santificato il nome Tuo. 
@@ -1781,7 +1781,7 @@ Do        Do7
 Venga il regno 
   Fa
 e la Tua volontà 
-    Do            Sol    La-     Sol
+	Do            Sol    La-     Sol
 sia fatta come in cielo così fra noi.
 
 Dacci anche oggi il nostro pane 
@@ -1793,10 +1793,10 @@ Ti preghiamo, non permettere
 che cediamo nella prova 
 ma dal male liberaci Tu 
 che sei nostro Padre.           
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="46" Titolo="Su ali d’aquila" Genere="Comunione">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="46" Titolo="Su ali d’aquila" Genere="Comunione">
+			<Testo>
 Fa7+              Do7+
 Tu che abiti al riparo del Signore
 Fa7+                  Do7+
@@ -1808,15 +1808,15 @@ mia roccia in cui confido.”
 
 Rit:
 	Do                Do7+
-    E ti rialzerà, ti solleverà
+	E ti rialzerà, ti solleverà
 	       Re- Re-7 Sol Sol7
-    su ali d’aquila ti reggerà
+	su ali d’aquila ti reggerà
 	      Sol-        Do7       Fa     Re-
-    sulla brezza dell’alba ti farà brillar
+	sulla brezza dell’alba ti farà brillar
 	         La- Mi-7
-    come il sole, 
+	come il sole, 
 	Re-7           Sol7   Do   Do7
-    così nelle sue mani vivrai.
+	così nelle sue mani vivrai.
 
 Dal laccio del cacciatore ti libererà
 e dalla carestia che distrugge.
@@ -1839,22 +1839,22 @@ contro la pietra non inciamperai.
 
 Rit.
 
-    E ti rialzerò, ti solleverò
-    su ali d’aquila ti reggerò
-    sulla brezza dell’alba ti farò brillar
-    come il sole, 
-    così nelle mie mani vivrai.         
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="47" Titolo="Dio è amore" Genere="Comunione">
-            <Testo>
+	E ti rialzerò, ti solleverò
+	su ali d’aquila ti reggerò
+	sulla brezza dell’alba ti farò brillar
+	come il sole, 
+	così nelle mie mani vivrai.         
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="47" Titolo="Dio è amore" Genere="Comunione">
+			<Testo>
 Re           La      Si-
 E ritorna la luna in cielo, 
-       Sol           La
+	   Sol           La
 grande segno del suo amore, 
-      Re            La Si-
+	  Re            La Si-
 dolce fiore che non sa morire, 
-        Do                Sol La
+		Do                Sol La
 che accarezza il tuo davanzale.
 
 Ma che cosa ti posso offrire, 
@@ -1862,10 +1862,10 @@ quale dono posso innalzare,
 il mio cuore non sa cantare, 
 il Tuo canto l’ha già estasiato.
 
-     Re     La    Si-   Sol
+	 Re     La    Si-   Sol
 Rit: Dio è amore, Dio è amore
-     Re     La    Si-   Sol La
-     Dio è amore, Dio è amore
+	 Re     La    Si-   Sol La
+	 Dio è amore, Dio è amore
 
 Tanti giorni passati in fretta, 
 senza chiedermi il perché, 
@@ -1890,19 +1890,19 @@ e la lode innalzerò serena,
 a Te Padre che da sempre m’ami.
 
 Rit.
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="48" Titolo="Addio goodbye" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="48" Titolo="Addio goodbye" Genere="">
+			<Testo>
 Rit:
 	Re
-    Addio goodbye, 
+	Addio goodbye, 
 	  Si-      Re
-    addio goodbye. 
+	addio goodbye. 
 	Sol       Re        La        Re
-    Io me ne vado alla patria del ciel. (2v.)
+	Io me ne vado alla patria del ciel. (2v.)
 
-        Sol        Re    La    Re
+		Sol        Re    La    Re
 Voglio prendere le ali e volar via.
 Io me ne vado alla patria del ciel.
 
@@ -1917,14 +1917,14 @@ Io l’ho trovato alla porta dell’inferno.
 Io me ne vado alla patria del ciel.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="49" Titolo="Scendi Moses" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="49" Titolo="Scendi Moses" Genere="">
+			<Testo>
 Rit:
 	Mi-    La-7  Si7            Mi-
-    Scendi Moses ritorna là in Egitto 
-    dillo tu, al suo re e lasciali partire.
+	Scendi Moses ritorna là in Egitto 
+	dillo tu, al suo re e lasciali partire.
 
 Mi-       Si7    Mi-
 Là nell’Egitto, Israel, 
@@ -1948,15 +1948,15 @@ Poiché Io sono il vero Dio,
 non ti fermerà.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="50" Titolo="Colori" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="50" Titolo="Colori" Genere="">
+			<Testo>
 Sol
 Questo prato verde ti ricorderà 
    Do               Sol
 la speranza del mattino, 
-        Do           Sol Re Do
+		Do           Sol Re Do
 non smarrirla, amico mio, 
 Sol 
 perché io, perché io ritornerò.
@@ -1985,10 +1985,10 @@ Il colore arcano della libertà
 sai trovarlo, amico mio.
 Nel tuo cuore l’ho posto io 
 perché io, perché io ritornerò.
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="51" Titolo="Con te sarò" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="51" Titolo="Con te sarò" Genere="">
+			<Testo>
 Sol
 Do        Sol
 Con Te sarò 
@@ -1998,9 +1998,9 @@ Do     Sol La-            Re
 camminerò, dentro l’immensità.
 Mi-                            Sol
 Quando il giorno comincia a spuntare, 
-      Do                 La-
+	  Do                 La-
 e l’aurora ci viene a cercare, 
-          Re                 La-
+		  Re                 La-
 quando il sole comincia a brillare: 
 
 Con Te sarò 
@@ -2027,17 +2027,17 @@ e mi accorgo che amo la vita.
 Insieme a Te 
 fino a che vivrò, 
 camminerò, fino a che vivrò.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="52" Titolo="Il Signore è la luce" Genere="Pasqua">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="52" Titolo="Il Signore è la luce" Genere="Pasqua">
+			<Testo>
 Re              La        Sol       Re
 Il Signore è la luce che umilia la notte.
 
 Rit.   
-    Re7      La Si- Sol         La   Re  Re7
-    Gloria, gloria cantiamo al Signore.
-    Gloria, gloria cantiamo al Signore.
+	Re7      La Si- Sol         La   Re  Re7
+	Gloria, gloria cantiamo al Signore.
+	Gloria, gloria cantiamo al Signore.
 
 Il Signore è la tromba che umilia il silenzio.
 
@@ -2050,15 +2050,15 @@ Rit.
 Il Signore è il sereno che umilia la pioggia.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="53" Titolo="Osanna" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="53" Titolo="Osanna" Genere="">
+			<Testo>
 Rit:
 	Re      Sol Re
-    Osanna, osanna, 
+	Osanna, osanna, 
 	Sol Re   La   Re
-    osanna, Jerusalem.
+	osanna, Jerusalem.
 Re     Sol Re
 Dormi regina, 
 Sol    Re
@@ -2085,18 +2085,18 @@ giorno farà,
 Gerusalemme risorgerà.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="54" Titolo="Insieme noi" Genere="Fine">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="54" Titolo="Insieme noi" Genere="Fine">
+			<Testo>
 Do Sol/Fa/Sol Do (2v)
 Do                Fa   Sol     Do
 Senti che c’è qualcuno che ti chiama 
-        Fa   Sol           Do
+		Fa   Sol           Do
 questo mondo ha bisogno di te.
-        La-       Mi-
+		La-       Mi-
 Troppi muoiono senza sapere che 
-     Fa           Re-          Sol
+	 Fa           Re-          Sol
 è la vita il più gran dono che c’è.
 Tu non puoi stare fermo ad aspettare 
 che qualcuno cambi il mondo per te.
@@ -2104,14 +2104,14 @@ Siamo tutti figli, figli del Signor,
 è l’amore quel che ci salverà.
 
 Rit.      
-            Fa   Sol      Do
-    Insieme noi, come bambini 
-           Fa                  Sol           Do
-    oggi faremo un mondo nuovo con le nostre mani, 
-            La-       Mi- 
-    mondo libero che fame più non ha 
-       Fa                 Sol             Do
-    il mondo senza guerre che faremo io e te.
+			Fa   Sol      Do
+	Insieme noi, come bambini 
+		   Fa                  Sol           Do
+	oggi faremo un mondo nuovo con le nostre mani, 
+			La-       Mi- 
+	mondo libero che fame più non ha 
+	   Fa                 Sol             Do
+	il mondo senza guerre che faremo io e te.
 
 Come Dio trasformò la pietra in pane 
 il tuo cuore puoi cambiare se vuoi.
@@ -2119,36 +2119,36 @@ Noi sappiamo ormai la sola verità:
 è l’amore che il mondo salverà.
 
 Rit.
-           Lab         Sib            Do
-    Quando la speranza non sai più cercare 
-           Lab     Sib        Do    
-    se tu credi cadere non potrai 
-            La-         Mi-
-    c’è qualcuno che la forza ti darà 
-         Fa          Re-        Sol
-    è l’amore che il mondo cambierà.
-    
+		   Lab         Sib            Do
+	Quando la speranza non sai più cercare 
+		   Lab     Sib        Do    
+	se tu credi cadere non potrai 
+			La-         Mi-
+	c’è qualcuno che la forza ti darà 
+		 Fa          Re-        Sol
+	è l’amore che il mondo cambierà.
+	
 Rit.
    
-    Insieme noi, come bambini 
-    oggi faremo un mondo nuovo con le nostre mani 
-    mondo libero che guerre più non ha 
-    il mondo dell’amore che faremo io e te.         
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="55" Titolo="Canto del servo del Signore" Genere="Inizio">
-            <Testo>
-         Do               Mi-
+	Insieme noi, come bambini 
+	oggi faremo un mondo nuovo con le nostre mani 
+	mondo libero che guerre più non ha 
+	il mondo dell’amore che faremo io e te.         
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="55" Titolo="Canto del servo del Signore" Genere="Inizio">
+			<Testo>
+		 Do               Mi-
 Ecco il mio servo che io sostengo 
-         Si-               Do 
+		 Si-               Do 
 il mio eletto in cui mi compiaccio.
-    Do                    Mi- 
+	Do                    Mi- 
 Ho posto il mio Spirito sopra di lui,
-        Fa                Do  
+		Fa                Do  
 il diritto porterà alle nazioni.
-       Sol        Fa 
+	   Sol        Fa 
 Non griderà né alzerà il tono 
-          Do         Sol      Do 
+		  Do         Sol      Do 
 non farà udire in piazza la sua voce.
 
 Non spezzerà una canna incrinata, 
@@ -2166,14 +2166,14 @@ Non avrà bellezza da attirare gli sguardi,
 non avrà splendore per dilettarsi di lui.
 
 (si ripete la prima strofa)         
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="56" Titolo="Gerico" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="56" Titolo="Gerico" Genere="">
+			<Testo>
 Rit. 
 	Re-                   La7     Re-
-    Si combatte a Gerico, Gerico, Gerico, 
-    si combatte a Gerico con le armi del Signor. (2v.)
+	Si combatte a Gerico, Gerico, Gerico, 
+	si combatte a Gerico con le armi del Signor. (2v.)
 	
 Re-                         La7
 D’Israele i re furon grandi però 
@@ -2188,24 +2188,24 @@ il segnale ai suonator,
 e le alte mura di Gerico, senza armi ha fatto crollar.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="57" Titolo="Se non ritornerete come bambini" Genere="Comunione|Fine">
-            <Testo>
-    Re- Sol Sib Re- (2v.)
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="57" Titolo="Se non ritornerete come bambini" Genere="Comunione|Fine">
+			<Testo>
+	Re- Sol Sib Re- (2v.)
 Rit:
 	Re-           Do           Re-
-    Se non ritornerete come bambini 
+	Se non ritornerete come bambini 
 	       Sol Sib Re-
-    non entrerete mai. (2v.)
+	non entrerete mai. (2v.)
 
 Re-    Do          Re-
 La mia porta sarà chiusa 
 Re-    Do             Fa
 per il ricco e per il forte 
-          Sol-           Sib    Re-
+		  Sol-           Sib    Re-
 per tutti quelli che non hanno amato 
-              Do   La7     Re-
+			  Do   La7     Re-
 per chi ha giocato con la morte.
 Per gli uomini per bene 
 per chi cerca la sua gloria 
@@ -2235,14 +2235,14 @@ per tutti quelli che hanno amato
 per chi ha perduto la sua vita.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="58" Titolo="Oh Dio non lasciarmi" Genere="Inizio">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="58" Titolo="Oh Dio non lasciarmi" Genere="Inizio">
+			<Testo>
 Rit:
 	Sol Re          Mi-  Do 
-    Oh Dio non lasciarmi solo mai 
-    senza Te dimmi che farò. (2v.)
+	Oh Dio non lasciarmi solo mai 
+	senza Te dimmi che farò. (2v.)
 
 Sol                     Mi-
 All’aurora cerco sempre Te 
@@ -2274,10 +2274,10 @@ e rinasce in me la voglia di cantare
 e ritorna quella sete che non muore.
 
 Rit.            
-            </Testo>
-        </Canzone>              
-        <Canzone Numero="59" Titolo="Alleluia AC" Genere="Alleluia">
-            <Testo>
+			</Testo>
+		</Canzone>              
+		<Canzone Numero="59" Titolo="Alleluia AC" Genere="Alleluia">
+			<Testo>
 La  Re              La  Mi
 Alleluia, alleluia, alleluia, alleluia,
 La  Re              La Mi La
@@ -2285,27 +2285,27 @@ alleluia, alleluia, alleluia!
 
 La        Re        Mi     La
 La nostra festa non deve finire,
-    Fa#-   Si-    Mi      La
+	Fa#-   Si-    Mi      La
 non deve finire e non finirà
 La nostra festa non deve finire,
 non deve finire e non finirà.
 La7 Re    Mi    La    La7
 Perché la festa siamo noi
-    Re    Mi         La
+	Re    Mi         La
 che camminiamo verso Te
 La7 Re    Mi     La   FA#-
 Perché la festa siamo noi
-    Si-     Re    Mi
+	Si-     Re    Mi
 cantando insieme così
 
 Alleluia…
-            </Testo>
-        </Canzone>
-        <Canzone Numero="60" Titolo="Emmaus" Genere="Pasqua">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="60" Titolo="Emmaus" Genere="Pasqua">
+			<Testo>
 Sol      Re                            Mi-
 Sai, ci ritroviamo ancora a parlare di Lui 
-     Re                             Mi-
+	 Re                             Mi-
 dell’eco dei suoi passi rimasta fra noi.
 Sai, andava per le vie della nostra città 
 la gente si fermava a sentirlo parlare 
@@ -2325,25 +2325,25 @@ Ma i gesti che fai ora somigliano ai suoi
 tu spezzi il pane io sento che resterai 
 noi con Te troveremo 
 quella luce di verità che solo Tu ci puoi dare.         
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="61" Titolo="Alleluia (Taizé)" Genere="Alleluia">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="61" Titolo="Alleluia (Taizé)" Genere="Alleluia">
+			<Testo>
 Re    La      Si-         FA#-
 Alleluia, alleluia, alleluia, 
 Sol   Re      La La7
 Alleluia, alleluia (2v.)
-    	
+		
 Canto per Cristo che mi libererà
 quando verrà nella gloria,
 quando la vita con Lui rinascerà
 alleluia, alleluia!
 
 Alleluia…           
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="62" Titolo="Ti cercherò" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="62" Titolo="Ti cercherò" Genere="">
+			<Testo>
 Sol       Re
 Ti cercherò 
 La-      Mi-    Do Re
@@ -2353,13 +2353,13 @@ Ti canterò
 La-          Mi-     Do Re
 per il Tuo immenso amore.
 
-      Do               Sol 
+	  Do               Sol 
 Nella notte una luce è apparsa per me, 
 Fa                 Do
 ed il cammino mi illuminò.
-     Re                       Sol
+	 Re                       Sol
 Nel deserto un germoglio è fiorito già, 
-    Fa            Do              Re
+	Fa            Do              Re
 c’è sempre una speranza insieme a Te.
 
 Ti innalzerò 
@@ -2379,36 +2379,36 @@ Nella Tua vita rinasce la gioia,
 nella Tua grazia ritrovo la pace.
 E del domani non provo timore, 
 ora io lo so che sei con me.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="63" Titolo="Alleluia (Simo e Claudio)" Genere="Alleluia">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="63" Titolo="Alleluia (Simo e Claudio)" Genere="Alleluia">
+			<Testo>
 Re-  Sol- Do    Fa  Sib  Sol- La4   Re-
 Alleluia, alleluia, alleluia, alleluia;
 alleluia, alleluia, alleluia, alleluia. (2v.)
 
-                  Sol-
+				  Sol-
 Ed oggi ancora mio Signore, 
-      Do         Fa
+	  Do         Fa
 ascolterò la Tua Parola 
-     Sib         Sol-         La4 La
+	 Sib         Sol-         La4 La
 che mi guida nel cammino della vita.
 
 Alleluia…
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="64" Titolo="Le tue mani" Genere="Pasqua">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="64" Titolo="Le tue mani" Genere="Pasqua">
+			<Testo>
 Do              Sol      La- 
 Le tue mani son piene di fiori 
 Do          Mi-    Fa    Sol
 dove li portavi fratello mio?
-      Do        Sol       La-
+	  Do        Sol       La-
 Li portavo alla tomba di Cristo 
-     Fa          Do      Sol    Do
+	 Fa          Do      Sol    Do
 ma l’ho trovata vuota fratello mio.
 
-      Fa Do La- Fa Do Sol Fa Do La- Fa Sol Do
+	  Fa Do La- Fa Do Sol Fa Do La- Fa Sol Do
 Rit.  Alleluia, alleluia, alleluia, alleluia
 
 I tuoi occhi riflettono gioia 
@@ -2431,17 +2431,17 @@ Perché so che la vita non muore
 ecco perché canto fratello mio.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="65" Titolo="Alleluia (Carmela)" Genere="Alleluia">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="65" Titolo="Alleluia (Carmela)" Genere="Alleluia">
+			<Testo>
 Re            La        Si-       Fa#-
 Alleluia, alleluia, alleluia, alleluia,
-       Sol Re    La
+	   Sol Re    La
 oggi è festa per noi.
 Re            La        Si-       Fa#-
 Alleluia, alleluia, alleluia, alleluia,
-       Sol        La         Re
+	   Sol        La         Re
 il Tuo amore sarà sempre con noi.
 
 Re La            Si-   Sol La
@@ -2450,21 +2450,21 @@ Re La            Si-   Sol La
 Tu vivi sempre in noi Signore
 Re    La         Si-     Fa#-          Sol 
 Tu ci hai voluti qui per dire il nostro sì
-              Re La
+			  Re La
 promessa di unione.
 
 Alleluia...
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="66" Titolo="È giunta l’ora" Genere="Quaresima">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="66" Titolo="È giunta l’ora" Genere="Quaresima">
+			<Testo>
 Re Sol     Re  Sol       Re			
 È giunta l’ora Padre per me;
-         Si-     Sol   La La7
+		 Si-     Sol   La La7
 ai miei amici ho detto che
-            Re   FA#-      Si- Sol
+			Re   FA#-      Si- Sol
 questa è la vita conoscere Te
-            La    Sol     Re
+			La    Sol     Re
 e il Figlio Tuo Cristo Gesù.
 Erano Tuoi li hai dati a me,
 ed ora sanno che torno a Te
@@ -2479,17 +2479,17 @@ Io sono in loro e Tu in me
 e siam perfetti nell’unità
 e il mondo creda che Tu mi hai mandato
 che li hai amati come ami me.           
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="67" Titolo="Hanno preso un uomo" Genere="Quaresima">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="67" Titolo="Hanno preso un uomo" Genere="Quaresima">
+			<Testo>
 Do             La-      Do
 Hanno preso un uomo, 
 Do             La-      Do
 a un angolo di strada, 
-               Re- Sol
+			   Re- Sol
 nessuno l’ha difeso, 
-                Do
+				Do
 e l’han portato via.
 E sento una voce           (e sento una voce) 
 una voce che mi chiama     (una voce che mi chiama) 
@@ -2522,14 +2522,14 @@ E so che mia ha sorriso    (e so che mi ha sorriso)
 e so che è Lui che chiama  (e so che è Lui che chiama) 
 ma sto seduto inerte, 
 la mano nella mano.         
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="68" Titolo="Alleluia Sambe" Genere="Alleluia">     
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="68" Titolo="Alleluia Sambe" Genere="Alleluia">     
+			<Testo>
 Re Re/Re9/Re
 Re        La
 Alle, alleluia,
-    Si-       Fa#-
+	Si-       Fa#-
 a – alleluia, alleluia,
 Sol       Re  Sol La Re Sol     La   Re Re/Re9/Re
 alleluia, alleluia, alleluia, alle-luia.
@@ -2540,19 +2540,19 @@ la Tua Parola non passerà.
 Alleluia, alleluia.
 
 Alle, alleluia…
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="69" Titolo="Voglio ritornare" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="69" Titolo="Voglio ritornare" Genere="">
+			<Testo>
 Rit:
 	Do
-    Voglio ritornare, 
+	Voglio ritornare, 
 	Fa         Do
-    devo ritornare, 
+	devo ritornare, 
 	Sol	
-    voglio ritornare 
+	voglio ritornare 
 	  Fa         Sol      Do
-    ancora in Gerusalemme camminar. (2v)
+	ancora in Gerusalemme camminar. (2v)
 
 Do              La-
 Per rivedere il mio Signor, 
@@ -2569,23 +2569,23 @@ Insieme a Pietro io sarò,
 ed in Gerusalemme tornerò.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="70" Titolo="Santo (Andrea)" Genere="Santo">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="70" Titolo="Santo (Andrea)" Genere="Santo">
+			<Testo>
 Re  La6+    Si-          Sol La
 (Santo)     Santo è il Signore.
 (Dio)       Dio dell’universo Santo è il Signore.
 (I cieli)   I cieli e la terra pieni della Tua gloria.
-    Re   La Si-                  Sol La
-    Osanna, osanna nell’alto dei cieli. (2v.)
+	Re   La Si-                  Sol La
+	Osanna, osanna nell’alto dei cieli. (2v.)
 (Benedetto) Benedetto chi viene nel nome del Signore.
 (Benedetto) Benedetto chi viene nel nome del Signore.
-    Osanna, osanna nell’alto dei cieli. (2v.)           
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="71" Titolo="Chi sei Tu" Genere="">
-            <Testo>
+	Osanna, osanna nell’alto dei cieli. (2v.)           
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="71" Titolo="Chi sei Tu" Genere="">
+			<Testo>
 Si-           La      Sol             La
 Chi sei Tu dolcissimo Iddio che m’ami tanto, 
 Si-              La   Sol               La
@@ -2597,13 +2597,13 @@ chi sono io, chi sono io, che gioia non so darti.
 
 Rit:
 	Si-             Sol La
-    Io sono un peccatore, 
-          Si-             Sol La
+	Io sono un peccatore, 
+		  Si-             Sol La
 	ma confido nel Tuo amore, 
 	      Si-           Sol     La
-    e ricordo la Tua parola che dice: 
+	e ricordo la Tua parola che dice: 
 	                       Sol
-    “Sono venuto anche per te.”
+	“Sono venuto anche per te.”
 
 Chi sei Tu dolcissimo Iddio che m’ami tanto, 
 chi sono io, chi sono io, se t’amo così poco, 
@@ -2616,12 +2616,12 @@ Chi sei Tu dolcissimo Iddio che m’ami tanto,
 chi sono io, chi sono io, se t’amo così poco, 
 Chi sei Tu dolcissimo Iddio che m’ami tanto, 
 chi sei Tu, Tu sei il mio Dio ora e per sempre, 
-    Si-
+	Si-
 per sempre.
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="72" Titolo="Santo" Genere="Santo">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="72" Titolo="Santo" Genere="Santo">
+			<Testo>
 Re Re La Sol La
 Re La  Si-
 Santo, santo,
@@ -2632,32 +2632,32 @@ Dio dell’universo.
   Re         Sol        Mi-             La
 I cieli e la terra sono pieni della Tua gloria.
 	Re       Si-
-    Osanna, osanna, 
+	Osanna, osanna, 
 	 Re Si-     Sol      La
-    osanna nell’alto dei cieli.
+	osanna nell’alto dei cieli.
 
 Benedetto colui che viene 
 nel nome del Signore.
 
-    Osanna, osanna,  
-    osanna nell’alto dei cieli.             
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="73" Titolo="Preghiera semplice" Genere="">
-            <Testo>
+	Osanna, osanna,  
+	osanna nell’alto dei cieli.             
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="73" Titolo="Preghiera semplice" Genere="">
+			<Testo>
 Rit:
 	Fa# La Si-         Fa#-  Sol
-    Dov’è guerra ch’io porti pace 
+	Dov’è guerra ch’io porti pace 
 	Fa# La Si-       Fa#-  Mi-
-    dov’è odio ch’io porti amor 
+	dov’è odio ch’io porti amor 
 	Mi- Fa#- Sol        Fa#-  Si-
-    dov’è inverno ch’io porti estate 
+	dov’è inverno ch’io porti estate 
 	Sol       La
-    ed il Tuo calor 
-    dov’è pianto ch’io porti gioia 
-    dov’è notte ch’io porti l’alba 
-    dov’è fame ch’io porti il pane 
-    che solo Tu dai, 
+	ed il Tuo calor 
+	dov’è pianto ch’io porti gioia 
+	dov’è notte ch’io porti l’alba 
+	dov’è fame ch’io porti il pane 
+	che solo Tu dai, 
 	          Si-
 	che Tu ci dai.
 
@@ -2676,34 +2676,39 @@ dolce il Tuo amore è là sostegno anche per me
 dolce il Tuo amore è là che grida così.
 
 Rit.            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="74" Titolo="Santo (Simo e Claudio)" Genere="Santo">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="74" Titolo="Santo (Simo e Claudio)" Genere="Santo">
+			<Testo>
+Re     Sol    La Re
 Santo, santo, santo 
+	  Sol              La
 il Signore Dio dell’universo.
+Re           Sol         La               Re
 I cieli e la terra sono pieni della tua gloria.
 
-    Osanna osanna, osanna osanna, osanna 
-    osanna nell’alto dei cieli. (2v.)
-    
+	Sol            Re
+	Osanna osanna, osanna osanna, osanna 
+	La          Sol       Re
+	osanna nell’alto dei cieli. (2v.)
+	
 Benedetto colui che viene nel nome del Signore. 
 
-    Osanna osanna, osanna osanna, osanna 
-    osanna nell’alto dei cieli. (2v.)           
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="75" Titolo="Dove troveremo tutto il pane" Genere="Offertorio">
-            <Testo>
+	Osanna osanna, osanna osanna, osanna 
+	osanna nell’alto dei cieli. (2v.)           
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="75" Titolo="Dove troveremo tutto il pane" Genere="Offertorio">
+			<Testo>
 Rit.   
 	Do        La-  Fa       Sol
-    Dove troveremo tutto il pane, 
-    Do     La-  Fa    Sol
+	Dove troveremo tutto il pane, 
+	Do     La-  Fa    Sol
 	per sfamare tanta gente? 
-    Do        La-  Fa       Sol
+	Do        La-  Fa       Sol
 	Dove troveremo tutto il pane, 
 	Fa         Sol  Do       Do Fa Sol
-    se non abbiamo niente?
+	se non abbiamo niente?
 
 Io possiedo solo cinque pani, 
 io possiedo solo due pesci, 
@@ -2726,27 +2731,27 @@ io non sono niente.
 
 Rit.
 
-    Dio ci ha dato tutto il pane 
-    per sfamare tanta gente 
-    Dio ci ha dato tutto il pane 
-    anche se non abbiamo niente.            
-            </Testo>
-        </Canzone>          
-        <Canzone Numero="76" Titolo="Lodate lodate" Genere="">
-            <Testo>
+	Dio ci ha dato tutto il pane 
+	per sfamare tanta gente 
+	Dio ci ha dato tutto il pane 
+	anche se non abbiamo niente.            
+			</Testo>
+		</Canzone>          
+		<Canzone Numero="76" Titolo="Lodate lodate" Genere="">
+			<Testo>
 La-
 Cantate al Signore 
 Mi-       La-
 un canto nuovo, 
 La-          Sol
 cantate al Signore 
-              La-
+			  La-
 voi tutti del mondo.
 
 Rit.   
 	Re-     La-     Mi7          La-
-    Lodate, lodate, lodate il Signore. 
-    Cantate, cantate, cantate il Suo nome.
+	Lodate, lodate, lodate il Signore. 
+	Cantate, cantate, cantate il Suo nome.
 
 Parlate 
 ed annunciate 
@@ -2775,13 +2780,13 @@ a giudicare
 tutta la terra.
 Rit.
 
-    Alleluia – alleluia – alleluia – alleluia.
-    
+	Alleluia – alleluia – alleluia – alleluia.
+	
 Rit.            
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="77" Titolo="Resurrezione" Genere="Fine|Pasqua">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="77" Titolo="Resurrezione" Genere="Fine|Pasqua">
+			<Testo>
 	Do Do7
 	Fa                 Sol         Do     Mi-   La-
 	Signore che ci hai dato questo giorno di salvezza
@@ -2816,18 +2821,18 @@ Ma forse sulla strada qualcuno incontreremo,
 che per amore nostro, soffre come Te.
 È un nero, è un bianco e Tu lo abbraccerai
 e insieme ce ne andremo fino alla casa Tua.         
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="78" Titolo="Io lo so" Genere="Fine|Pasqua">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="78" Titolo="Io lo so" Genere="Fine|Pasqua">
+			<Testo>
 Do             Mi-           Fa     Do
 Io lo so che risorgerai e mi condurrai 
-     Fa       Sol       Do
+	 Fa       Sol       Do
 e la terra un giorno mi darai.
 
 Do                           Mi-
 Io lo so (credimi, credimi…) io lo so 
-      Fa   Do        Fa   Sol          Do
+	  Fa   Do        Fa   Sol          Do
 che risorgerai e con me sarai o mio Signor.
 
 Do       Mi-       Fa Sol Do
@@ -2836,15 +2841,15 @@ Do                 Mi-            Fa     Sol     Do
 non lasciare tutto quello che hai il tuo mondo è qui. 
 Do         Mi-              Fa          Sol Do
 Ma la voce del Signore alta nel mattino risuonò: 
-           Mi-            Fa
+		   Mi-            Fa
 esci dalla tenda e vai la terra io ti darò.
 
 Io lo so (credimi, credimi…) io lo so 
 che risorgerai e con me sarai o mio Signor.         
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="79" Titolo="Resurrezione (Gen)" Genere="Fine|Pasqua">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="79" Titolo="Resurrezione (Gen)" Genere="Fine|Pasqua">
+			<Testo>
 Re Sol (4 v.)
 
 Re               Sol  Re          Sol
@@ -2874,20 +2879,20 @@ liberiamo la felicità
 e la morte no, non esiste più, l'hai vinta Tu
 e hai salvato tutti noi uomini con Te
 Tutti noi uomini con Te.
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="80" Titolo="Shalom" Genere="Scambio della pace">
-            <Testo>
-      La-
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="80" Titolo="Shalom" Genere="Scambio della pace">
+			<Testo>
+	  La-
 Evenu shalom aleyem
-      Re-
+	  Re-
 Evenu shalom aleyem
-      Mi       La-
+	  Mi       La-
 Evenu shalom aleyem
 
 Rit:
-          Mi                     La-
-    Evenu shalom shalom shalom aleyem.
+		  Mi                     La-
+	Evenu shalom shalom shalom aleyem.
 
 E sia la pace con noi (3 v.)
 
@@ -2909,14 +2914,14 @@ And the peace be with us (3 v.)
 
 Rit.
 
-    Diciamo pace al mondo, 
-    cantiamo pace al mondo, 
-    che la tua vita sia gioiosa, 
-    e il mio saluto, pace, giunga fino a te.            
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="81" Titolo="Il tuo pane" Genere="Offertorio">
-            <Testo>
+	Diciamo pace al mondo, 
+	cantiamo pace al mondo, 
+	che la tua vita sia gioiosa, 
+	e il mio saluto, pace, giunga fino a te.            
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="81" Titolo="Il tuo pane" Genere="Offertorio">
+			<Testo>
 Do Do9 Do Do Do9 Do Re- Sol
 Do Mi- La- La-4 La- 
 Re- Sol Do Do9 Do Do Do9 Do 
@@ -2925,7 +2930,7 @@ Do        Re-
 Oltre l’amore
 Sol        Do             Mi- La-
 Oltre quel pianto o mio Signore, 
-        Re-            Sol
+		Re-            Sol
 ho ritrovato un po’ di Te. 
 Quella notte su quel colle Tu sei salito mio Signore, 
 e ho temuto di averti perso.
@@ -2939,10 +2944,10 @@ Da questa messa ho capito che il Tuo sangue era anche per me
 o mio Signore, quanto è grande il Tuo amore. 
 Quando in questa chiesa insieme a Te il Tuo pane io riceverò, 
 avrò capito qual è la strada.           
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="82" Titolo="Kyrie eleison" Genere="Introduzione">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="82" Titolo="Kyrie eleison" Genere="Introduzione">
+			<Testo>
 Re    Si-      Mi-     La
 Kyrie eleison, Christe eleison
 Re    Si-      Mi-     La La7  Re
@@ -2953,17 +2958,17 @@ Signore pietà, Cristo pietà
 
 Kyrie eleison, Christe eleison
 Kyrie eleison, Christe eleison          
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="83" Titolo="Lungo quella strada" Genere="Pasqua">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="83" Titolo="Lungo quella strada" Genere="Pasqua">
+			<Testo>
 Do            Mi-      Re-       Sol
 Lungo quella strada parlavano di Lui. 
 Do            Mi-             Re-         Sol
 Dove andate amici, posso anch’io venir con voi, 
-        Do            Fa
+		Do            Fa
 ma cosa c’è voi siete tristi, 
-    Mi-          Fa               Mi-    Fa     Sol  Do
+	Mi-          Fa               Mi-    Fa     Sol  Do
 che cosa vi addolora – il vostro cuore è triste amici.
 
 Tu proprio non sai hanno ucciso il Signore, 
@@ -2980,10 +2985,10 @@ Allo spezzar del pane hanno visto Gesù Signore,
 gioia ci ardeva in cuore quando Lui parlava a noi, 
 l’uomo non sa che cosa fare 
 se Lui non lo accompagna – lungo la strada della vita.          
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="84" Titolo="Kumbaya" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="84" Titolo="Kumbaya" Genere="">
+			<Testo>
 Do               Fa   Do      
 Kumbaya my Lord, kumbaya
 Do               Fa   Sol
@@ -3006,38 +3011,38 @@ Vieni qui Signor, vieni qui (3 v.)
 Signore vieni qui.
 Kumbaya my Lord, kumbaya (2 v.) 
 oh Lord kumbaya.
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="85" Titolo="Tu sei la via" Genere="Comunione|Quaresima">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="85" Titolo="Tu sei la via" Genere="Comunione|Quaresima">
+			<Testo>
  Re    Sol         Re   Sol      Re   La
 Io vorrei darti amore, ti vorrei seguire, 
-       Fa#- La Re  La       Fa#-   Si-
+	   Fa#- La Re  La       Fa#-   Si-
 ma non so, io non so, sono spente ormai 
-       Fa#- Si-  Sol  Re Mi- Re  La La7 Re Sol 
+	   Fa#- Si-  Sol  Re Mi- Re  La La7 Re Sol 
 le mie verità il buio è sceso in me, in me.
 
 Re Sol           Re  Sol               Re  La
 Tu hai parole amiche vieni da un cielo chiaro 
-      Fa#- La    Re La       Fa#-  Si-       Fa#-  Si-
+	  Fa#- La    Re La       Fa#-  Si-       Fa#-  Si-
 passi qui, tra di noi, senza chiedere, senza far rumor 
   Sol  Re Mi- Re  La La7  Re 
 ma la speranza è già in noi.
 
-     Sol          Fa#-               Si-
-    Perché sei la via, hai la luce in Te 
+	 Sol          Fa#-               Si-
+	Perché sei la via, hai la luce in Te 
 	    Re    Sol           Re 
-    e la vita dai e la pace hai 
+	e la vita dai e la pace hai 
 	      Do Sol Re 
-    sei la libertà, 
+	sei la libertà, 
 	Sol   Re    Mi- La Re Sol Re 
-    chi crede in Te vivrà.
+	chi crede in Te vivrà.
 
 Re  Sol            Re  Sol              Re  La 
 Qui chiuso nel mio pianto non lasciarmi Signore 
  Fa#-     La Re La         Fa#- Si-
 senza Te, Tu lo sai, io mi perderò 
-    Fa#-     Si-  Sol Re Mi-  Re  La La7  Re Sol
+	Fa#-     Si-  Sol Re Mi-  Re  La La7  Re Sol
 nel silenzio che respira intorno a me, a me.
 
 Re  Sol            Re Sol             Re La 
@@ -3047,25 +3052,25 @@ e non so, io non so più, se sia giusto o no
   Fa#-  Si- Sol Re Mi- Re La La7      Re Re7
 se sia vero ma sai che lo berrò, se lo vuoi.
 
-    Sol            Fa#-       Si-
-    Perché il seme che non morirà 
+	Sol            Fa#-       Si-
+	Perché il seme che non morirà 
 	    Re      Sol             Re 
-    frutto non darà, pane non sarà 
+	frutto non darà, pane non sarà 
 	   Do    Sol  Re   Sol       Re    Mi- La Re Re7
-    vita non diventerà, ma chi crede in Te vivrà, 
+	vita non diventerà, ma chi crede in Te vivrà, 
 	Sol       Re     Mi-  La   Re Sol Re 
-    chi ha creduto in Te, rinascerà.            
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="86" Titolo="Per dirti t'amo" Genere="Matrimonio">
-            <Testo>
+	chi ha creduto in Te, rinascerà.            
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="86" Titolo="Per dirti t'amo" Genere="Matrimonio">
+			<Testo>
 Do                La-
 Avrei voluto dedicarti una canzone 
-    Re-         Sol
+	Re-         Sol
 con le parole della televisione 
 Do                        La-
 tutti quei fiori e quei discorsi complicati 
-       Re-             Sol
+	   Re-             Sol
 che al cine fanno dei locali raffinati. 
 Ma mi sembrava di commettere un reato 
 perché per dirti che sono innamorato 
@@ -3074,22 +3079,22 @@ non c'è motivo che mi finga un grande attore.
 
 Rit:
 	Fa                   Sol
-    Per dirti t'amo, amo te
+	Per dirti t'amo, amo te
 	Fa                   Sol             Do Do7
-    bastava solo che guardassi intorno a me 
+	bastava solo che guardassi intorno a me 
 	Fa                   Sol
-    per dirti ti vorrei sposare 
+	per dirti ti vorrei sposare 
 	Fa                       Sol      Do
-    è giusto dirlo, dirlo in modo naturale. 
+	è giusto dirlo, dirlo in modo naturale. 
 
 Non voglio chiuderti in nessun mondo fatato 
 e non ho voglia di tornare nel passato 
 io so potremo avere il mondo nelle mani 
 se siamo forti e fiduciosi nel domani. 
-    Avremo un posto dove andare a lavorare 
-    e avremo figli da allevare e da curare 
-    e tanto amore tanta gente come noi 
-    e avremo un mondo, un mondo nuovo intorno a noi.
+	Avremo un posto dove andare a lavorare 
+	e avremo figli da allevare e da curare 
+	e tanto amore tanta gente come noi 
+	e avremo un mondo, un mondo nuovo intorno a noi.
 
 Rit. 
 
@@ -3099,19 +3104,19 @@ perché è cresciuto con la pioggia e con il sole
 e sa capire anche queste mie parole. 
 
 Rit.            
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="87" Titolo="Voglio andar" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="87" Titolo="Voglio andar" Genere="">
+			<Testo>
 Rit:
 	Do
-    Voglio andar, voglio andar, 
+	Voglio andar, voglio andar, 
 	              Sol   Do
-    voglio andare da Gesù, 
+	voglio andare da Gesù, 
 	Do        Do7 Fa   Do
-    voglio andare alla casa 
+	voglio andare alla casa 
 	Do        Sol    Fa   Do
-    non posso più restare qui.
+	non posso più restare qui.
 
 Fa           Do
 Mi chiama Iddio 
@@ -3120,7 +3125,7 @@ mi chiama con il suo tuono;
    
    Do7              Fa
 le trombe destano l’anima mia 
-    Sol          Do
+	Sol          Do
 non posso più restare qui. (2 v.)
 
 Rit.
@@ -3131,15 +3136,15 @@ le trombe destano l’anima mia
 non posso più restare qui. (2 v.)
 
 Rit.
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="88" Titolo="Popolo mio" Genere="Quaresima">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="88" Titolo="Popolo mio" Genere="Quaresima">
+			<Testo>
 Rit:
-      La-         Mi           La-
-    Popolo mio che male ti ho fatto, 
+	  La-         Mi           La-
+	Popolo mio che male ti ho fatto, 
 	 Do    Fa   sol 
-    dammi risposta. (2 v.)
+	dammi risposta. (2 v.)
 
 Io ti ho guidato dalla terra d’Egitto 
 e ti ho condotto quarant’anni nel deserto, 
@@ -3164,72 +3169,72 @@ e tu mandi a morte
 il tuo Salvatore.
 
 Rit.            
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="89" Titolo="Quo vadis?" Genere="Quaresima">
-            <Testo>
-        Do      Re             Mi 
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="89" Titolo="Quo vadis?" Genere="Quaresima">
+			<Testo>
+		Do      Re             Mi 
 Ho incontrato Gesù sopra una strada,
-            Do      Re         Mi 
+			Do      Re         Mi 
 fuori del tempo, fuori dello spazio,
    Fa           Fa-    Do  La-
 i capelli in disordine aveva
-      Re- Sol     Do  Do7
+	  Re- Sol     Do  Do7
 e in viso la malinconia.
 
 Rit:
-        Fa          Fa-    Do      La-
-    Quo vadis? Dove vai? O mio Signore. (2 v.)
+		Fa          Fa-    Do      La-
+	Quo vadis? Dove vai? O mio Signore. (2 v.)
 	  Re-       Sol       Do 
-    Torno a prendere la croce.
+	Torno a prendere la croce.
 
   La-       Re-         La-
 È mio il dolore dell’umanità,
  La-         Re-        La-
 piango con i fanciulli senza pane,
-        Do          Re            Mi
+		Do          Re            Mi
 con le vittime del male e della guerra.
 Do         Re      Mi
 Soffro per le bestemmie,
-    Do     Re               Mi
+	Do     Re               Mi
 per le persecuzioni di ogni tempo,
 per la malvagità, per l’ignoranza.
-      Fa       Fa-      Do    La-
-    Riprese la via col dorso chino
+	  Fa       Fa-      Do    La-
+	Riprese la via col dorso chino
 	 Re-            Sol        Do  Do7
-    come se già la croce l’opprimesse.
+	come se già la croce l’opprimesse.
 
 Rit.                
-        Fa   Fa-      Do         La-
-    Io lo seguii e presi la mia croce,
+		Fa   Fa-      Do         La-
+	Io lo seguii e presi la mia croce,
 	     Fa    Fa-      Do       La-
-    la croce antica, faticosa e dura
+	la croce antica, faticosa e dura
 	    Re-         Sol            Do  
-    del mio lavoro grigio di ogni giorno.
+	del mio lavoro grigio di ogni giorno.
 
 
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="90" Titolo="Io con voi" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="90" Titolo="Io con voi" Genere="">
+			<Testo>
 La                  Mi
 Io con voi mi trovo bene, 
-       Fa#-     Si7       Mi Mi7
+	   Fa#-     Si7       Mi Mi7
 perché siete sinceri come me.
 La                Re
 Io con voi sono felice 
-       La       Re        Mi4 Mi
+	   La       Re        Mi4 Mi
 perché amate la pace come me.
 
 Rit.   
 	La   Re         La            Fa#-
-    Come alberi piantati lungo il fiume, 
+	Come alberi piantati lungo il fiume, 
 	Re        Mi       La          Mi
-    noi aspettiamo la nostra primavera. 
+	noi aspettiamo la nostra primavera. 
 	La   Re         La            Fa#-
-    Come alberi piantati lungo il fiume, 
+	Come alberi piantati lungo il fiume, 
 	Re        Mi       La          Mi
-    daremo i nostri frutti. (2 v.)
+	daremo i nostri frutti. (2 v.)
 
 Io con voi mi sento forte 
 perché odiate la violenza come me.
@@ -3237,17 +3242,17 @@ Io per voi darei la vita
 perché amate la vita come me.
 
 Rit.            
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="91" Titolo="Prendi questo pane e questo vino" Genere="Offertorio">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="91" Titolo="Prendi questo pane e questo vino" Genere="Offertorio">
+			<Testo>
  Do            Sol          La- Do 
 Prendi questo pane e questo vino
 Fa          Re-         Sol Sol7 
 no non dire più che morirai
  Do       Mi             La-      Do 
 bevi non pensare che la notte è lunga 
-       Fa    Sol        Do  Sol 
+	   Fa    Sol        Do  Sol 
 e la vita è tutta da passar.
 
 Piange questa notte così fonda
@@ -3262,26 +3267,26 @@ Do            Sol            La- Do
 gireremo il mondo e la Tua Parola
 Fa          Sol        Sol7 
 ogni uomo con noi conoscerà. (2 v.)             
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="92" Titolo="Siamo invitati al banchetto" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="92" Titolo="Siamo invitati al banchetto" Genere="">
+			<Testo>
 Re     Mi- La     Re               La   Sol       La
 Preparerà il Signore per tutti i popoli su questo monte 
 Re     La        Sol     Re         Sol       La
 un banchetto di grasse vivande e di vini eccellenti.
 Re     La          Re
 E ogni uomo vi salirà 
-     La            Sol        La
+	 La            Sol        La
 e danzando in quel giorno canterà.
 
 Rit:
 	Re La Si- Re La7 Re
-    A-men     Alleluia 
+	A-men     Alleluia 
 	Sol            Re          Sol       La
-    noi siamo invitati al banchetto del Regno	
-    Amen Alleluia 
-    esultiamo per la sua salvezza
+	noi siamo invitati al banchetto del Regno	
+	Amen Alleluia 
+	esultiamo per la sua salvezza
 
 E strapperà il Signore per tutti i popoli su questo monte 
 il velo e la coltre che copriva da sempre il loro volto.
@@ -3303,102 +3308,102 @@ E ogni uomo vi salirà
 e danzando in quel giorno canterà.
 
 Rit.
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="93" Titolo="Acqua di vita" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="93" Titolo="Acqua di vita" Genere="">
+			<Testo>
 Mi  Si  Do#-  La 
 
 Rit.    
-    Mi     Si 
-    Io camminavo
+	Mi     Si 
+	Io camminavo
 	Do#-        La          Mi
-    per strade troppo conosciute 
+	per strade troppo conosciute 
 	Mi         Si 
-    nelle mie mani
+	nelle mie mani
 	Do#-    La             Mi 
-    tante parole di ogni giorno
+	tante parole di ogni giorno
 	Mi       Si  Re        La 
-    ma Ti cercavo dentro di me.
+	ma Ti cercavo dentro di me.
 Do#-        Sol#-             Do#-
 Dai miei pensieri vestiti di noia
-           Si                 Do#-
+		   Si                 Do#-
 da questo vuoto che sale Tu salvami
-    Sol#-                Do#-
+	Sol#-                Do#-
 dall’ombra che mi abita salvami
-        Si                 La 
+		Si                 La 
 l’indifferenza che mi sta rodendo il cuore
-                Si           Si La Mi 
+				Si           Si La Mi 
 Tu l’acqua viva mi puoi dare.
 Rit.    
-    Mi          Si 
-    E Ti ho incontrato
+	Mi          Si 
+	E Ti ho incontrato
 	Do#-       La         Mi 
-    nei mille volti sconosciuti
+	nei mille volti sconosciuti
 	         Si 
-    le Tue parole
+	le Tue parole
 	Do#-          La           Mi 
-    aprono ad un tratto cieli nuovi
+	aprono ad un tratto cieli nuovi
 	         Si   Re        La 
-    e sei risorto dentro di me.
+	e sei risorto dentro di me.
 Do#-   Sol#-            Do#-
 Dalle pareti malate dell’odio
-        Si                  Do#-
+		Si                  Do#-
 dalle risposte non date Tu salvami
    Sol#-               Do#-
 dai troppi silenzi Tu salvami
-              Si              La 
+			  Si              La 
 l’acqua che è vita se Tu mi darai da bere
-        Si           Si La Mi 
+		Si           Si La Mi 
 io non avrò più sete.
 Rit.    (solo strum.)
-    --- Mi  Si  Do#-  La 
+	--- Mi  Si  Do#-  La 
 	--- Mi  Si  Do#-  La 
 	
 	MI       Si   Re        La 
-    e sei risorto dentro di noi.
+	e sei risorto dentro di noi.
 	Do#-  Sol#-             Do#-
 La nostra terra ferita che spera
-          Si                Do#-
+		  Si                Do#-
 il mondo che vuole pace Tu salvalo
-     Sol#-              Do#-
+	 Sol#-              Do#-
 dai troppi silenzi tu salvalo
-               Si             La 
+			   Si             La 
 l’acqua che è vita se Tu gli darai da bere
-              Si 
+			  Si 
 il mondo non avrà più sete
-        La 
+		La 
 no non avrà più sete
-         Si       Si   Do#-
+		 Si       Si   Do#-
 io non avrò più sete… SALVAMI!!!            
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="94" Titolo="Resta qui con noi" Genere="Fine">
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="94" Titolo="Resta qui con noi" Genere="Fine">
+			<Testo>
 Re 
 Le ombre si distendono
 Sol 
 scende ormai la sera
  Re                       Mi-
 e s’allontanano dietro i monti
-                   Si-           Fa#-
+				   Si-           Fa#-
 i riflessi di un giorno che non finirà
-       Mi-                   Sol La 
+	   Mi-                   Sol La 
 di un giorno che ora correrà sempre,
  Re      Fa#-           Sol 
 perché sappiamo che una nuova vita
-          Re           Sol         La 
+		  Re           Sol         La 
 da qui è partita e mai più si fermerà.
 
 Rit:
-     Re        La          Sol         Re 
-    Resta qui con noi, il sole scende già
+	 Re        La          Sol         Re 
+	Resta qui con noi, il sole scende già
 	 Mi-        La         Sol      La    Re 
-    resta qui con  noi, Signore è sera ormai.
+	resta qui con  noi, Signore è sera ormai.
 	 re         La         Sol         Re 
-    Resta qui con noi, il sole scende già
+	Resta qui con noi, il sole scende già
 	Mi-         La          Sol  La   Re 
-    se Tu sei fra noi, la notte non verrà.
+	se Tu sei fra noi, la notte non verrà.
 
 S’allarga verso il mare, 
 il Tuo cerchio d’onda,
@@ -3419,34 +3424,34 @@ con Te saremo sorgente d’acqua pura,
 con Te fra noi il deserto fiorirà.          
 
 Rit.            
-            </Testo>
-        </Canzone>
-        <Canzone Numero="95" Titolo="La nuova Gerusalemme" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="95" Titolo="La nuova Gerusalemme" Genere="">
+			<Testo>
 Rit.   
 	   La-            Sol     La-
-    Io vidi la nuova Gerusalemme (2 v.) 
+	Io vidi la nuova Gerusalemme (2 v.) 
 	   Fa        Sol       Mi
-    scendere dal cielo, da Dio,
+	scendere dal cielo, da Dio,
 	       Do
-    ed era bella (2 v.) 
+	ed era bella (2 v.) 
 	         Sol
-    come una sposa (2 v.) 
+	come una sposa (2 v.) 
 	La-               Fa Mi
-    adorna per il suo sposo.
-    Ed era bella (2 v.) 
-    come una sposa (2 v.) 
-    adorna per il suo sposo.
+	adorna per il suo sposo.
+	Ed era bella (2 v.) 
+	come una sposa (2 v.) 
+	adorna per il suo sposo.
 
-    La-    Fa      Sol          La-
+	La-    Fa      Sol          La-
 Essa è la dimora di Dio fra gli uomini, 
 Sol               Fa               Mi
 Egli porrà la sua tenda in mezzo a loro 
    Re-                La-
 ed essi saranno il suo popolo, 
-     Re-             Do Mi
+	 Re-             Do Mi
 Egli sarà il Dio con loro 
-      Sol        Fa               Mi
+	  Sol        Fa               Mi
 asciugherà ogni lacrima dai loro occhi.
 
 Rit.
@@ -3466,10 +3471,10 @@ acqua della fonte della vita
 Io sarò il suo Dio ed egli mio figlio.
 
 Rit.            
-            </Testo>
-        </Canzone>
-        <Canzone Numero="96" Titolo="Risposta" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="96" Titolo="Risposta" Genere="">
+			<Testo>
 Do        Fa            Do     La-
 Quante le strade che un uomo farà 
   Do        Fa       Sol
@@ -3481,11 +3486,11 @@ per sempre la sua libertà?
 
 Rit:
 	Fa            Sol
-    Risposta non c’è; 
+	Risposta non c’è; 
 	  Do            La-
-    o forse, chi lo sa 
+	o forse, chi lo sa 
 	   Fa       Sol     Do
-    perduta nel vento sarà.
+	perduta nel vento sarà.
 
 Quante volte i cannoni dovranno sparar 
 e quando la pace farem?
@@ -3510,10 +3515,10 @@ ma un giorno la pace verrà.
 Con te io vorrei 
 poter camminar 
 lo sguardo ed il cuore lontan.
-            </Testo>
-        </Canzone>
-        <Canzone Numero="97" Titolo="Ave Maria (SAM)" Genere="Maria">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="97" Titolo="Ave Maria (SAM)" Genere="Maria">
+			<Testo>
 Do La- Re-      Sol
 Ave    piena di grazia 
 il Signore è con te 
@@ -3524,9 +3529,9 @@ Do  La-    Re- Sol  Do Do7
 del ventre tuo Gesù
 
 Rit:   
-        Fa       Sol              Do                  La-
+		Fa       Sol              Do                  La-
    Solo tu (solo tu) fra tutte le donne (fra tutte le donne) 
-        Re-      Sol               Do Do7
+		Re-      Sol               Do Do7
    solo tu (solo tu) sei madre per noi 
    solo a te (solo a te) fra tutte le donne (fra tutte le donne) 
    solo a te (solo a te) cantiamo l’amor
@@ -3536,10 +3541,10 @@ prega per noi noi peccatori
 custodiscici sempre fino alla morte
 
 Rit. 
-            </Testo>
-        </Canzone>
-        <Canzone Numero="98" Titolo="One" Genere="Fine">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="98" Titolo="One" Genere="Fine">
+			<Testo>
 La- Re Fa7+ Sol
 La-             Re
 Adesso sei in ginocchio
@@ -3549,11 +3554,11 @@ La-                Re
 come perso in un deserto
 Fa7+             Sol 
 immerso nei tuoi guai, chiedi:
-    Do       La-
+	Do       La-
 “dov’è il Signore?
 Fa7+         Do
 Dov’è il suo amore?
-    Do          La-
+	Do          La-
 non c'è nessuno accanto a me
 Fa7+            Do
 io sono un uomo solo ormai”
@@ -3575,42 +3580,42 @@ la strada che tu sai: perché:
 è una la via
 è una la strada
 è una la verità, perché
-    Do 
-    l’amore è un tempio
+	Do 
+	l’amore è un tempio
 	   La-
-    l’amore è la  mia via
+	l’amore è la  mia via
 	Do
-    l’amore è vita
+	l’amore è vita
 	   La-
-    l’amore è verità
+	l’amore è verità
 	   Do    
-    perché chi viene in pace
+	perché chi viene in pace
 	   Sol
-    respinto non sarà
+	respinto non sarà
 	Sol           Fa
-    e chi a me verrà
+	e chi a me verrà
 	
-    cercando amore
+	cercando amore
 	            Do
-    amore troverà:
+	amore troverà:
 Do      La-      Fa       Do	
 la via, la vita, l'amore, la verità, perché 
 la via, la vita, l'amore, la verità, perché
 la via, la vita, l'amore, la verità.
-            </Testo>
-        </Canzone>
-        <Canzone Numero="99" Titolo="Stella per noi" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="99" Titolo="Stella per noi" Genere="">
+			<Testo>
 La  Mi  Sol  Re  
 La  Mi  Sol  Re  La 
 
 La  Mi 
 Guarda,
-      La  Mi 
+	  La  Mi 
 nasce piano
  La  Mi      
 Scende
-    La  Mi  Sol     Re 
+	La  Mi  Sol     Re 
 come stella ecco la luce
    Sol          Re 
 in fondo alla notte  
@@ -3618,18 +3623,18 @@ Sol        Re
 sulle tue mani  
 Sol    Re    
 inaspettata,  
-       La   
+	   La   
 è già qui.
-      La 
+	  La 
 è per te.
 
-          Do                  Sol 
+		  Do                  Sol 
 E tu cammini verso il punto chiaro 
-          Fa                Sol 
+		  Fa                Sol 
 dove la terra   incontra il cielo 
-                Do             Sol   
+				Do             Sol   
 e il tempo che scorre non fa paura
-        Fa           Sol            La-   La9
+		Fa           Sol            La-   La9
 perché ora c’è  la verità   davanti a te.
 
 La  Mi 
@@ -3638,7 +3643,7 @@ Porta
 e risveglia
    La   Mi 
 È la vita
-      La   Mi   Sol      Re 
+	  La   Mi   Sol      Re 
 come il fuoco,  nuovi pensieri
 Sol       Re 
 parole antiche,
@@ -3648,31 +3653,31 @@ Sol        Re
 di tutto l’odio 
    La 
 per me.
-         La 
+		 La 
 che c’è in me.
 
-          Do            Sol 
+		  Do            Sol 
 E quella stella porta lontano 
-       Fa                 Sol 
+	   Fa                 Sol 
 dove l’amore    non è straniero 
-         Do                   Sol 
+		 Do                   Sol 
 dove il cuore ha il viso di bambino 
-       Fa                 Sol              La-
+	   Fa                 Sol              La-
 sarà domani,    ogni volta qui, dentro di noi. 
 
 Do  Sol  La-  La-
 Do  Sol  Fa   Fa  Do          
-            </Testo>
-        </Canzone>
-        <Canzone Numero="100" Titolo="Spirito di Dio" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="100" Titolo="Spirito di Dio" Genere="">
+			<Testo>
  Sol 
 Dubbi 
  Sol           La 
 cerco   e tormenti, 
-        La     Do 
+		La     Do 
 la tua via; tentazioni
-    Do                      Sol  
+	Do                      Sol  
 tra tante strade false  mi circondano nel mondo 
  Sol 
 cerco la tua luce
@@ -3691,35 +3696,35 @@ di Dio  scendi tra di noi,
 solo il tuo amore 
 Sol 
 vie-ni tu,  uomini 
-        La-         Do 
+		La-         Do 
 può far nascere nel cuore 
 Si          Mi-
 qui, tra di noi
 
-       Do 
+	   Do 
 la mia anima 
-       La-
+	   La-
 ci sei tu 
-       Do 
+	   Do 
 questa pace che 
-    La-                 Sol 
+	La-                 Sol 
 emozione viva   cresce forte insieme a te 
-                  Re 
+				  Re 
 a guidarla nella vita 
-      Sol 
+	  Sol 
 nel cuore si diffonde 
-        Re  Do  Sol  La  Do  Sol 
+		Re  Do  Sol  La  Do  Sol 
 dentro me-e
 
 Sol 
 Pianti 
-    Sol            La 
+	Sol            La 
 le incertezze   e dolore 
-     La           Do 
+	 La           Do 
 e le paure  vedo intorno, 
-           Do        Sol 
+		   Do        Sol 
 di chi non ha   in persone come me 
-    Sol 
+	Sol 
 la forza che tu dai
 
 Mi-  Re 
@@ -3736,44 +3741,51 @@ di Dio  scendi tu tra noi,
 andar nel mondo e 
 Sol         Mi-  Re 
 vieni qui,  uomini 
-       La-      Do 
+	   La-      Do 
 far nascere l’amore 
 Si          Mi-
 tu, tra di noi
 
-    Do 
+	Do 
 Il cuore è forte 
-    La- 
+	La- 
 lo guida verso chi 
  Do 
 solo tu, 
-         La-            Sol 
+		 La-            Sol 
 puoi dar vi---ta    se la tua mano 
-        Re 
+		Re 
 chiede amore 
  Sol 
 Spirito fra noi, 
-      Re 
+	  Re 
 alla vita
 
 Mi- / Re   Do  Sol  Re  La-  Do 
 Mi- / Re   Do  Sol  Re  La-  Do  Do  Re  Sol  Sol 
-            </Testo>
-        </Canzone>
-        <Canzone Numero="101" Titolo="Ave Maria" Genere="Maria">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="101" Titolo="Ave Maria" Genere="Maria">
+			<Testo>
+Do  Do7  Fa  Sol    Do Fa
+A - ve Maria benedetta
+La-  Sol
+tu sei
+Ave Maria benedetta 
+tu sei
+	  Do Do7         Fa Re-
+Santa Maria madre di Dio 
+Fa Sol     Do Do7
+prega per noi
+Santa Maria madre di Dio 
+prega per noi
+
 Ave Maria benedetta tu sei
 Ave Maria benedetta tu sei
-Santa Maria madre di Dio prega per noi
-Santa Maria madre di Dio prega per noi
-Ave Maria benedetta tu sei
-Ave Maria benedetta tu sei
-Ave Maria benedetta tu sei
-Ave Maria benedetta tu sei          
-            </Testo>
-        </Canzone>
-        <Canzone Numero="102" Titolo="Ecco la dimora di Dio" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="102" Titolo="Ecco la dimora di Dio" Genere="">
+			<Testo>
 Re 	La      Do      Sol          RE    La  Do  Sol 	
 Ec--co la dimora di Dio con gli uomini 
 Re  La      Do  Sol     Re   La  Do  Sol 
@@ -3794,10 +3806,10 @@ Sol        La      Si-   Sol   RE    La
 perché le cose di prima sono passa---te 
 Re   La       Do     Sol           Re   La  Do  Sol  Re 
 Ec---co la dimora di Dio con gli uomini            
-            </Testo>
-        </Canzone>
-        <Canzone Numero="103" Titolo="Alzati" Genere="Inizio">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="103" Titolo="Alzati" Genere="Inizio">
+			<Testo>
 Do Sol  Fa           Sol 
 Alzati rivestiti di luce 
 Do Sol  Fa           Sol 
@@ -3824,34 +3836,41 @@ i re allo splendore del tuo sorgere
 alza gli occhi intorno e guarda 
  Re-    La-     Sol 
 tutti vengono a te          
-            </Testo>
-        </Canzone>
-        <Canzone Numero="104" Titolo="Santo" Genere="Santo">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="104" Titolo="Santo" Genere="Santo">
+			<Testo>
+Do Fa La- Sol
 Santo Santo 
+Fa       Re- Do Sol
 Dio dell’universo 
-i cieli e la terra sono pieni della Tua gloria 
-Osanna nell’alto dei cieli 
-osanna nell’alto dei cieli 
+i cieli e la terra sono 
+pieni della Tua gloria 
+	  Fa        Re-      Do Sol
+	Osanna nell’alto dei cieli 
+	osanna nell’alto dei cieli 
+La- Mi-     Fa       Do       Fa   Re-   Do Sol
 Benedetto colui che viene nel nome del Signore 
 benedetto colui che viene nel nome del Signore 
+Do Fa La- Sol
 Santo santo 
+Do Fa La- Sol Do
 Santo santo         
-            </Testo>
-        </Canzone>
-        <Canzone Numero="105" Titolo="Consolate il mio popolo " Genere="Natale">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="105" Titolo="Consolate il mio popolo " Genere="Natale">
+			<Testo>
 Rit.   
-     Mi   Si        Do#-  La 
-    Consolate il mio popolo 
+	 Mi   Si        Do#-  La 
+	Consolate il mio popolo 
 	           Mi      La    Mi  Si 
-    parlate al cuore di Gerusalemme 
+	parlate al cuore di Gerusalemme 
 	 Do#-    Fa#-      La    Si       Mi  La  Mi  Si 
-    e ad essa gridate che è finita la sua schiavitù
+	e ad essa gridate che è finita la sua schiavitù
 
 Do#-  Si     La Si 
 Una voce che grida 
-       Mi        Fa#-   La Si 
+	   Mi        Fa#-   La Si 
 nel deserto preparate la via 
   Do#-   Si   La  Si 
 appianate la strada 
@@ -3875,12 +3894,12 @@ ed ogni uomo la vedrà
 poiché la bocca di Dio ha parlato
 
 Rit.   
-    che è finita la sua schiavitù  
-    e la gloria di Dio verrà.           
-            </Testo>
-        </Canzone>
-        <Canzone Numero="106" Titolo="Adeste fideles" Genere="Natale">
-            <Testo>
+	che è finita la sua schiavitù  
+	e la gloria di Dio verrà.           
+			</Testo>
+		</Canzone>
+		<Canzone Numero="106" Titolo="Adeste fideles" Genere="Natale">
+			<Testo>
  Fa     Do      Fa           Do 
 Adeste fideles laeti triumphantes 
  Re-  Sol       Fa Do Sol Do 
@@ -3902,63 +3921,67 @@ Fa                            Do
 venite adoremus, venite adoremus, 
 Fa  Sib   Do Fa Sib Fa Do Fa
 venite adoremus Dominum.
-            </Testo>
-        </Canzone>
-        <Canzone Numero="107" Titolo="Tu scendi dalle stelle" Genere="Natale">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="107" Titolo="Tu scendi dalle stelle" Genere="Natale">
+			<Testo>
 Do              
 Tu scendi dalle stelle 
-           Sol7
+		   Sol7
 o Re del cielo 
 e vieni in una grotta 
-                 Do 
+				 Do 
 al freddo e al gelo. (2 v.)
 
-    Sol7 
+	Sol7 
 O Bambino 
-       Do 
+	   Do 
 mio divino 
-      Sol7
+	  Sol7
 io Ti vedo 
-        Do 
+		Do 
 qui a tremar
-       Sol7
+	   Sol7
 o Dio beato  
 ah quanto Ti costò 
-           Do             
+		   Do             
 l’avermi amato! (2 v.)  
 
  Do  
 A Te che sei del mondo 
-      Sol7
+	  Sol7
 il Creatore 
 mancano panni e fuoco 
-          Do 
+		  Do 
 o mio Signore! (2 v.)  
 
-       Sol7
+	   Sol7
 Caro eletto 
-      Do
+	  Do
 pargoletto 
-        Sol7 
+		Sol7 
 quanto questa 
    Do
 povertà 
-          Sol7
+		  Sol7
 più m’innamora, 
 giacché Ti fece amor 
-           Do 
+		   Do 
 povero ancora! (2 v.)  
-            </Testo>
-        </Canzone>
-        <Canzone Numero="108" Titolo="Benedici" Genere="Offertorio">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="108" Titolo="Benedici" Genere="Offertorio">
+			<Testo>
 Rit:
-    Benedici, benedici, oh Signore 
-    benedici, benedici, oh Signore
+	Re        Sol       Re        Sol
+	Benedici, benedici, oh Signore 
+	benedici, benedici, oh Signore
 
+Re                 La
 Questo pane, nato dalla terra, 
+Si-        Sol
 nato dalla nostra fatica. 
+Sol             La
 Rendilo nostra salvezza, 
 rendilo nostra salvezza.
 
@@ -3970,34 +3993,34 @@ Rendilo nostra salvezza,
 rendilo nostra salvezza.
 
 Rit.            
-            </Testo>
-        </Canzone>
-        <Canzone Numero="109" Titolo="Palpiti di vita" Genere="Comunione">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="109" Titolo="Palpiti di vita" Genere="Comunione">
+			<Testo>
 So         Sol     Fa   Sol 
 Sui Tuoi sentieri crescerò 
  Do        Sol    Fa  Sol 
 nel Tuo creato Ti troverò 
   Fa      Do     Sol 
 e no, non Ti lascerò 
-       Fa      Do  Sol 
+	   Fa      Do  Sol 
 il Tuo amore respirerò 
   La-               Fa   Do  Sol 
 non mi negare gli occhi Tuoi 
-    La-       Fa    Do  Sol 
+	La-       Fa    Do  Sol 
 Dio mio, sono Tua e lo sai.
 
 Rit:
-      Do          Fa         Do 
-    Solo Tu doni palpiti di vita 
+	  Do          Fa         Do 
+	Solo Tu doni palpiti di vita 
 	    La-       Fa     Do     Sol 
-    nel Tuo silenzio la mia libertà 
+	nel Tuo silenzio la mia libertà 
 	   La-    Fa 
-    gioirò con Te 
+	gioirò con Te 
 	   Do     Re-
-    soffrirò con Te 
+	soffrirò con Te 
 	  Do        Fa    Sol    Do 
-    Dio mio sei la mia eternità
+	Dio mio sei la mia eternità
 
 La terra trema se non ci sei 
 l’uomo ha paura se non sei con lui 
@@ -4007,10 +4030,10 @@ e Ti canterò
 e Ti amerò.
 
 Rit. (2 v.)         
-            </Testo>
-        </Canzone>
-        <Canzone Numero="110" Titolo="Ogni mia parola" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="110" Titolo="Ogni mia parola" Genere="">
+			<Testo>
  Do       Sol         Do  Sol 
 Come la pioggia e la neve
   Do      Fa       Sol 
@@ -4025,13 +4048,13 @@ senza operare quanto desidero
 senza aver compiuto ciò per cui l'avevo mandata.
 Ogni mia parola
 ogni mia parola. (tutto 2 v.)           
-            </Testo>
-        </Canzone>
-        <Canzone Numero="111" Titolo="Salve regina" Genere="Maria">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="111" Titolo="Salve regina" Genere="Maria">
+			<Testo>
  Sol   Re      Do           Sol 
 Salve Regina, madre di misericordia 
-        Re                  Do 
+		Re                  Do 
 Vita, dolcezza, speranza nostra, 
  Sol           Re 
 salve, salve Regina. (2 v.)
@@ -4040,77 +4063,77 @@ Sol       La-     Re            Sol
 A te ricorriamo, esuli figli di Eva, 
  Mi-      Si-        Do 
 a te sospiriamo, piangenti, 
-                     Re  
+					 Re  
 in questa valle di lacrime. 
 Sol       La-       Re                  Sol 
 Avvocata nostra, volgi a noi gli occhi tuoi, 
 Mi-                     Si-
 mostraci dopo questo esilio 
-     Do                  Re
+	 Do                  Re
 il frutto del tuo seno Gesù.
 
 Sol      Re     Do             Sol 
 Salve Regina, madre di misericordia 
-              Re            Do 
+			  Re            Do 
 o clemente, o pia, o dolce Vergine Maria,
 Sol     Re      Sol    Re    Do Sol  
 salve Regina. Salve Regina, salve.          
-            </Testo>
-        </Canzone>
-        <Canzone Numero="112" Titolo="Vi lascio la pace" Genere="Scambio della pace">
-            <Testo>
-      Re      Do 
+			</Testo>
+		</Canzone>
+		<Canzone Numero="112" Titolo="Vi lascio la pace" Genere="Scambio della pace">
+			<Testo>
+	  Re      Do 
 Vi lascio la pace,
   Sol         Re 
 vi do la mia pace
-             Si-              La 
+			 Si-              La 
 che non sia turbato il vostro cuore
-      Mi-   Sol   Re 
+	  Mi-   Sol   Re 
 e non abbia più timore.
 
-    Re               Do 
+	Re               Do 
 Benedetto colui che viene
-    Sol        Re 
+	Sol        Re 
 nel nome del Signore
-               Si-               La 
+			   Si-               La 
 Ti prego non guardare ai nostri peccati
-        Mi-      Sol      Re 
+		Mi-      Sol      Re 
 ma alla fede della Tua chiesa.
 
-    Re                   Do 
+	Re                   Do 
 Lo Spirito Santo che il Padre
-    Sol          Re 
+	Sol          Re 
 manderà nel mio nome
-        Si-                       La 
+		Si-                       La 
 vi ricorderà tutto quello che ho detto
-       Mi-      Sol   Re 
+	   Mi-      Sol   Re 
 e vi insegnerà ogni cosa. (2 v.)
 
-      Re      Do        
+	  Re      Do        
 Vi lascio la pace,
   Sol         Re 
 vi do la mia pace
-              Si-              La 
+			  Si-              La 
 che non sia turbato il vostro cuore
-        Mi-  Sol   Re 
+		Mi-  Sol   Re 
 e non abbia più timore. (2 v.)
-     La-   Do  Re  
+	 La-   Do  Re  
 Vi lascio la pace.          
-            </Testo>
-        </Canzone>
-        <Canzone Numero="113" Titolo="Vieni e seguimi" Genere="Comunione">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="113" Titolo="Vieni e seguimi" Genere="Comunione">
+			<Testo>
  Sol                 Do 
 Lascia che il mondo vada 
-             Sol 
+			 Sol 
 per la sua strada.
-         Si-          Mi-
+		 Si-          Mi-
 Lascia che l’uomo ritorni 
-           Re 
+		   Re 
 alla sua casa.
-        Do 
+		Do 
 Lascia che la gente accumuli 
-         Sol 
+		 Sol 
 la sua fortuna.
    Re     Do        Sol 
 Ma tu, vieni e seguimi, 
@@ -4126,27 +4149,27 @@ i frutti maturi.
 Ma tu, tu vieni e seguimi, 
 tu vieni e seguimi.
 
-        Mi             La 
-    E sarai luce per gli uomini
+		Mi             La 
+	E sarai luce per gli uomini
 	    Mi              Si 
-    e sarai sale della terra
+	e sarai sale della terra
 	       Re       Mi 
-    e nel mondo deserto aprirai
+	e nel mondo deserto aprirai
 	       La 
-    una strada nuova. (2 v.)
+	una strada nuova. (2 v.)
   Mi                 Fa#-
 E per questa strada va’, va’
-    Mi               La 
+	Mi               La 
 e non voltarti indietro, va’
-    Mi            La 
+	Mi            La 
 e non voltarti indietro.            
-            </Testo>
-        </Canzone>
-        <Canzone Numero="114" Titolo="Vivere la vita" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="114" Titolo="Vivere la vita" Genere="">
+			<Testo>
 Do        Sol
 Vivere la vita 
-       Re-         Fa             La-
+	   Re-         Fa             La-
 con le gioie e coi dolori di ogni giorno,
 Sol              Do          Fa Sol
 è quello che Dio vuole da te.
@@ -4180,21 +4203,21 @@ Scoprirai allora il cielo dentro di te,
 una scia di luce lascerai,
 Fa          Re-       Do
 una scia di luce lascerai.
-            </Testo>
-        </Canzone>
-        <Canzone Numero="115" Titolo="Vieni santo Spirito" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="115" Titolo="Vieni santo Spirito" Genere="">
+			<Testo>
 Rit:
 	Do    Sol   La-      Fa      Do      Sol
-    Vieni santo Spirito, manda a noi dal cielo 
+	Vieni santo Spirito, manda a noi dal cielo 
 	   Do  Fa    Do Sol   Fa        Do
-    un raggio di luce, un raggio di luce. 
-    Vieni Padre dei poveri, vieni datore dei doni,
-    luce dei cuori, luce dei cuori.
+	un raggio di luce, un raggio di luce. 
+	Vieni Padre dei poveri, vieni datore dei doni,
+	luce dei cuori, luce dei cuori.
 
 La-         Sol   La- Fa     Sol        Do  Mi
 Consolatore perfetto, ospite dolce dell’anima
-    La-       Sol       La-        Mi
+	La-       Sol       La-        Mi
 dolcissimo sollievo, dolcissimo sollievo. 
 Nella fatica riposo, nel calore riparo, 
 nel pianto conforto, nel pianto conforto.
@@ -4214,57 +4237,57 @@ Dona virtù e premio, dona morte santa,
 dona eterna gioia, dona eterna gioia.
 
 Rit.
-            </Testo>
-        </Canzone>
-        <Canzone Numero="116" Titolo="Anche se non ci conosciamo" Genere="Scambio della pace">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="116" Titolo="Anche se non ci conosciamo" Genere="Scambio della pace">
+			<Testo>
  Do
-        Do     Fa       Do 
+		Do     Fa       Do 
 Nel Signore io ti do la pace 
-      Fa         Do 
+	  Fa         Do 
 pace a te, pace a te 
-         La-  Fa       Do 
+		 La-  Fa       Do 
 nel Suo nome resteremo uniti 
   Fa   Do   Sol   Do 
 pace a te, pace a te 
-     Do      Fa     Do 
+	 Do      Fa     Do 
 e se ancora non ci conosciamo 
-    Fa         Do
+	Fa         Do
 pace a te, pace a te 
-     La-        Fa      Do 
+	 La-        Fa      Do 
 Lui conosce tutti i nostri cuori 
   Fa   Do   Sol   Do     Re 
 pace a te, pace a te
 
  Re             Sol         Re 
 Se il pensiero non è sempre unito 
-      Sol        Re 
+	  Sol        Re 
 pace a te, pace a te 
-    Si-        Sol     Re 
+	Si-        Sol     Re 
 siamo uniti nella stessa fede 
    Sol      Re   La  Re 
 pace a te, pace a te 
-     Re   Sol    Re 
+	 Re   Sol    Re 
 e se noi non giudicheremo 
-      Sol       Re 
+	  Sol       Re 
 pace a te, pace a te 
-      Si-       Sol     Re 
+	  Si-       Sol     Re 
 il Signore ci verrà a salvare 
  Sol   Re   La   Si-
 pace a te, pace a te. (2 v.) 
  Sol   Re   La   Re            
-            </Testo>
-        </Canzone>
-        <Canzone Numero="117" Titolo="Santo (Osanna eh)" Genere="Santo">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="117" Titolo="Santo (Osanna eh)" Genere="Santo">
+			<Testo>
  Re        Sol   Re  La  Re Sol Re 
 Santo oh, santo osanna. (2 v.)
 
 Rit:
-     Re         Sol   Re 
-    Osanna eh, osanna eh, 
+	 Re         Sol   Re 
+	Osanna eh, osanna eh, 
 	 Sol       La     Re 
-    osanna a Cristo Signor. (2 v.)  (osanna eh)
+	osanna a Cristo Signor. (2 v.)  (osanna eh)
 
 I cieli e la terra, o Signore, sono pieni di Te. (2 v.)
 
@@ -4273,10 +4296,10 @@ Rit.
 Benedetto colui che viene nel nome del Signor. (2 v.)
 
 Rit.            
-            </Testo>
-        </Canzone>
-        <Canzone Numero="118" Titolo="Te al centro del mio cuore" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="118" Titolo="Te al centro del mio cuore" Genere="">
+			<Testo>
 Mi-                               Sol
 Ho bisogno di incontrarti nel mio cuore,
 Si-  
@@ -4286,9 +4309,9 @@ unica ragione Tu, unico sostegno Tu,
 al centro del mio cuore ci sei solo Tu.
 
 Rit:
-    Tutto ruota attorno a Te,
-    in funzione di Te e poi non importa 
-    il “come”, il “dove”, il “se”.
+	Tutto ruota attorno a Te,
+	in funzione di Te e poi non importa 
+	il “come”, il “dove”, il “se”.
 
 Anche il cielo gira intorno e non ha pace,
 ma c’è un punto fermo, è quella stella là,
@@ -4307,10 +4330,10 @@ al centro del mio cuore ci sei solo Tu.
 Rit.
 
 Ho bisogno di incontrarti nel mio cuore.            
-            </Testo>
-        </Canzone>
-        <Canzone Numero="119" Titolo="Padre nostro che" Genere="">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="119" Titolo="Padre nostro che" Genere="">
+			<Testo>
 Do               Do      Fa   Sol
 Padre nostro che sei nei cieli, 
 Fa         Sol          La-
@@ -4327,17 +4350,17 @@ come perdoniamo noi,
 fa’ che non cadiamo in tentazione 
 e dal male liberaci 
 e dal male liberaci.
-            </Testo>
-        </Canzone>
-        <Canzone Numero="120" Titolo="Santo (Osanna nelle altezze)" Genere="Santo">
-            <Testo>
-     Mi-   Re   Do   (2v.)
+			</Testo>
+		</Canzone>
+		<Canzone Numero="120" Titolo="Santo (Osanna nelle altezze)" Genere="Santo">
+			<Testo>
+	 Mi-   Re   Do   (2v.)
 	 
 	   Mi- Re Do Si7
 (donne) Santo santo    (uomini) Santo santo
   Mi-         Re 
 I cieli e la terra
-      Do              Si-
+	  Do              Si-
 sono pieni della Tua gloria.
  Mi- Re Do Si7
 Santo santo.
@@ -4347,7 +4370,7 @@ Osanna osanna osanna
 osanna nelle Altezze (2v.)
  Mi-       Re  
 Benedetto colui che viene 
-     Do         Si7
+	 Do         Si7
 nel nome del Signore.
  Mi- Re Do Si7
 Santo santo.
@@ -4360,53 +4383,53 @@ osanna nelle Altezze. (2 v.)
 Mi-     Re      Do 
 Osanna osanna osanna 
 osanna osanna osanna
-            </Testo>
-        </Canzone>
-        <Canzone Numero="121" Titolo="Adesso è la pienezza" Genere="Natale|Maria">
-            <Testo>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="121" Titolo="Adesso è la pienezza" Genere="Natale|Maria">
+			<Testo>
  La           
 Dopo il tempo del deserto, 
-             Re 
+			 Re 
 adesso è il tempo di pianure fertili.
  La  
 Dopo il tempo delle nebbie, 
-        Re
+		Re
 adesso s'apre l'orizzonte limpido.
  Si-          
 Dopo il tempo dell'attesa, 
-            Fa#-                      Mi   Re 
+			Fa#-                      Mi   Re 
 adesso è il canto, la pienezza della gioia:
-                       Mi 
+					   Mi 
 l'immacolata Donna ha dato al mondo Dio.
 
  La 
 La fanciulla più nascosta 
-        Re
+		Re
 adesso è madre del Signore Altissimo.
  La  
 La fanciulla più soave 
-        Re
+		Re
 adesso illumina la terra e i secoli.
  Si-           
 La fanciulla del silenzio 
-           Fa#-                   Mi      Re
+		   Fa#-                   Mi      Re
 adesso è il canto, la pienezza della gioia:
-               Mi 
+			   Mi 
 l'immacolata Donna ha dato al mondo Dio. 
 
 Rit:
-        Fa#-
-    È nato, nato! 
+		Fa#-
+	È nato, nato! 
 	  La                 Mi               Fa#-
-    È qualcosa di impensabile, eppure è nato, nato!
+	È qualcosa di impensabile, eppure è nato, nato!
 	  La                    Mi                Si-
-    Noi non siamo soli, il Signore ci è a fianco.
+	Noi non siamo soli, il Signore ci è a fianco.
 	  Re                  Mi
-    È nato! Questa valle tornerà come un giardino.
+	È nato! Questa valle tornerà come un giardino.
 	   Mi-          Re
-    Il cuore già lo sa. 
+	Il cuore già lo sa. 
 	  La                  Mi 
-    È nata la speranza, è nata la speranza.
+	È nata la speranza, è nata la speranza.
 
  La                               Re
 La potenza del creato adesso è il pianto di un bambino fragile.
@@ -4414,14 +4437,14 @@ La potenza del creato adesso è il pianto di un bambino fragile.
 La potenza della gloria adesso sta in una capanna povera.
  Si-                                Fa#-             Mi       Re 
 La potenza dell'amore adesso è il canto, la pienezza della gioia:
-                      Mi 
+					  Mi 
 l'immacolata Donna ha dato al mondo Dio. 
 
 Rit.
 
  La        Re        La        Re         Si-
 Tu adesso sei bimbo, tu adesso hai una madre. 
-           Fa#-  Mi     Re     Mi 
+		   Fa#-  Mi     Re     Mi 
 Tu l'hai creata bellissima e dormi nel suo grembo... 
 
  Fa#-       La   Mi   Fa#-   La   Mi   Si-
@@ -4431,19 +4454,19 @@ Tu l'hai creata bellissima e dormi nel suo grembo...
  Mi-            Re     La                 Mi 
 Il cuore già lo sa. È nata la speranza, è nata la speranza.
 La   Re   La   Re 
-            </Testo>
-        </Canzone>      
-        <Canzone Numero="122" Titolo="Quale gioia" Genere="">       
-            <Testo>
+			</Testo>
+		</Canzone>      
+		<Canzone Numero="122" Titolo="Quale gioia" Genere="">       
+			<Testo>
 Rit:
-    Re     La      Mi-  Sol
-    Quale gioia mi dissero
+	Re     La      Mi-  Sol
+	Quale gioia mi dissero
 	Re           La       Mi- Sol La
-    andremo alla casa del Signore
+	andremo alla casa del Signore
 	Re    La         Mi-  Sol
-    ora i piedi, o Gerusalemme,
+	ora i piedi, o Gerusalemme,
 	   Re        La      Re
-    si fermano davanti a te
+	si fermano davanti a te
 
 Re         La   Mi- Sol   La
 Ora Gerusalemme è ricostruita
@@ -4476,10 +4499,10 @@ Noi siamo il suo popolo, Egli è il nostro Dio
 Possa rinnovarci la felicità.   
 
 Rit.
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="123" Titolo="Emmanuel" Genere="">      
-            <Testo>
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="123" Titolo="Emmanuel" Genere="">      
+			<Testo>
 Mi
 Dall'orizzonte una grande luce
 Si
@@ -4507,21 +4530,21 @@ Per il mondo intero:
 Cristo tra noi.
 
 Rit.      
-          Mi
-    Siamo qui
+		  Mi
+	Siamo qui
 	La
-    Sotto la stessa luce
+	Sotto la stessa luce
 	Fa#-
-    Sotto la sua croce
+	Sotto la sua croce
 	Re              Si7
-    Cantando ad una voce.
+	Cantando ad una voce.
 	Mi        Si
-    E' l'Emmanuel
+	E' l'Emmanuel
 	      La       Si Si7
-    Emmanuel, Emmanuel
+	Emmanuel, Emmanuel
 	Mi        Si         La  Mi Si7
-    E' l'Emmanuel, Emmanuel.
-    
+	E' l'Emmanuel, Emmanuel.
+	
 Dalla città di chi ha versato
 Il sangue per amore
 Ed ha cambiato il vecchio mondo 
@@ -4577,30 +4600,30 @@ Per dire al mondo, ad ogni uomo:
 Signore Gesù            
 
 Rit.      
-    Siamo qui
-    Sotto la stessa luce
-    Sotto la sua croce
-    Cantando ad una voce.
-    E' l'Emmanuel
-    Emmanuel, Emmanuel.
-    E' l'Emmanuel, Emmanuel.
-    (Sotto la stessa croce cantando ad una voce)
-    È l'Emmanuel, (Dio con noi)
-    L'Emmanuel, l'Emmanuel (Cristo tra noi)
-                    
+	Siamo qui
+	Sotto la stessa luce
+	Sotto la sua croce
+	Cantando ad una voce.
+	E' l'Emmanuel
+	Emmanuel, Emmanuel.
+	E' l'Emmanuel, Emmanuel.
+	(Sotto la stessa croce cantando ad una voce)
+	È l'Emmanuel, (Dio con noi)
+	L'Emmanuel, l'Emmanuel (Cristo tra noi)
+					
 	    Fa#            Do#
-    È l'Emmanuel, Emmanuel
-    (Sotto la stessa croce cantando ad una voce.)
+	È l'Emmanuel, Emmanuel
+	(Sotto la stessa croce cantando ad una voce.)
 	         Si        Do#  Do#7
-    È l'Emmanuel, Emmanuel,
-    (Sotto la sua croce)
+	È l'Emmanuel, Emmanuel,
+	(Sotto la sua croce)
 	Fa#       Do#       Si Fa# Do#
-    È l'Emmanuel, Emmanuel
-            </Testo>
-        </Canzone>  
-        <Canzone Numero="124" Titolo="Doni" Genere="Offertorio">        
-            <Testo>
-     La           Re     La        Mi  
+	È l'Emmanuel, Emmanuel
+			</Testo>
+		</Canzone>  
+		<Canzone Numero="124" Titolo="Doni" Genere="Offertorio">        
+			<Testo>
+	 La           Re     La        Mi  
 Biondeggian nei campi le spighe d'oro,
    La        Re          La          Mi 
 il sole, la pioggia ed il nostro lavoro
@@ -4611,23 +4634,23 @@ sarà il Tuo corpo per chi ne avrà fame......(.....strumenti.....)
 
    La      Re         La        Mi 
 La vite da sempre produce ricchezza
-    La        Re      La           Mi 
+	La        Re      La           Mi 
 di grappoli dolci che danno l'ebrezza,
-      Fa#-       Do#-     Re      La 
+	  Fa#-       Do#-     Re      La 
 ma il succo dell'uva che oggi portiamo
    Si-     La           Mi       La          Re      La     Mi
 salvezza sarà per ogni essere umano......(.....strumenti.....)
 
   La       Re           La       Mi 
 Colma d'offerte è la mensa imbandita,
-     La    Re         La       Mi 
+	 La    Re         La       Mi 
 ma ancora più bella sarà se fiorita,
-    Fa#-        Do#-      Re        La 
+	Fa#-        Do#-      Re        La 
 se accanto ai fiori, al pane ed il vino,
-    Si-      La      Mi        La          Re      La     Mi
+	Si-      La      Mi        La          Re      La     Mi
 ciascuno porrà il proprio destino......(.....strumenti.....)
 
-     La      Re       La      Mi 
+	 La      Re       La      Mi 
 Son povere cose son vite normali,
  La         Re          La        Mi
 fatte di giorni troppo spesso banali,
@@ -4635,15 +4658,15 @@ fatte di giorni troppo spesso banali,
 fatte di gioie, dolori e passioni,
  Si-         La      Mi            La          Re      La     Mi
 ma te le offriamo, sono i nostri doni......(.....strumenti.....) (2 v.)           
-            </Testo>
-        </Canzone>          
-        <Canzone Numero="125" Titolo="Ave Maria (Verbum panis)" Genere="Maria">     
-            <Testo>
+			</Testo>
+		</Canzone>          
+		<Canzone Numero="125" Titolo="Ave Maria (Verbum panis)" Genere="Maria">     
+			<Testo>
 Rit:
    Do Sol La- Fa Do Sol Re- Fa
-    Ave Maria, Ave!
+	Ave Maria, Ave!
    Do Sol La- Fa Do Sol Do 
-    Ave Maria, Ave!
+	Ave Maria, Ave!
  Do                 La-       Sol 
 Donna dell'attesa e madre di speranza,
  Fa 
@@ -4673,30 +4696,30 @@ Donna della terra e madre dell'amore,
 ora pro nobis.      
 
 Rit.                
-            </Testo>
-        </Canzone>          
-        <Canzone Numero="126" Titolo="Resta accanto a me" Genere="Fine">
-            <Testo>
+			</Testo>
+		</Canzone>          
+		<Canzone Numero="126" Titolo="Resta accanto a me" Genere="Fine">
+			<Testo>
 Intro:
 Re  Sol  La4
 
 Rit:
-    Re  La   Sol       Re 
-    Ora vado sulla mia strada
+	Re  La   Sol       Re 
+	Ora vado sulla mia strada
 	Mi-  Fa#-   Sol        La 
-    Con l'amore tuo che mi guida
+	Con l'amore tuo che mi guida
 	Re  La       Sol       Re 
-    Oh Signore, ovunque io vada
+	Oh Signore, ovunque io vada
 	Sol    La       Re 
-    Resta accanto a me.
+	Resta accanto a me.
 	re    La     Sol     Re 
-    Io ti prego, stammi vicino
+	Io ti prego, stammi vicino
 	Mi-  Fa#-  Sol        La 
-    ogni passo del mio cammino
+	ogni passo del mio cammino
 	Re   La      Sol     Re 
-    ogni notte e ogni mattino
+	ogni notte e ogni mattino
 	Sol      La     Re 
-    Resta accanto a me
+	Resta accanto a me
 
 La             Sol               Si-
 Il tuo sguardo puro sia luce per me
@@ -4706,7 +4729,7 @@ Sol              La
 Che io trovi il senso del mio andare 
 Si- La    Re 
 so--lo in te
-    La          Sol            Re 
+	La          Sol            Re 
 Nel tuo fedele amare il mio perché
 
 Rit.
@@ -4723,7 +4746,35 @@ pen--si a te
 E di quell'amore che hai dato a me
 
 Rit.
-            </Testo>
-        </Canzone>
-    </Canzoni>
+			</Testo>
+		</Canzone>
+		<Canzone Numero="127" Titolo="Lode a te o Cristo" Genere="Alleluia|Quaresima">
+			<Testo>
+Do     Fa   Do Sol
+Lode a te o Cristo
+La-    Fa    Do Sol
+Re di eterna gloria
+Do     Fa   Mi- Sol
+Lode a te o Cristo
+La-    Fa    Do 
+Re di eterna gloria
+			</Testo>
+		</Canzone>
+		<Canzone Numero="128" Titolo="Agnello di Dio" Genere="Scambio della pace">
+			<Testo>
+Re
+Agnello di Dio 
+	Si-                  Sol
+che toglie i peccati del mondo
+Mi-    Sol    La
+abbi pietà di noi (2v)
+Fa#-
+Agnello di Dio 
+	Si-                  Sol
+che toglie i peccati del mondo
+Mi-    La     Sol Sol- Re
+dona a noi la pace
+			</Testo>
+		</Canzone>		
+	</Canzoni>
 </Canzoniere>

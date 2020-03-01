@@ -3610,5 +3610,23 @@ E di quell'amore che hai dato a me
 Rit.
 			</Testo>
 		</Canzone>
+        <Canzone Numero="127" Titolo="Lode a te o Cristo" Genere="Alleluia|Quaresima">
+            <Testo>
+Lode a te o Cristo
+Re di eterna gloria
+Lode a te o Cristo
+Re di eterna gloria
+			</Testo>
+        </Canzone>
+        <Canzone Numero="128" Titolo="Agnello di Dio" Genere="Scambio della pace">
+            <Testo>
+Agnello di Dio 
+che toglie i peccati del mondo
+abbi pietà di noi (2v)
+Agnello di Dio 
+che toglie i peccati del mondo
+dona a noi la pace
+			</Testo>
+        </Canzone>		
 	</Canzoni>
 </Canzoniere>

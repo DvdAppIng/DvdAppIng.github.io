@@ -542,13 +542,13 @@ Fa Sib Fa Re- La- Do
 Rit:
 	Fa       Sib       Fa
 	Signor rimani con noi
-			Re-   La-       Do Do7
+            Re-   La-       Do Do7
 	non lasciarci soli quaggiù.
-	Fa       Sib       Fa
+	Fa       Sib       Re-
 	Signor rimani con noi
-		   Fa       Do   Sib Do
+	       Fa       Do   Sib Do
 	già discende la sera ormai
-		Mib       Fa
+	   Mib       Fa
 	o… dimmi dove sei.
 
 Fa        Sib             Re-
@@ -2456,15 +2456,15 @@ promessa di unione.
 Alleluia...
 			</Testo>
 		</Canzone>      
-		<Canzone Numero="66" Titolo="È giunta l’ora" Genere="Quaresima">
+		<Canzone Numero="66" Titolo="E' giunta l’ora" Genere="Quaresima">
 			<Testo>
 Re Sol     Re  Sol       Re			
 È giunta l’ora Padre per me;
-		 Si-     Sol   La La7
+         Si-     Sol   La La7
 ai miei amici ho detto che
-			Re   FA#-      Si- Sol
+            Re   FA#-      Si- Sol
 questa è la vita conoscere Te
-			La    Sol     Re
+            La    Sol     Re
 e il Figlio Tuo Cristo Gesù.
 Erano Tuoi li hai dati a me,
 ed ora sanno che torno a Te
@@ -3252,7 +3252,7 @@ Fa          Re-         Sol Sol7
 no non dire più che morirai
  Do       Mi             La-      Do 
 bevi non pensare che la notte è lunga 
-	   Fa    Sol        Do  Sol 
+       Fa    Sol        Do  Sol 
 e la vita è tutta da passar.
 
 Piange questa notte così fonda
@@ -3263,9 +3263,9 @@ che la notte corre e la luna è ferma là.
 Noi che siamo sempre stati insieme
 noi crediamo sempre nel Tuo amor                
 
-Do            Sol            La- Do 
+Do            Mi           La- Do 
 gireremo il mondo e la Tua Parola
-Fa          Sol        Sol7 
+     Fa       Sol        Sol7 
 ogni uomo con noi conoscerà. (2 v.)             
 			</Testo>
 		</Canzone>  
@@ -3997,7 +3997,7 @@ Rit.
 		</Canzone>
 		<Canzone Numero="109" Titolo="Palpiti di vita" Genere="Comunione">
 			<Testo>
-So         Sol     Fa   Sol 
+Do         Sol     Fa   Sol 
 Sui Tuoi sentieri crescerò 
  Do        Sol    Fa  Sol 
 nel Tuo creato Ti troverò 
@@ -4302,15 +4302,21 @@ Rit.
 			<Testo>
 Mi-                               Sol
 Ho bisogno di incontrarti nel mio cuore,
-Si-  
+Si-                               Do
 di trovare Te, di stare insieme a Te,
+La-                         Mi-
 unico riferimento del mio andare,
+Do            Re    Si-          Mi-
 unica ragione Tu, unico sostegno Tu,
+Do                      Re          Sol
 al centro del mio cuore ci sei solo Tu.
 
 Rit:
+	       Si-            Do
 	Tutto ruota attorno a Te,
+	             Si- Mi-    Si-
 	in funzione di Te e poi non importa 
+	    Do                    Re
 	il “come”, il “dove”, il “se”.
 
 Anche il cielo gira intorno e non ha pace,
@@ -4328,7 +4334,7 @@ unico sostegno Tu, la stella polare Tu
 al centro del mio cuore ci sei solo Tu. 
 
 Rit.
-
+Mi-                                Sol Mi-
 Ho bisogno di incontrarti nel mio cuore.            
 			</Testo>
 		</Canzone>

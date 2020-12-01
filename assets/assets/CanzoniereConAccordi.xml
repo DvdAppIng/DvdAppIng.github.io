@@ -700,9 +700,9 @@ Rit.
 			<Testo>
 Re- Do Sib Do (2 volte)
 
-Re- Do         Sib-       Do  Re- Do Sib Do
+Re- Do         Sib        Do  Re- Do Sib Do
 Tu sei la mia roccia e il mio baluardo
-Re- Do         Sib-   Do           Re- Do Sib Do
+Re- Do         Sib    Do           Re- Do Sib Do
 e per i Tuoi sentieri dirigi i miei passi.
 Fa Do           Re-    Do/Sib    Fa
 Ma certe volte, sai, abbasso gli occhi
@@ -3327,13 +3327,13 @@ Rit.
 	ma Ti cercavo dentro di me.
 Do#-        Sol#-             Do#-
 Dai miei pensieri vestiti di noia
-		   Si                 Do#-
+          Si                 Do#-
 da questo vuoto che sale Tu salvami
-	Sol#-                Do#-
+    Sol#-                Do#-
 dall’ombra che mi abita salvami
-		Si                 La 
+         Si                 La 
 l’indifferenza che mi sta rodendo il cuore
-				Si           Si La Mi 
+                Si           Si 
 Tu l’acqua viva mi puoi dare.
 Rit.    
 	Mi          Si 
@@ -3348,13 +3348,13 @@ Rit.
 	e sei risorto dentro di me.
 Do#-   Sol#-            Do#-
 Dalle pareti malate dell’odio
-		Si                  Do#-
+        Si                  Do#-
 dalle risposte non date Tu salvami
    Sol#-               Do#-
 dai troppi silenzi Tu salvami
-			  Si              La 
+              Si              La 
 l’acqua che è vita se Tu mi darai da bere
-		Si           Si La Mi 
+        Si           Si La Mi 
 io non avrò più sete.
 Rit.    (solo strum.)
 	--- Mi  Si  Do#-  La 
@@ -3364,17 +3364,17 @@ Rit.    (solo strum.)
 	e sei risorto dentro di noi.
 	Do#-  Sol#-             Do#-
 La nostra terra ferita che spera
-		  Si                Do#-
+          Si                Do#-
 il mondo che vuole pace Tu salvalo
-	 Sol#-              Do#-
+     Sol#-              Do#-
 dai troppi silenzi tu salvalo
-			   Si             La 
+               Si             La 
 l’acqua che è vita se Tu gli darai da bere
-			  Si 
+              Si 
 il mondo non avrà più sete
-		La 
+        La 
 no non avrà più sete
-		 Si       Si   Do#-
+         Si       Si   Do#-
 io non avrò più sete… SALVAMI!!!            
 			</Testo>
 		</Canzone>      
@@ -4003,11 +4003,11 @@ Sui Tuoi sentieri crescerò
 nel Tuo creato Ti troverò 
   Fa      Do     Sol 
 e no, non Ti lascerò 
-	   Fa      Do  Sol 
+          Fa      Do  Sol 
 il Tuo amore respirerò 
   La-               Fa   Do  Sol 
 non mi negare gli occhi Tuoi 
-	La-       Fa    Do  Sol 
+    La-       Fa    Do  Sol 
 Dio mio, sono Tua e lo sai.
 
 Rit:
@@ -4017,7 +4017,7 @@ Rit:
 	nel Tuo silenzio la mia libertà 
 	   La-    Fa 
 	gioirò con Te 
-	   Do     Re-
+	   Do     Re- Fa
 	soffrirò con Te 
 	  Do        Fa    Sol    Do 
 	Dio mio sei la mia eternità
@@ -4366,7 +4366,7 @@ e dal male liberaci.
 (donne) Santo santo    (uomini) Santo santo
   Mi-         Re 
 I cieli e la terra
-	  Do              Si-
+      Do              Si7
 sono pieni della Tua gloria.
  Mi- Re Do Si7
 Santo santo.
@@ -4376,7 +4376,7 @@ Osanna osanna osanna
 osanna nelle Altezze (2v.)
  Mi-       Re  
 Benedetto colui che viene 
-	 Do         Si7
+     Do         Si7
 nel nome del Signore.
  Mi- Re Do Si7
 Santo santo.
@@ -4669,17 +4669,17 @@ ma te le offriamo, sono i nostri doni......(.....strumenti.....) (2 v.)
 		<Canzone Numero="125" Titolo="Ave Maria (Verbum panis)" Genere="Maria">     
 			<Testo>
 Rit:
-   Do Sol La- Fa Do Sol Re- Fa
+	Do Sol La- Fa Do Sol Re- Fa
 	Ave Maria, Ave!
-   Do Sol La- Fa Do Sol Do 
+	Do Sol La- Fa Do Sol Do 
 	Ave Maria, Ave!
- Do                 La-       Sol 
+ Do                 La-       
 Donna dell'attesa e madre di speranza,
- Fa 
+Sol       Fa 
 ora pro nobis.
- Do                  La-        Sol 
+ Do                  La-
 Donna del sorriso e madre del silenzio,
- Fa 
+Sol       Fa 
 ora pro nobis.
  Do                   Sol          
 Donna di frontiera e madre dell'ardore,

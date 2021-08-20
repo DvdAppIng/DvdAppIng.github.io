@@ -2094,7 +2094,7 @@ Rit.
 		</Canzone>      
 		<Canzone Numero="54" Titolo="Insieme noi" Genere="Fine">
 			<Testo>
-Do Sol/Fa/Sol Do (2v)
+Do Fa/Sol/Fa Do (2v)
 Do                Fa   Sol     Do
 Senti che c’è qualcuno che ti chiama 
 		Fa   Sol           Do
@@ -2145,7 +2145,7 @@ Rit.
 			<Testo>
 		 Do               Mi-
 Ecco il mio servo che io sostengo 
-		 Si-               Do 
+		 Fa                 Do 
 il mio eletto in cui mi compiaccio.
 	Do                    Mi- 
 Ho posto il mio Spirito sopra di lui,
@@ -2863,7 +2863,7 @@ Re          Sol       La
 Signore del grande universo
 Re               Sol    Re      Sol
 Che gioia ci ha dato vestito di luce
-Re         La        Si- Sol    Re      Sol
+Re         La        Si- Sol
 vestito di gloria infinita
 Re         La       Sol Re
 vestito di gloria infinita
@@ -3817,14 +3817,15 @@ Ec---co la dimora di Dio con gli uomini
 		</Canzone>
 		<Canzone Numero="103" Titolo="Alzati" Genere="Inizio">
 			<Testo>
-Do Sol  Fa           Sol 
-Alzati rivestiti di luce 
-Do Sol  Fa           Sol 
-perché viene la tua luce 
-La-  Mi-   Fa    Sol 
-la gloria del Signor 
-  Do    Fa      Sol 
-brilla sopra di te
+Rit:
+	Do Sol  Fa           Sol 
+	Alzati rivestiti di luce 
+	Do Sol  Fa           Sol 
+	perché viene la tua luce 
+	La-  Mi-   Fa    Sol 
+	la gloria del Signor 
+	  Do    Fa      Sol 
+	brilla sopra di te
 
 Do  Sol   Fa          Sol 
 Tenebre ricoprono la terra 
@@ -3843,6 +3844,8 @@ i re allo splendore del tuo sorgere
 alza gli occhi intorno e guarda 
  Re-    La-     Sol 
 tutti vengono a te          
+
+Rit.
 			</Testo>
 		</Canzone>
 		<Canzone Numero="104" Titolo="Santo" Genere="Santo">
@@ -4172,11 +4175,12 @@ tu vieni e seguimi.
 	e nel mondo deserto aprirai
 	       La 
 	una strada nuova. (2 v.)
-  Mi                 Fa#-
+	
+  Mi                 Fa#- Mi
 E per questa strada va’, va’
-	Mi               La 
+  La                     Mi
 e non voltarti indietro, va’
-	Mi            La 
+  La                  Mi
 e non voltarti indietro.            
 			</Testo>
 		</Canzone>
@@ -4302,13 +4306,16 @@ Rit:
 	 Re         Sol   Re 
 	Osanna eh, osanna eh, 
 	 Sol       La     Re 
-	osanna a Cristo Signor. (2 v.)  (osanna eh)
+	osanna a Cristo Signor. 
+	(osanna eh) (2 v.)  
 
-I cieli e la terra, o Signore, sono pieni di Te. (2 v.)
+I cieli e la terra, o Signore, 
+sono pieni di Te. (2 v.)
 
 Rit.
 
-Benedetto colui che viene nel nome del Signor. (2 v.)
+Benedetto colui che viene 
+nel nome del Signor. (2 v.)
 
 Rit.            
 			</Testo>
@@ -4349,7 +4356,7 @@ unico sostegno Tu, la stella polare Tu
 al centro del mio cuore ci sei solo Tu. 
 
 Rit.
-Mi-                                Sol Mi-
+Mi-                                Sol 
 Ho bisogno di incontrarti nel mio cuore.            
 			</Testo>
 		</Canzone>

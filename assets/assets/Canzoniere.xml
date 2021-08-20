@@ -2941,10 +2941,11 @@ Ecco la dimora di Dio con gli uomini
 		</Canzone>
 		<Canzone Numero="103" Titolo="Alzati" Genere="Inizio">
 			<Testo>
-Alzati rivestiti di luce 
-perché viene la tua luce 
-la gloria del Signor 
-brilla sopra di te
+Rit:
+	Alzati rivestiti di luce 
+	perché viene la tua luce 
+	la gloria del Signor 
+	brilla sopra di te
 
 Tenebre ricoprono la terra 
 nebbia fitta avvolge le nazioni 
@@ -2955,6 +2956,8 @@ Cammineranno i popoli alla tua luce
 i re allo splendore del tuo sorgere 
 alza gli occhi intorno e guarda 
 tutti vengono a te			
+
+Rit.
 			</Testo>
 		</Canzone>
 		<Canzone Numero="104" Titolo="Santo" Genere="Santo">
@@ -3266,11 +3269,13 @@ Rit:
     Osanna eh, osanna eh, 
     osanna a Cristo Signor. (2 v.)  (osanna eh)
 
-I cieli e la terra, o Signore, sono pieni di Te. (2 v.)
+I cieli e la terra, o Signore, 
+sono pieni di Te. (2 v.)
 
 Rit.
 
-Benedetto colui che viene nel nome del Signor. (2 v.)
+Benedetto colui che viene 
+nel nome del Signor. (2 v.)
 
 Rit.			
 			</Testo>

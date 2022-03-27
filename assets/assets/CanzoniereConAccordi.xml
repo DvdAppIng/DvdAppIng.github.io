@@ -1278,7 +1278,7 @@ Rit.
 	salirò verso il cielo aperto, 
 	abbracciando coi rami il sole.  
 	Crescerò nei miei frutti nuovi                      
-								 Re- Sol
+							 Re- Sol
 	e nel vento la vita canterò. 
 
 Quanta voglia sentirò di fuggire via da qui 
@@ -1515,7 +1515,7 @@ Dove Tu passi fiorisce il deserto
 Dove Tu guardi si rischiara il cielo
 E in fondo al cuore torna il sereno
 Dove Tu sei, dove Tu sei.
-Fa                     Fa- Do
+        Do           Fa Fa- Do
 Dove Tu sei, torna la vita.         
 			</Testo>
 		</Canzone>      
@@ -1820,7 +1820,7 @@ Rit:
 	sulla brezza dell’alba ti farà brillar
 	         La- Mi-7
 	come il sole, 
-	Re-7           Sol7   Do   Do7+
+	Re-7          Sol Sol7  Do Do7+
 	così nelle sue mani vivrai.
 
 Dal laccio del cacciatore ti libererà
@@ -2247,6 +2247,7 @@ Rit.
 Rit:
 	Sol Re          Mi-  Do 
 	Oh Dio non lasciarmi solo mai 
+	Sol   Re        Do
 	senza Te dimmi che farò. (2v.)
 
 Sol                     Mi-
@@ -2651,9 +2652,9 @@ nel nome del Signore.
 		<Canzone Numero="73" Titolo="Preghiera semplice" Genere="">
 			<Testo>
 Rit:
-	Fa# La Si-         Fa#-  Sol
+	Fa#- La Si-         Fa#-  Sol
 	Dov’è guerra ch’io porti pace 
-	Fa# La Si-       Fa#-  Mi-
+	Fa#- La Si-       Fa#-  Mi-
 	dov’è odio ch’io porti amor 
 	Mi- Fa#- Sol        Fa#-  Si-
 	dov’è inverno ch’io porti estate 
@@ -2666,7 +2667,7 @@ Rit:
 	          Si-
 	che Tu ci dai.
 
-Si-  Fa#-    Sol     La              Si- Si- FA#-
+Si-  Fa#-    Sol     La              Si- Fa#-
 Come uragano che sconvolge i miei perché 
 Re   La      Si- Sol Re        La
 come uragano che si abbatte su me 
@@ -3407,7 +3408,7 @@ Rit:
 	Resta qui con noi, il sole scende già
 	 Mi-        La         Sol      La    Re 
 	resta qui con  noi, Signore è sera ormai.
-	 re         La         Sol         Re 
+	 Re         La         Sol         Re 
 	Resta qui con noi, il sole scende già
 	Mi-         La          Sol  La   Re 
 	se Tu sei fra noi, la notte non verrà.
@@ -3923,7 +3924,7 @@ venite adoremus Dominum.
 
  Fa         Do     Fa          Do 
 Et grege relicto humiles ad cunas
- Re- Sol   Do  Fa  do Sol Do 
+ Re- Sol   Do  Fa  Do Sol Do 
 vocati pastores adproperant.
 Fa    Sol   Fa Do La- Re- Sol Do Sol Do 
 Et nos ovanti gradu festinemus
@@ -3935,49 +3936,42 @@ venite adoremus Dominum.
 		</Canzone>
 		<Canzone Numero="107" Titolo="Tu scendi dalle stelle" Genere="Natale">
 			<Testo>
-Do              
+La              
 Tu scendi dalle stelle 
-		   Sol7
-o Re del cielo 
+		    Mi
+o Re del cielo
+  Mi7 
 e vieni in una grotta 
-				 Do 
+				 La 
 al freddo e al gelo. (2 v.)
 
-	Sol7 
-O Bambino 
-	   Do 
-mio divino 
-	  Sol7
-io Ti vedo 
-		Do 
-qui a tremar
-	   Sol7
-o Dio beato  
-ah quanto Ti costò 
-		   Do             
-l’avermi amato! (2 v.)  
+		 Re 
+	O Bambino 
+	Mi    La 
+	mio divino 
+		  Re
+	io Ti vedo 
+	Mi		La 
+	qui a tremar
+		   Mi
+	o Dio beato  
+	   Mi7
+	ah quanto Ti costò 
+			   La             
+	l’avermi amato! (2 v.)  
 
- Do  
 A Te che sei del mondo 
-	  Sol7
 il Creatore 
 mancano panni e fuoco 
-		  Do 
 o mio Signore! (2 v.)  
 
-	   Sol7
-Caro eletto 
-	  Do
-pargoletto 
-		Sol7 
-quanto questa 
-   Do
-povertà 
-		  Sol7
-più m’innamora, 
-giacché Ti fece amor 
-		   Do 
-povero ancora! (2 v.)  
+	Caro eletto 
+	pargoletto 
+	quanto questa 
+	povertà 
+	più m’innamora, 
+	giacché Ti fece amor 
+	povero ancora! (2 v.)  
 			</Testo>
 		</Canzone>
 		<Canzone Numero="108" Titolo="Benedici" Genere="Offertorio">
@@ -4127,8 +4121,8 @@ vi do la mia pace
 che non sia turbato il vostro cuore
 		Mi-  Sol   Re 
 e non abbia più timore. (2 v.)
-	 La-   Do  Re  
-Vi lascio la pace.          
+	        La- Do Re  
+Vi lascio la pa-a-ce.          
 			</Testo>
 		</Canzone>
 		<Canzone Numero="113" Titolo="Vieni e seguimi" Genere="Comunione">
@@ -4793,7 +4787,7 @@ Re di eterna gloria
 Re
 Agnello di Dio 
 	Si-                  Sol
-che toglie i peccati del mondo
+che togli i peccati del mondo
 Mi-    Sol    La
 abbi pietà di noi (2v)
 Fa#-
@@ -4803,6 +4797,231 @@ che toglie i peccati del mondo
 Mi-    La     Sol Sol- Re
 dona a noi la pace
 			</Testo>
-		</Canzone>		
+		</Canzone>
+		<Canzone Numero="129" Titolo="Musica di festa" Genere="Comunione|Fine">
+			<Testo>
+Mi-     Si-    Mi- Si-
+Cantate al Signore un cantico nuovo,
+   Mi- Si- Mi- Si-
+splende la sua gloria!
+   Mi- Si- Mi- Si-
+Grande la sua forza, grande la sua pace,
+   Mi- Si- Mi- Si-
+grande la sua santità.
+
+Rit:
+	La-       Re9  Sol7+  Do7+/9
+	In tutta la terra popoli del mondo
+	La-6 Si    Mi- Re Sol Mi7
+	gridate la sua fedeltà.
+	La- Re9      Sol7+  Do7+/9
+	Musica di festa, musica di lode,
+	La-6 Si      Mi- Si- Mi-
+	musica di libertà.
+
+Agli occhi del mondo ha manifestato
+la sua salvezza!
+Per questo si canti, per questo si danzi,
+per questo si celebri.
+
+Rit.
+
+Con l’arpa ed il corno, con timpani e flauti,
+con tutta la voce!
+Canti di dolcezza, canti di salvezza,
+canti d’immortalità.
+
+Rit.
+
+I fiumi ed i monti battono le mani
+davanti al Signore!
+La sua giustizia giudica la terra,
+giudica le genti.
+
+Rit.
+
+Al Dio che ci salva gloria in eterno!
+Amen! Alleluia!
+Gloria a Dio Padre, gloria a Dio Figlio,
+gloria a Dio Spirito!
+			</Testo>
+		</Canzone>
+		<Canzone Numero="130" Titolo="Deus et Christus meus" Genere="Fine">
+			<Testo>
+Rit:
+	Do   Sol         La-
+	Deus et christus meus
+	Do       Fa Do       Sol
+	E la mia anima è con te
+	           Fa  Sol         La-  
+	Sei la mia vita, il mio respiro
+	Fa       Do    Sol     Do
+	Non ho parole senza di te
+
+Ciascun amante del Signore
+Venga alla danza cantando d'amore
+Venga danzando tutta infiammata
+Desiderando colui che l'ha creata
+
+Rit.
+
+Cantate al Signore un canto nuovo
+E benedite il nome di Dio
+Di giorno in giorno, la sua salvezza
+A tutti i popoli annunciate
+
+Rit. (2 volte)
+			</Testo>
+		</Canzone>
+		<Canzone Numero="131" Titolo="Lode al nemo tuo" Genere="Comunione|Fine">
+			<Testo>
+Intro: Sol Re Mi- Do Sol Re Do
+
+Sol          Re       Mi-            Do
+Lode al nome tuo, dalle terre più floride,
+Sol               Re                 Do
+dove tutto sembra vivere, lode al nome tuo.
+Sol           Re  Mi-              Do
+Lode al nome tuo, dalle terre più aride,
+Sol                    Re                Do
+dove tutto sembra sterile, lode al nome tuo.
+
+Rit:
+	Sol              Re       Mi-        Do
+	Tornerò a lodarti sempre, per ogni dono tuo,
+	Sol          Re            Mi-      Do
+	e quando scenderà la notte sempre io dirò:
+	Sol          Re                Mi-            Do
+	Benedetto il nome del Signor, lode al nome Tuo.
+	Sol          Re                       Mi-            Do
+	Benedetto il nome del Signor, il glorioso nome di Gesù.
+	
+Lode al nome tuo, quando il sole spende su di me,
+quando tutto è incantevole, lode al nome tuo.
+Lode al nome tuo, quando io sto davanti a te,
+con il cuore triste e fragile, lode al nome tuo.
+
+Rit.
+
+	Tu doni e porti via, tu doni e porti via,
+	ma sempre sceglierò di benedire te (2v.)
+
+	Tornerò a lodarti sempre, per ogni dono tuo,
+	e quando scenderà la notte sempre io dirò:
+	Benedetto il nome del Signor, lode al nome Tuo.
+	Benedetto il nome del Signor, lode al nome Tuo.
+	Benedetto il nome del Signor, lode al nome Tuo.
+	Benedetto il nome del Signor, il glorioso nome di Gesù.
+	Tu doni e porti via, tu doni e porti via,
+	ma sempre sceglierò di benedire te (2v.)
+			</Testo>
+		</Canzone>
+		<Canzone Numero="132" Titolo="Come tu mi vuoi" Genere="Comunione|Fine">
+			<Testo>
+Intro: Sol La- Re7 Sol Mi- La-7 Re4 Sol
+
+Sol                 Do
+Eccomi Signor, vengo a te mio Re
+Mi-                     Re4 Re
+che si compia in me la tua volontà
+Sol                         Do
+Eccomi Signor, vengo a te mio Dio
+Mi-                          Si-7
+plasma il cuore mio e di te vivrò
+Do
+Se tu lo vuoi Signore manda me
+La-                Re4 Re
+e il tuo nome annuncerò.
+
+Rit:
+		 Sol            Re
+	Come tu mi vuoi io sarò,
+		 Mi-             Si-7
+	dove tu mi vuoi io andrò.
+	  Do                      Si-7 Mi-
+	Questa vita io voglio donarla a te
+		Fa                  Re Re7
+	per dar gloria al tuo nome mio Re.
+			 Mi-          Re
+	Come tu mi vuoi io sarò,
+	Si7         Mi-      Si-7
+	dove tu mi vuoi io andrò.
+	   Do               Si-Si7      Mi-
+	Se mi guida il tuo amore paura non ho,
+	 Do Si- Do     Re4
+	per sempre io sarò
+	Re    Sol        Sol La- Re7 Sol
+	come tu mi vuoi. 
+
+Eccomi Signor, vengo a te mio Re
+che si compia in me la tua volontà
+Eccomi Signor, vengo a te mio Dio
+plasma il cuore mio e di te vivrò
+Tra le tue mani mai più vacillerò
+e strumento tuo sarò.
+
+Rit.
+	come tu mi vuoi.
+	come tu mi vuoi. (io sarò)
+	come tu mi vuoi. (io sarò)
+	come tu mi vuoi. (io sarò)
+			 Sol
+	come tu mi vuoi.
+			</Testo>
+		</Canzone>
+		<Canzone Numero="133" Titolo="Come ti ama Dio" Genere="Comunione">
+			<Testo>
+Intro: Mi Do#- La Si (2 volte)
+
+Mi             Do#-     La      Si
+Io vorrei saperti amare come Dio
+                  Mi              Do#-         La
+che ti prende per mano ma ti lascia anche andare.
+   Si            Mi           Do#-       La
+Vorrei saperti amare senza farti mai domande,
+     Si           Mi      Do#-       La          Si      Mi
+felice perché esisti e così io posso darti il meglio di me.
+
+Rit:
+	 Si              Do#-
+	Con la forza del mare,
+	La              Mi
+	l'eternità dei giorni,
+	Si Do#-
+	la gioia dei voli,
+	La          Mi
+	la pace della sera,
+	Si           Do#-
+	l'immensità del cielo:
+	La          Mi   Do#- La Si
+	come ti ama Dio.
+
+Io vorrei saperti amare come ti ama Dio
+che ti conosce e ti accetta come sei.
+Tenerti fra le mani come voli nell'azzurro,
+felice perchè esisti e così io posso darti il meglio di me.
+
+Rit.
+
+Io vorrei saperti amare come Dio
+che ti fa migliore con l'amore che ti dona.
+Seguirti fra la gente con la gioia che hai dentro,
+felice perchè esisti e così io posso darti il meglio di me.
+
+Rit.
+			</Testo>
+		</Canzone>
+		<Canzone Numero="134" Titolo="Alleluia (Questa tua parola)" Genere="Alleluia">
+			<Testo>
+Intro: Re Sol Re La
+
+Re         La        Si-     
+Alleluia, Alleluia, Alleluia,
+  Fa#     Sol       Re
+Alleluia, Alleluia, Alleluia,
+Mi    La      Sol Re
+Alleluia, Alleluia.
+			</Testo>
+		</Canzone>
 	</Canzoni>
 </Canzoniere>

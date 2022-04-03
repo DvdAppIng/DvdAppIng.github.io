@@ -3,7 +3,7 @@
 	<Generi>
 		<Genere>Tutte</Genere>
 		<Genere>Inizio</Genere> 
-		<Genere>Introduzione</Genere> 
+		<Genere>Intermezzo</Genere> 
 		<Genere>Alleluia</Genere> 
 		<Genere>Offertorio</Genere> 
 		<Genere>Santo</Genere> 
@@ -15,6 +15,7 @@
 		<Genere>Pasqua</Genere>
 		<Genere>Natale</Genere>
 		<Genere>Matrimonio</Genere>
+		<Genere>Salmo</Genere>
 	</Generi>
 	<Canzoni>
 		<Canzone Numero="1" Titolo="Grazie Dio" Genere="Inizio|Natale">
@@ -59,7 +60,7 @@ il Tuo amore mi riscalda.
 Rit.
 			</Testo>
 		</Canzone>
-		<Canzone Numero="2" Titolo="Vieni dal Libano" Genere="Matrimonio">
+		<Canzone Numero="2" Titolo="Vieni dal Libano" Genere="Comunione|Matrimonio">
 			<Testo>
 Vieni dal Libano, mia sposa, 
 vieni dal Libano, vieni.
@@ -109,8 +110,8 @@ come sigillo sul braccio.
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="3" Titolo="Com'è bello" Genere="">
+		</Canzone>      
+		<Canzone Numero="3" Titolo="Com'è bello" Genere="Salmo">
 			<Testo>
 Rit.  
     Com’è bello,
@@ -138,8 +139,8 @@ la vita Egli dona in eterno. (2v.)
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="4" Titolo="Sono io" Genere="">
+		</Canzone>      
+		<Canzone Numero="4" Titolo="Sono io" Genere="Inizio">
 			<Testo>
 Rit:
     Sono io,
@@ -274,8 +275,8 @@ Dio del cielo io Ti aspetterò,
 nel cielo e sulla terra io Ti cercherò.
 O Dio del cielo. (5v.)			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="9" Titolo="Inno alla parola" Genere="">
+		</Canzone>      
+		<Canzone Numero="9" Titolo="Inno alla parola" Genere="Comunione">
 			<Testo>
 Nei giorni che non avevano tempo,
 viveva con Dio nel silenzio;
@@ -311,7 +312,7 @@ matura il suo corpo di gloria.
     il Dio che vive con noi.			
 			</Testo>
 		</Canzone>		
-		<Canzone Numero="10" Titolo="Camminerò" Genere="">
+		<Canzone Numero="10" Titolo="Camminerò" Genere="Inizio|Comunione">
 			<Testo>
 Rit:	
     Camminerò, camminerò 
@@ -388,7 +389,7 @@ sento già che si avvicina il momento in cui
 Rit.
 			</Testo>
 		</Canzone>
-		<Canzone Numero="12" Titolo="Prova a pensare" Genere="Comunione">
+		<Canzone Numero="12" Titolo="Prova a pensare" Genere="Comunione|Fine">
 			<Testo>
 Prova a pensare ad un fiume
 che se ne va via sicuro,
@@ -450,8 +451,8 @@ rivede fiumi di tranquillità.
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="14" Titolo="Dolce silenzio" Genere="">
+		</Canzone>      
+		<Canzone Numero="14" Titolo="Dolce silenzio" Genere="Fine">
 			<Testo>
 Rit.    
     Dolce silenzio 
@@ -473,8 +474,8 @@ O mio Signore Tu sei la strada, la mia fortezza nella tempesta
 io Ti ringrazio Tu mi hai ascoltato, nella Tua casa mi hai voluto.
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="15" Titolo="Simbolum 77" Genere="">
+		</Canzone>      
+		<Canzone Numero="15" Titolo="Simbolum 77" Genere="Comunione">
 			<Testo>
 Tu sei la mia vita, altro io non ho.
 Tu sei la mia strada , la mia verità.
@@ -504,8 +505,8 @@ Tu da mille strade ci raduni in unità,
 e per mille strade, poi, dove Tu vorrai,
 noi saremo il seme di Dio.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="16" Titolo="Simbolum 80" Genere="">
+		</Canzone>      
+		<Canzone Numero="16" Titolo="Simbolum 80" Genere="Comunione">
 			<Testo>
 Oltre le memorie del tempo che ho vissuto,
 oltre la speranza che serve al mio domani.
@@ -579,8 +580,8 @@ e allora io sarò ciò che da sempre volevi Tu per me
 e allora canterò
 e finalmente Padre io ti chiamerò.
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="18" Titolo="Laudato si’" Genere="">
+		</Canzone>      
+		<Canzone Numero="18" Titolo="Laudato si’" Genere="Comunione">
 			<Testo>
 Rit:	
     Laudato si’, o mio Signore (4 v.)
@@ -613,8 +614,8 @@ sia sempre una canzone.
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="19" Titolo="Quanta strada" Genere="">
+		</Canzone>      
+		<Canzone Numero="19" Titolo="Quanta strada" Genere="Inizio|Comunione">
 			<Testo>
 Rit:
     Quanta strada ancora dovrò far 
@@ -634,8 +635,8 @@ e Lui ci sta aspettando come un padre per noi.
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="20" Titolo="Disegno" Genere="">
+		</Canzone>      
+		<Canzone Numero="20" Titolo="Disegno" Genere="Inizio|Comunione">
 			<Testo>
 Nel mare del silenzio una voce si alzò,
 da una notte senza confini una luce brillò
@@ -671,8 +672,8 @@ Tu mi salverai.
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="21" Titolo="Ho pregato il mio Signor" Genere="Comunione">
+		</Canzone>      
+		<Canzone Numero="21" Titolo="Ho pregato il mio Signor" Genere="Salmo|Comunione">
 			<Testo>
 Ho pregato il mio Signor
 Lui si è chinato verso me
@@ -702,8 +703,8 @@ molti udranno Te.
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="22" Titolo="Beato l’uomo" Genere="">
+		</Canzone>      
+		<Canzone Numero="22" Titolo="Beato l’uomo" Genere="Salmo|Comunione">
 			<Testo>
 Rit:
     Beato l’uomo che retto procede 
@@ -739,8 +740,8 @@ non potrai scordarti di me.
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="23" Titolo="Signore pietà" Genere="Introduzione">
+		</Canzone>      
+		<Canzone Numero="23" Titolo="Signore pietà" Genere="Intermezzo">
 			<Testo>
 Signore pietà, pietà di noi
 Signore pietà di noi
@@ -751,8 +752,8 @@ Signore pietà di noi
 Signore pietà, pietà di noi
 Signore pietà di noi		(2v.)			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="24" Titolo="Gloria" Genere="Introduzione">
+		</Canzone>      
+		<Canzone Numero="24" Titolo="Gloria" Genere="Intermezzo">
 			<Testo>
 Gloria, Gloria a Dio nell'alto dei cieli, Gloria.
 E pace, e pace in terra agli uomini di buona volontà.
@@ -782,8 +783,8 @@ Con lo Spirito Santo
 Nella gloria di Dio Padre - Amen
 Nella gloria di Dio Padre - Amen			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="25" Titolo="Vocazione" Genere="">
+		</Canzone>      
+		<Canzone Numero="25" Titolo="Vocazione" Genere="Comunione">
 			<Testo>
 Era un giorno come tanti altri
 e quel giorno Lui passò.
@@ -815,8 +816,8 @@ e quel giorno mi chiamò.
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="26" Titolo="Un'altra umanità" Genere="">
+		</Canzone>      
+		<Canzone Numero="26" Titolo="Un'altra umanità" Genere="Comunione">
 			<Testo>
 “Ma dove andremo a finire se continua così?
 - si sente spesso dire dalla gente qua e là -
@@ -957,8 +958,8 @@ Benedetto il frutto del seno Tuo, Gesù
 Ave Maria prega per noi peccatori 
 Adesso e nell’ora della nostra morte			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="31" Titolo="Le mie radici" Genere="Comunione">
+		</Canzone>      
+		<Canzone Numero="31" Titolo="Le mie radici" Genere="Fine|Comunione">
 			<Testo>
 Sono nato di mattino in un bosco che non so, 
 voci e suoni intorno a me.
@@ -1030,8 +1031,8 @@ e il Tuo cielo è chiaro
 Mi alzerò dalla povertà di starTi lontano 
 e Ti vedrò e Tu chiamerai per nome la mia realtà.
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="33" Titolo="La libertà" Genere="">
+		</Canzone>      
+		<Canzone Numero="33" Titolo="La libertà" Genere="Fine">
 			<Testo>
 Come tanti anni fa 
 nella terra dell’Egitto 
@@ -1078,7 +1079,7 @@ nel nostro cuore hai messo un seme di felicità.
 Rit.
 			</Testo> 
 		</Canzone>
-		<Canzone Numero="35" Titolo="Servo per amore" Genere="Comunione|Maria">
+		<Canzone Numero="35" Titolo="Servo per amore" Genere="Offertorio|Comunione|Maria">
 			<Testo>
 Una notte di sudore
 sulla barca in mezzo al mare
@@ -1159,8 +1160,8 @@ E in fondo al cuore torna il sereno
 Dove Tu sei, dove Tu sei.
 Dove Tu sei, torna la vita.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="38" Titolo="Fratello sole" Genere="">
+		</Canzone>      
+		<Canzone Numero="38" Titolo="Fratello sole" Genere="Offertorio|Comunione">
 			<Testo>
 Dolce sentire 
 come nel mio cuore, 
@@ -1246,8 +1247,8 @@ che son troppi innocenti a morir.
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="41" Titolo="Vieni Spirito di Dio" Genere="Offertorio">
+		</Canzone>      
+		<Canzone Numero="41" Titolo="Vieni Spirito di Dio" Genere="Inizio">
 			<Testo>
 Rit:
     Vieni spirito di Dio
@@ -1283,7 +1284,7 @@ che ogni cosa è piena del Tuo amore.
 Rit.								
 			</Testo> 
 		</Canzone>
-		<Canzone Numero="42" Titolo="Cantico di San Damiano" Genere="">
+		<Canzone Numero="42" Titolo="Cantico di San Damiano" Genere="Offertorio|Comunione">
 			<Testo>
 Ogni uomo semplice 
 porta in cuore un sogno
@@ -1375,8 +1376,8 @@ che verrò, o Signor.
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="45" Titolo="Padre nostro" Genere="">
+		</Canzone>      
+		<Canzone Numero="45" Titolo="Padre nostro" Genere="Intermezzo">
 			<Testo>
 Padre nostro che nei cieli stai, 
 sia santificato il nome Tuo. 
@@ -1612,8 +1613,8 @@ Il Signore è il sereno che umilia la pioggia.
 
 Rit.			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="53" Titolo="Osanna" Genere="">
+		</Canzone>      
+		<Canzone Numero="53" Titolo="Osanna" Genere="Intermezzo">
 			<Testo>
 Rit:
     Osanna, osanna, 
@@ -2013,8 +2014,8 @@ Alleluia, alleluia.
 
 Alle, alleluia…
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="69" Titolo="Voglio ritornare" Genere="">
+		</Canzone>      
+		<Canzone Numero="69" Titolo="Voglio ritornare" Genere="Inizio">
 			<Testo>
 Rit:
     Voglio ritornare, 
@@ -2091,8 +2092,8 @@ nel nome del Signore.
     Osanna, osanna,  
     osanna nell’alto dei cieli. 			
 			</Testo>
-		</Canzone>		
-		<Canzone Numero="73" Titolo="Preghiera semplice" Genere="">
+		</Canzone>      
+		<Canzone Numero="73" Titolo="Preghiera semplice" Genere="Fine">
 			<Testo>
 Rit:
     Dov’è guerra ch’io porti pace 
@@ -2168,8 +2169,8 @@ Rit.
     Dio ci ha dato tutto il pane 
     anche se non abbiamo niente.			
 			</Testo>
-		</Canzone>			
-		<Canzone Numero="76" Titolo="Lodate lodate" Genere="">
+		</Canzone>          
+		<Canzone Numero="76" Titolo="Lodate lodate" Genere="Salmo">
 			<Testo>
 Cantate al Signore 
 un canto nuovo, 
@@ -2338,8 +2339,8 @@ o mio Signore, quanto è grande il Tuo amore.
 Quando in questa chiesa insieme a Te il Tuo pane io riceverò, 
 avrò capito qual è la strada.			
 			</Testo>
-		</Canzone>	
-		<Canzone Numero="82" Titolo="Kyrie eleison" Genere="Introduzione">
+		</Canzone>  
+		<Canzone Numero="82" Titolo="Kyrie eleison" Genere="Intermezzo">
 			<Testo>
 Kyrie eleison, Christe eleison
 Kyrie eleison, Christe eleison
@@ -2540,8 +2541,8 @@ Rit.
 
 
 			</Testo>
-		</Canzone>	
-		<Canzone Numero="90" Titolo="Io con voi" Genere="">
+		</Canzone>  
+		<Canzone Numero="90" Titolo="Io con voi" Genere="Comunione">
 			<Testo>
 Io con voi mi trovo bene, 
 perché siete sinceri come me.
@@ -2615,8 +2616,8 @@ e danzando in quel giorno canterà.
 
 Rit.
 			</Testo>
-		</Canzone>	
-		<Canzone Numero="93" Titolo="Acqua di vita" Genere="">
+		</Canzone>  
+		<Canzone Numero="93" Titolo="Acqua di vita" Genere="Fine">
 			<Testo>
 Rit.	
     Io camminavo
@@ -2688,7 +2689,7 @@ con Te fra noi il deserto fiorirà.
 Rit.			
 			</Testo>
 		</Canzone>
-		<Canzone Numero="95" Titolo="La nuova Gerusalemme" Genere="">
+		<Canzone Numero="95" Titolo="La nuova Gerusalemme" Genere="Fine">
 			<Testo>
 Rit.   
     Io vidi la nuova Gerusalemme (2 v.) 
@@ -2725,7 +2726,7 @@ Io sarò il suo Dio ed egli mio figlio.
 Rit.			
 			</Testo>
 		</Canzone>
-		<Canzone Numero="96" Titolo="Risposta" Genere="">
+		<Canzone Numero="96" Titolo="Risposta" Genere="Comunione|Fine">
 			<Testo>
 Quante le strade che un uomo farà 
 e quando fermarsi potrà?
@@ -3067,7 +3068,7 @@ rendilo nostra salvezza.
 Rit.			
 			</Testo>
 		</Canzone>
-		<Canzone Numero="109" Titolo="Palpiti di vita" Genere="Comunione">
+		<Canzone Numero="109" Titolo="Palpiti di vita" Genere="Fine|Comunione">
 			<Testo>
 Sui Tuoi sentieri crescerò 
 nel Tuo creato Ti troverò 
@@ -3093,7 +3094,7 @@ e Ti amerò.
 Rit. (2 v.)			
 			</Testo>
 		</Canzone>
-		<Canzone Numero="110" Titolo="Ogni mia parola" Genere="">
+		<Canzone Numero="110" Titolo="Ogni mia parola" Genere="Inizio|Comunione">
 			<Testo>
 Come la pioggia e la neve
 scendono giù dal cielo
@@ -3106,7 +3107,7 @@ Ogni mia parola
 ogni mia parola. (tutto 2 v.)			
 			</Testo>
 		</Canzone>
-		<Canzone Numero="111" Titolo="Salve regina" Genere="Maria">
+		<Canzone Numero="111" Titolo="Salve regina" Genere="Maria|Comunione">
 			<Testo>
 Salve Regina, madre di misericordia 
 Vita, dolcezza, speranza nostra, 
@@ -3210,7 +3211,7 @@ una scia di luce lascerai,
 una scia di luce lascerai.
 			</Testo>
 		</Canzone>
-		<Canzone Numero="115" Titolo="Vieni santo Spirito" Genere="">
+		<Canzone Numero="115" Titolo="Vieni santo Spirito" Genere="Intermezzo">
 			<Testo>
 Rit:
     Vieni santo Spirito, manda a noi dal cielo 
@@ -3280,7 +3281,7 @@ nel nome del Signor. (2 v.)
 Rit.			
 			</Testo>
 		</Canzone>
-		<Canzone Numero="118" Titolo="Te al centro del mio cuore" Genere="">
+		<Canzone Numero="118" Titolo="Te al centro del mio cuore" Genere="Comunione|Fine">
 			<Testo>
 Ho bisogno di incontrarti nel mio cuore,
 di trovare Te, di stare insieme a Te,
@@ -3312,7 +3313,7 @@ Rit.
 Ho bisogno di incontrarti nel mio cuore.			
 			</Testo>
 		</Canzone>
-		<Canzone Numero="119" Titolo="Padre nostro che" Genere="">
+		<Canzone Numero="119" Titolo="Padre nostro che" Genere="Intermezzo">
 			<Testo>
 Padre nostro che sei nei cieli, 
 sia santificato il nome Tuo, 
@@ -3432,8 +3433,8 @@ Possa rinnovarci la felicità.
 
 Rit.
 			</Testo>
-		</Canzone>	
-		<Canzone Numero="123" Titolo="Emmanuel" Genere="">		
+		</Canzone>  
+		<Canzone Numero="123" Titolo="Emmanuel" Genere="Fine">      
 			<Testo>
 Dall'orizzonte una grande luce
 Viaggia nella storia
@@ -3558,8 +3559,8 @@ fatte di giorni troppo spesso banali,
 fatte di gioie, dolori e passioni,
 ma te le offriamo, sono i nostri doni. (2 v.)			
 			</Testo>
-		</Canzone>			
-		<Canzone Numero="125" Titolo="Ave Maria (Verbum panis)" Genere="Maria">		
+		</Canzone>          
+		<Canzone Numero="125" Titolo="Ave Maria (Verbum panis)" Genere="Maria|Fine">     
 			<Testo>
 Rit:
     Ave Maria, Ave!
@@ -3677,7 +3678,7 @@ gloria a Dio Spirito!
 Rit.
 			</Testo>
 		</Canzone>
-		<Canzone Numero="130" Titolo="Deus et Christus meus" Genere="Fine">
+		<Canzone Numero="130" Titolo="Deus et Christus meus" Genere="Comunione|Fine">
 			<Testo>
 Rit:
 	Deus et christus meus
@@ -3805,7 +3806,7 @@ Alleluia, Alleluia, Alleluia,
 Alleluia, Alleluia.
 			</Testo>
 		</Canzone>
-		<Canzone Numero="135" Titolo="Il canto del mare" Genere="Pasqua">
+		<Canzone Numero="135" Titolo="Il canto del mare" Genere="Pasqua|Fines">
 			<Testo>
 Rit:
 	Cantiamo al Signore,

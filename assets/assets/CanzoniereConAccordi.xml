@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="3">
+<Canzoniere Version="4">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere> 
@@ -1327,9 +1327,11 @@ Con le acque canterò la canzone di un amore
 che dà vita ad ogni cosa (e ripete all’infinito) 
 l’immagine di Dio vivo dentro una preghiera
 che si leva nel silenzio (di un creato tutto in festa)
-
+    Re-                   La-
     Ti ho trovato vivo in me, 
-    Ti ho trovato vivo in me.               
+    Re-                   La-
+    Ti ho trovato vivo in me.
+    Sib          Fa	
     
 Rit.
 
@@ -5206,7 +5208,7 @@ Alleluia, Alleluia.
 
             </Testo>
         </Canzone>
-        <Canzone Numero="135" Titolo="Il canto del mare" Genere="Pasqua|Fines">
+        <Canzone Numero="135" Titolo="Il canto del mare" Genere="Pasqua|Fine">
             <Testo>
 Rit:
       Re-          La-
@@ -5265,5 +5267,44 @@ Rit.
 
             </Testo>
         </Canzone>
+        <Canzone Numero="136" Titolo="Ti ringrazio mio Signore" Genere="Fine">
+            <Testo>
+Re Si- Mi- La
+Re             Si-        Mi-          La
+Amatevi l'un l'altro come Lui ha amato noi
+  Re        Si-         Sol La
+e siate per sempre suoi amici
+   Mi-         La          Fa#        Si-
+e quello che farete al più piccolo tra voi
+Mi-       La            Re   Sol Re
+credete l'avete fatto a Lui
+
+Rit:
+        Re       Si-    Sol    La7           Re Si-
+    Ti ringrazio mio Signore e non ho più paura,
+    Sol     La7       Re    Si- Sol     La7       Re   Re7
+    perchè con la mia mano nella mano degli amici miei
+       Sol         La7         Re  Fa# Si-
+    cammino fra la gente della mia città
+       Sol   La        Re   Re7
+    e non mi sento più solo,
+         Sol         La7             Re   Fa#     Si-
+    non sento la stanchezza e guardo dritto avanti a me
+    Sol               La7          Re  Sol Re
+    perché sulla mia strada ci sei Tu.
+
+Se amate veramente perdonatevi tra voi
+nel cuore di ognuno ci sia pace
+il Padre che è nei cieli vede tutti i figli suoi
+con gioia a voi perdonerà
+
+Rit.
+
+Sarete suoi amici se vi amate fra voi
+e questo è tutto il suo Vangelo
+l'amore non ha prezzo, non misura ciò che dà
+l'amore, confini non ne ha
+            </Testo>
+        </Canzone>				
     </Canzoni>
 </Canzoniere>

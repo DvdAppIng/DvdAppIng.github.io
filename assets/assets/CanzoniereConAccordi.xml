@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="4">
+<Canzoniere Version="5">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere> 
@@ -2274,12 +2274,7 @@ Rit.
         </Canzone>      
         <Canzone Numero="57" Titolo="Se non ritornerete come bambini" Genere="Comunione|Fine">
             <Testo>
-    Re- Sol Sib Re- (2v.)
-Rit:
-    Re-           Do           Re-
-    Se non ritornerete come bambini 
-           Sol Sib Re-
-    non entrerete mai. (2v.)
+Re- Sol Sib Re- (2v.)
 
 Re-    Do          Re-
 La mia porta sarà chiusa 
@@ -2294,8 +2289,12 @@ per chi cerca la sua gloria
 per tutti quelli che non hanno amato 
 e per i grandi della storia.
 
-Rit.
-
+Rit:
+    Re-           Do           Re-
+    Se non ritornerete come bambini 
+           Sol Sib Re-
+    non entrerete mai. (2v.)
+    
 Non c’è posto per quell’uomo
 che non vende la sua casa 
 per acquistare il campo 
@@ -3402,7 +3401,7 @@ noi crediamo sempre nel Tuo amor
 
 Do            Mi           La- Do 
 gireremo il mondo e la Tua Parola
-     Fa       Sol        Sol7 
+     Fa       Sol        Do 
 ogni uomo con noi conoscerà. (2 v.)             
 
             </Testo>
@@ -4969,7 +4968,7 @@ abbi pietà di noi (2v)
 Fa#-
 Agnello di Dio 
     Si-                  Sol
-che toglie i peccati del mondo
+che togli i peccati del mondo
 Mi-    La     Sol Sol- Re
 dona a noi la pace
 

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="5">
+<Canzoniere Version="6">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere> 
@@ -1075,7 +1075,7 @@ Il dolore, amico, sai,
 la tristezza mi accompagna 
 nei giorni più neri.
 
-Rit.   
+Rit:   
     Mai nessuno al mondo incatenerà 
     la mia libertà; 
     mai nessuno al mondo mi dividerà 
@@ -4015,5 +4015,158 @@ l'amore non ha prezzo, non misura ciò che dà
 l'amore, confini non ne ha
             </Testo>
         </Canzone>		
+        <Canzone Numero="137" Titolo="Kyrie dell'Immacolata" Genere="Intermezzo">
+            <Testo>
+Kyrie eleison
+Kyrie eleison
+
+    Christe eleison
+    Christe eleison
+	
+Kyrie eleison
+Kyrie eleison
+		
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="138" Titolo="Gloria dell'Immacolata" Genere="Intermezzo">
+            <Testo>
+Gloria a Dio nell’alto dei cieli
+e pace in terra agli uomini, amati dal Signore.
+Noi ti lodiamo, ti benediciamo,
+ti adoriamo, ti glorifichiamo,
+ti rendiamo grazie per la tua gloria immensa,
+Signore Dio, Re del cielo, Dio Padre onnipotente.
+Signore, Figlio unigenito, Gesù Cristo,
+Signore Dio, Agnello di Dio, Figlio del Padre,
+tu che togli i peccati del mondo, abbi pietà di noi;
+tu che togli i peccati del mondo, accogli la nostra supplica;
+tu che siedi alla destra del Padre, abbi pietà di noi.
+Perché tu solo il Santo, tu solo il Signore,
+tu solo l’Altissimo, Gesù Cristo,
+con lo Spirito Santo: nella gloria di Dio Padre.
+Amen.		
+	
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="139" Titolo="Santo dell'Immacolata" Genere="Santo">
+            <Testo>
+Santo, Santo, Santo il Signore Dio dell’universo.
+I cieli e la terra sono pieni della tua gloria.
+
+    Osanna, osanna, osanna nell’alto dei cieli.
+    Osanna, osanna, osanna nell’alto dei cieli.
+	
+Benedetto colui che viene nel nome del Signore.
+
+    Osanna, osanna, osanna nell’alt o dei cieli.
+    Osanna, osanna, osanna nell’alto dei cieli.			
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="140" Titolo="Agnello di Dio dell'Immacolata" Genere="Intermezzo">
+            <Testo>
+Agnello di Dio, che togli i peccati del mondo, abbi pietà di noi.
+Agnello di Dio, che togli i peccati del mondo, abbi pietà di noi.
+Agnello di Dio, che togli i peccati del mondo, dona a noi la pace.	
+		
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="141" Titolo="Alleluia" Genere="Alleluia">
+            <Testo>
+Alleluia, alleluia, alleluia
+
+Alleluia, alleluia, alleluia
+			
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="142" Titolo="Offertorio" Genere="Offertorio">
+            <Testo>
+Benedetto sei tu, Signore, Dio dell’universo:
+dalla tua bontà abbiamo ricevuto questo pane
+frutto della terra e del lavoro dell’uomo;
+lo presentiamo a te,
+perché diventi per noi cibo di vita eterna
+
+Benedetto sei tu, Signore, Dio dell’universo
+dalla tua bontà abbiamo ricevuto questo vino,
+frutto della vite e del lavoro dell’uomo;
+lo presentiamo a te,
+perché diventi per noi bevanda di salvezza
+
+Benedetto nei secoli il Signore.
+Benedetto nei secoli il Signore.	
+		
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="143" Titolo="Cantiamo al Signore" Genere="Salmo">
+            <Testo>
+Rit: 
+    Cantiamo al Signore 
+    stupenda è la sua vittoria (2 v.)
+
+Voglio cantare in onore del Signore
+perché ha mirabilmente trionfato
+è il Dio di mio padre lo voglio esaltare
+mia forza e mio canto è il Signore 
+
+Rit.
+
+Dio è prode si chiama Signore
+i carri ha gettato in mare
+ha gettato in mare cavallo e cavaliere
+furono sommersi nel mar Rosso 
+
+Rit.
+
+Fai entrare il tuo polpo lo guidi sul tuo monte
+luogo che per te hai preparato
+santuario che le tue mani hanno fondato
+Tu regni in eterno Signore
+
+Rit.
+
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="144" Titolo="Regina caeli" Genere="Maria">
+            <Testo>
+Regina caeli laetare
+Alleluia
+
+Quia quem meruisti portare 
+Alleluia
+
+Resurrexit sicut dixit 
+ora pro nobis Deum
+
+Resurrexit sicut dixit 
+Alleluia
+
+Regina caeli laetare			
+
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="145" Titolo="L'anima mia ha sete di Te" Genere="Salmo">
+            <Testo>
+Rit:
+    L’anima mia ha sete di Te
+    acqua viva Tu sei,
+    acqua che vita a ogni cosa darà,
+    limpido il cuore farà.
+	
+A questa fonte quando berrò
+io troverò la mia pace.
+In questo specchio io mi vedrò,
+creatura nuova sarò. 
+
+Rit.
+
+Nell’acqua pura che Tu mi dai
+Avrà riposo il mio cuore.
+Con Te Signore camminerò,
+in Te io rinascerò. 
+
+Rit.			
+
+            </Testo>
+        </Canzone>				
     </Canzoni>
 </Canzoniere>

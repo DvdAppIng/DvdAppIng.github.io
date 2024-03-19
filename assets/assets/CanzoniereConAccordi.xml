@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="5">
+<Canzoniere Version="6">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere> 
@@ -1396,7 +1396,7 @@ Il dolore, amico, sai,
 la tristezza mi accompagna 
 nei giorni più neri.
 
-Rit.   
+Rit:   
     Do                       La-
     Mai nessuno al mondo incatenerà 
            Re- Fa Do
@@ -5303,6 +5303,272 @@ Sarete suoi amici se vi amate fra voi
 e questo è tutto il suo Vangelo
 l'amore non ha prezzo, non misura ciò che dà
 l'amore, confini non ne ha
+            </Testo>
+        </Canzone>				
+        <Canzone Numero="137" Titolo="Kyrie dell'Immacolata" Genere="Intermezzo">
+            <Testo>
+Re 
+Re  Mi- Sol Re  
+Kyrie---lei-son 
+Re  Mi- Sol Re  
+Kyrie---lei-son 
+
+	Si- Fa#-  La
+	Christe-e-leison
+	Si- Fa#-  La
+	Christe-e-leison
+	
+Re   Mi- Fa#- Fa#-7 Sol
+Kyri-e-e-lei--------son
+Re  Mi- Fa#- La Re
+Kyrie-e—le---i--son
+		
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="138" Titolo="Gloria dell'Immacolata" Genere="Intermezzo">
+            <Testo>
+Re 
+Re       Sol      La        Sol
+Gloria a Dio nell’alto dei cieli
+Re     Mi-      Si-          Sol       La
+e pace in terra agli uomini, amati dal Signore.
+Sol     La      Re        La    Sol      La      Re        La
+Noi ti lodiamo, ti benediciamo, ti adoriamo, ti glorifichiamo,
+Mi-       Fa#-            Sol        La
+ti rendiamo grazie per la tua gloria immensa,
+Fa      Sol  Do      Fa              Sol    La
+Signore Dio, Re del cielo, Dio Padre onnipotente.
+Fa       Sol    Do Fa       Sol La
+Signore, Figlio unigenito, Gesù Cristo,
+Fa#-    Sol#-   La    Re     Fa#-   Mi   Fa
+Signore Dio, Agnello di Dio, Figlio del Padre,
+Fa                          Do    Sol-    Sib   Fa
+tu che togli i peccati del mondo, abbi pietà di noi;
+Fa                          Do    Sol-       Sib    Fa
+tu che togli i peccati del mondo, accogli la nostra supplica;
+       Re-                   Do     Sol-    Sib   Do
+tu che siedi alla destra del Padre, abbi pietà di noi.
+          Sib     Do        Fa         Sib
+Perché tu solo il Santo, tu solo il Signore,
+Sib                  Do
+tu solo l’Altissimo, Gesù Cristo,
+        Sib    Do     Fa      Sib         Do
+con lo Spirito Santo: nella gloria di Dio Padre.
+Fa Sol- Sib Do (4 v.)
+A--------------
+Fa Sib      Fa
+----------- men.
+
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="139" Titolo="Santo dell'Immacolata" Genere="Santo">
+            <Testo>
+Re 
+Re     Sol Re   
+Santo, Sa--nto, 
+Si-              La
+Santo il Signore Dio dell’universo.
+   Sol       La         Si-
+I cieli e la terra sono pieni
+Sol        Re  La
+della tua gloria.
+
+     Sol   La  Si- Sol 
+    Osanna,   osanna, 
+     Re         Do       La
+    osanna nell’alto dei cieli.
+     Sol   La  Si- Sol 
+    Osanna,   osanna, 
+     Re         Do       La
+    osanna nell’alto dei cieli.
+    Re              Si-
+
+Benedetto colui che viene 
+    Sol   Re     La
+nel nome del Signore.
+
+     Sol   La  Si- Sol 
+    Osanna,   osanna, 
+     Re         Do       La
+    osanna nell’alto dei cieli.
+     Sol   La  Si- Sol 
+    Osanna,   osanna, 
+     Re         Do       La Re
+    osanna nell’alto dei cieli.
+	
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="140" Titolo="Agnello di Dio dell'Immacolata" Genere="Intermezzo">
+            <Testo>
+Mi
+  Mi       Si       
+Agnello di Dio, 
+    La      Fa#-        Mi 
+che togli i peccati del mondo,
+Fa#-    La    Mi
+abbi pietà di noi.
+  Mi       Si       
+Agnello di Dio, 
+    La      Fa#-        Mi 
+che togli i peccati del mondo,
+Fa#-    La    Mi
+abbi pietà di noi.
+
+  Do#-     La-
+Agnello di Dio,
+    Mi         La      Si
+che togli i peccati del mondo,
+La     Sol#-  Fa#- Sol#- Mi
+dona a noi la pa---------ce
+		
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="141" Titolo="Alleluia" Genere="Alleluia">
+            <Testo>
+La La
+Sol Re    Si- Fa#-  Sol Re La
+Alleluia, alleluia, allelu-ia
+Sol Re    Si- Fa#-  Sol Re La
+Alleluia, alleluia, allelu-ia
+		
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="142" Titolo="Offertorio" Genere="Offertorio">
+            <Testo>
+Sol Re Do Sol Mi- Re Do Re
+Sol           Do      Sol 
+Benedetto sei tu, Signore,
+Mi-        Sol Re
+Dio dell’universo:
+
+Sol          Do 
+dalla tua bontà 
+    Sol     Mi-  Re     Do Sol
+abbiamo ricevuto questo pa-ne,
+Re                         Do
+frutto della terra e del lavoro dell’uomo; 
+   Sol           Re
+lo presentiamo a te,
+Re                  Do 
+perché diventi per noi 
+Sol            Re
+cibo di vita eterna
+
+
+Sol           Do      Sol 
+Benedetto sei tu, Signore,
+Mi-        Sol Re
+Dio dell’universo:
+Sol          Do 
+dalla tua bontà 
+    Sol     Mi-  Re     Do Sol
+abbiamo ricevuto questo vi-no,
+Re                         Do
+frutto della vite e del lavoro dell’uomo; 
+   Sol           Re
+lo presentiamo a te,
+Re                  Do 
+perché diventi per noi 
+  Sol          Re
+bevanda di salvezza
+    La-       Do            Sol
+Benedetto nei secoli il Signore.
+    La-       Do            Sol
+Benedetto nei secoli il Signore.
+
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="143" Titolo="Cantiamo al Signore" Genere="Salmo">
+            <Testo>
+     Sol
+Rit: 
+		Sol          Re
+     Cantiamo al Signore 
+	     La-       Do      Sol
+	 stupenda è la sua vittoria (2 v.)
+Do                 Sol         Re
+Voglio cantare in onore del Signore
+  La-           Mi-          Re
+perché ha mirabilmente trionfato
+     Do                   Sol       Re
+è il Dio di mio padre lo voglio esaltare
+    La-         Sol           Re
+mia forza e mio canto è il Signore
+
+Rit.
+
+Dio è prode si chiama Signore
+i carri ha gettato in mare
+ha gettato in mare cavallo e cavaliere
+furono sommersi nel mar Rosso 
+
+Rit.
+
+Fai entrare il tuo polpo lo guidi sul tuo monte
+luogo che per te hai preparato
+santuario che le tue mani hanno fondato
+Tu regni in eterno Signore 
+
+Rit.
+
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="144" Titolo="Regina caeli" Genere="Maria">
+            <Testo>
+Mi           La   Si
+Regina caeli laetare
+Fa#- Sol#- La Si Mi
+Al---le----lu----ia
+Mi                 La   Si
+Quia quem meruisti portare
+Fa#- Sol#- La Si Mi
+Al---le----lu----ia
+
+     La Si Do#- Mi Sol#- Si
+Resurrexit si--cut di----xit
+Fa#- Sol#- La Do#- Mi Si
+ora  pro   nobis   Deum
+     La Si Do#- Mi Sol#- Si
+Resurrexit si--cut di----xit
+Fa#- Sol#- La Si Mi
+Al---le----lu----ia
+
+Mi           La   Si Mi
+Regina caeli laetare
+
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="145" Titolo="L'anima mia ha sete di Te" Genere="Salmo">
+            <Testo>
+    Re 
+Rit:
+     Re      La     Sol     Re
+     L’anima mia ha sete di Te
+     Si-   Fa#-    Mi- Sol Sol La	 
+	 acqua viva Tu se--i,
+     Re         La         Sol    Re
+     acqua che vita a ogni cosa darà,
+     Si-        Fa#-   Sol Re
+     limpido il cuore farà.
+	 
+Si-      La       Sol    Re
+A questa fonte quando berrò
+Si-     La        Mi- Sol Sol La
+io troverò la mia pace.
+Si-       La       Sol      Re
+In questo specchio io mi vedrò,
+Si-      La     Sol
+creatura nuova sarò. 
+
+Rit.
+
+Nell’acqua pura che Tu mi dai
+Avrà riposo il mio cuore.
+Con Te Signore camminerò,
+in Te io rinascerò. 
+
+Rit.		
+
             </Testo>
         </Canzone>				
     </Canzoni>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="6">
+<Canzoniere Version="7">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere> 
@@ -4031,42 +4031,71 @@ Kyrie eleison
         <Canzone Numero="138" Titolo="Gloria dell'Immacolata" Genere="Intermezzo">
             <Testo>
 Gloria a Dio nell’alto dei cieli
-e pace in terra agli uomini, amati dal Signore.
+e pace in terra agli uomini, 
+amati dal Signore.
 Noi ti lodiamo, ti benediciamo,
 ti adoriamo, ti glorifichiamo,
-ti rendiamo grazie per la tua gloria immensa,
-Signore Dio, Re del cielo, Dio Padre onnipotente.
-Signore, Figlio unigenito, Gesù Cristo,
-Signore Dio, Agnello di Dio, Figlio del Padre,
-tu che togli i peccati del mondo, abbi pietà di noi;
-tu che togli i peccati del mondo, accogli la nostra supplica;
-tu che siedi alla destra del Padre, abbi pietà di noi.
-Perché tu solo il Santo, tu solo il Signore,
+ti rendiamo grazie 
+per la tua gloria immensa,
+
+Signore Dio, Re del cielo, 
+Dio Padre onnipotente.
+Signore, Figlio unigenito, 
+Gesù Cristo,
+Signore Dio, Agnello di Dio, 
+Figlio del Padre,
+tu che togli i peccati del mondo, 
+abbi pietà di noi;
+tu che togli i peccati del mondo, 
+accogli la nostra supplica;
+tu che siedi alla destra del Padre, 
+abbi pietà di noi.
+
+Perché tu solo il Santo, 
+tu solo il Signore,
 tu solo l’Altissimo, Gesù Cristo,
-con lo Spirito Santo: nella gloria di Dio Padre.
+con lo Spirito Santo: 
+nella gloria di Dio Padre.
+
 Amen.		
 	
             </Testo>
         </Canzone>		
         <Canzone Numero="139" Titolo="Santo dell'Immacolata" Genere="Santo">
             <Testo>
-Santo, Santo, Santo il Signore Dio dell’universo.
-I cieli e la terra sono pieni della tua gloria.
+Santo, Santo, 
+Santo il Signore Dio dell’universo.
+I cieli e la terra sono pieni 
+della tua gloria.
 
-    Osanna, osanna, osanna nell’alto dei cieli.
-    Osanna, osanna, osanna nell’alto dei cieli.
+    Osanna, osanna, osanna 
+	nell’alto dei cieli.
+    Osanna, osanna, osanna 
+	nell’alto dei cieli.
 	
-Benedetto colui che viene nel nome del Signore.
+Benedetto colui che viene 
+nel nome del Signore.
 
-    Osanna, osanna, osanna nell’alt o dei cieli.
-    Osanna, osanna, osanna nell’alto dei cieli.			
+    Osanna, osanna, osanna 
+	nell’alto dei cieli.
+    Osanna, osanna, 
+	osanna nell’alto dei cieli.			
+	
             </Testo>
         </Canzone>		
         <Canzone Numero="140" Titolo="Agnello di Dio dell'Immacolata" Genere="Intermezzo">
             <Testo>
-Agnello di Dio, che togli i peccati del mondo, abbi pietà di noi.
-Agnello di Dio, che togli i peccati del mondo, abbi pietà di noi.
-Agnello di Dio, che togli i peccati del mondo, dona a noi la pace.	
+Agnello di Dio, 
+che togli i peccati del mondo, 
+abbi pietà di noi.
+
+Agnello di Dio, 
+che togli i peccati del mondo, 
+abbi pietà di noi.
+
+Agnello di Dio, 
+che togli i peccati del mondo, 
+dona a noi la pace.	
 		
             </Testo>
         </Canzone>		
@@ -4080,17 +4109,25 @@ Alleluia, alleluia, alleluia
         </Canzone>		
         <Canzone Numero="142" Titolo="Offertorio" Genere="Offertorio">
             <Testo>
-Benedetto sei tu, Signore, Dio dell’universo:
-dalla tua bontà abbiamo ricevuto questo pane
-frutto della terra e del lavoro dell’uomo;
+Benedetto sei tu, Signore, 
+Dio dell’universo:
+dalla tua bontà 
+abbiamo ricevuto questo pane
+frutto della terra 
+e del lavoro dell’uomo;
 lo presentiamo a te,
-perché diventi per noi cibo di vita eterna
+perché diventi per noi 
+cibo di vita eterna
 
-Benedetto sei tu, Signore, Dio dell’universo
-dalla tua bontà abbiamo ricevuto questo vino,
-frutto della vite e del lavoro dell’uomo;
+Benedetto sei tu, Signore, 
+Dio dell’universo
+dalla tua bontà 
+abbiamo ricevuto questo vino,
+frutto della vite 
+e del lavoro dell’uomo;
 lo presentiamo a te,
-perché diventi per noi bevanda di salvezza
+perché diventi per noi
+bevanda di salvezza
 
 Benedetto nei secoli il Signore.
 Benedetto nei secoli il Signore.	
@@ -4117,7 +4154,7 @@ furono sommersi nel mar Rosso
 
 Rit.
 
-Fai entrare il tuo polpo lo guidi sul tuo monte
+Fai entrare il tuo popolo lo guidi sul tuo monte
 luogo che per te hai preparato
 santuario che le tue mani hanno fondato
 Tu regni in eterno Signore

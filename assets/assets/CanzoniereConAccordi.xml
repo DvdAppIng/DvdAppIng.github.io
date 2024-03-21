@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="6">
+<Canzoniere Version="7">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere> 
@@ -5330,30 +5330,57 @@ Kyrie-e—le---i--son
 Re 
 Re       Sol      La        Sol
 Gloria a Dio nell’alto dei cieli
-Re     Mi-      Si-          Sol       La
-e pace in terra agli uomini, amati dal Signore.
-Sol     La      Re        La    Sol      La      Re        La
-Noi ti lodiamo, ti benediciamo, ti adoriamo, ti glorifichiamo,
-Mi-       Fa#-            Sol        La
-ti rendiamo grazie per la tua gloria immensa,
-Fa      Sol  Do      Fa              Sol    La
-Signore Dio, Re del cielo, Dio Padre onnipotente.
-Fa       Sol    Do Fa       Sol La
-Signore, Figlio unigenito, Gesù Cristo,
-Fa#-    Sol#-   La    Re     Fa#-   Mi   Fa
-Signore Dio, Agnello di Dio, Figlio del Padre,
-Fa                          Do    Sol-    Sib   Fa
-tu che togli i peccati del mondo, abbi pietà di noi;
-Fa                          Do    Sol-       Sib    Fa
-tu che togli i peccati del mondo, accogli la nostra supplica;
-       Re-                   Do     Sol-    Sib   Do
-tu che siedi alla destra del Padre, abbi pietà di noi.
-          Sib     Do        Fa         Sib
-Perché tu solo il Santo, tu solo il Signore,
-Sib                  Do
-tu solo l’Altissimo, Gesù Cristo,
-        Sib    Do     Fa      Sib         Do
-con lo Spirito Santo: nella gloria di Dio Padre.
+Re     Mi-      Si-         
+e pace in terra agli uomini,
+ Sol       La
+amati dal Signore.
+Sol     La      Re        La   
+Noi ti lodiamo, ti benediciamo,
+Sol      La      Re        La
+ti adoriamo, ti glorifichiamo,
+Mi-       Fa#-            
+ti rendiamo grazie
+       Sol        La
+per la tua gloria immensa,
+
+Fa      Sol  Do      Fa              
+Signore Dio, Re del cielo, 
+          Sol    La
+Dio Padre onnipotente.
+Fa       Sol    Do Fa       
+Signore, Figlio unigenito, 
+ Sol La
+Gesù Cristo,
+Fa#-    Sol#-   La    Re     
+Signore Dio, Agnello di Dio, 
+Fa#-   Mi   Fa
+Figlio del Padre,
+Fa                          Do    
+tu che togli i peccati del mondo, 
+Sol-    Sib   Fa
+abbi pietà di noi;
+Fa                          Do    
+tu che togli i peccati del mondo, 
+Sol-       Sib    Fa
+accogli la nostra supplica;
+       Re-                   Do     
+tu che siedi alla destra del Padre, 
+Sol-    Sib   Do
+abbi pietà di noi.
+
+          Sib     Do     
+Perché tu solo il Santo, 
+   Fa         Sib
+tu solo il Signore,
+Sib                  
+tu solo l’Altissimo, 
+Do
+Gesù Cristo,
+        Sib    Do     
+con lo Spirito Santo: 
+Fa      Sib         Do
+nella gloria di Dio Padre.
+
 Fa Sol- Sib Do (4 v.)
 A--------------
 Fa Sib      Fa
@@ -5428,6 +5455,7 @@ dona a noi la pa---------ce
 La La
 Sol Re    Si- Fa#-  Sol Re La
 Alleluia, alleluia, allelu-ia
+
 Sol Re    Si- Fa#-  Sol Re La
 Alleluia, alleluia, allelu-ia
 		
@@ -5445,8 +5473,10 @@ Sol          Do
 dalla tua bontà 
     Sol     Mi-  Re     Do Sol
 abbiamo ricevuto questo pa-ne,
-Re                         Do
-frutto della terra e del lavoro dell’uomo; 
+Re                 
+frutto della terra 
+        Do
+e del lavoro dell’uomo; 
    Sol           Re
 lo presentiamo a te,
 Re                  Do 
@@ -5463,14 +5493,17 @@ Sol          Do
 dalla tua bontà 
     Sol     Mi-  Re     Do Sol
 abbiamo ricevuto questo vi-no,
-Re                         Do
-frutto della vite e del lavoro dell’uomo; 
+Re               
+frutto della vite
+          Do
+e del lavoro dell’uomo; 
    Sol           Re
 lo presentiamo a te,
 Re                  Do 
 perché diventi per noi 
   Sol          Re
 bevanda di salvezza
+
     La-       Do            Sol
 Benedetto nei secoli il Signore.
     La-       Do            Sol
@@ -5486,6 +5519,7 @@ Rit:
      Cantiamo al Signore 
 	     La-       Do      Sol
 	 stupenda è la sua vittoria (2 v.)
+	 
 Do                 Sol         Re
 Voglio cantare in onore del Signore
   La-           Mi-          Re
@@ -5504,7 +5538,7 @@ furono sommersi nel mar Rosso
 
 Rit.
 
-Fai entrare il tuo polpo lo guidi sul tuo monte
+Fai entrare il tuo popolo lo guidi sul tuo monte
 luogo che per te hai preparato
 santuario che le tue mani hanno fondato
 Tu regni in eterno Signore 

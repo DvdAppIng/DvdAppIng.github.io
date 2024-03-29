@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="7">
+<Canzoniere Version="8">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere> 
@@ -1546,7 +1546,7 @@ Dove Tu passi fiorisce il deserto
 Dove Tu guardi si rischiara il cielo
      Sol-      Re-   Fa-      Do
 E in fondo al cuore torna il sereno
-        Fa           La- Dodim Do Sol La-   Fa
+        Fa           La- Dodim Do Sol La- Fa
 Dove Tu sei, dove Tu sei.
 
 Dove Tu sei, torna la vita
@@ -2590,7 +2590,7 @@ una voce che mi chiama
 ma sto seduto inerte,
 la mano nella mano.
 
-Hanno preso una angelo, 
+Hanno preso un angelo, 
 era un angelo nero, 
 c’è sangue sul suo volto, 
 e un popolo lo piange.
@@ -3332,6 +3332,7 @@ Do         Re      Mi
 Soffro per le bestemmie,
     Do     Re               Mi
 per le persecuzioni di ogni tempo,
+    Do     Re               Mi
 per la malvagità, per l’ignoranza.
       Fa       Fa-      Do    La-
     Riprese la via col dorso chino
@@ -3933,26 +3934,26 @@ Ave Maria benedetta tu sei
         </Canzone>
         <Canzone Numero="102" Titolo="Ecco la dimora di Dio" Genere="">
             <Testo>
-Re     La      Do      Sol          RE    La  Do  Sol     
+Sol Re      Fa      Do          Sol    Re Fa Do
 Ec--co la dimora di Dio con gli uomini 
-Re  La      Do  Sol     Re   La  Do  Sol 
-E---gli dimore---rà tra lo---ro 
-Si- Fa#-  Sol        Re   La 
-ed essi sa--ran suo popo--lo 
-Sol Fa#-   Sol    Re        La 
-ed Egli sa--rà il Dio con loro 
-Sol    Re  Sol       Re    La 
-e tergerà ogni loro lacri--ma 
- Sol         RE             Mi-   La 
-e no non ci sarà mai più la mor---te 
-   Sol         Re 
+Sol Re      Fa       Do    Sol Re Fa Do
+E---gli dimorerà tra loro 
+Mi- Si-    Do     Sol Re
+ed essi saran suo popolo 
+Mi- Si-    Do    Sol     Re
+ed  Egli sarà il Dio con loro 
+Do    Sol Do        Sol  Re
+e tergerà ogni loro lacrima 
+  Do         Sol            La- Re
+e no non ci sarà mai più la morte 
+   Do        Sol 
 né lutto né lamento 
-   Sol         Re  La 
+    Do        Sol  Re
 né affanno né lacrime 
-Sol        La      Si-   Sol   RE    La 
-perché le cose di prima sono passa---te 
-Re   La       Do     Sol           Re   La  Do  Sol  Re 
-Ec---co la dimora di Dio con gli uomini            
+Do        Re       Mi-  Do    Sol Re
+perché le cose di prima sono passate 
+Sol Re      Fa      Do          Sol    Re Fa Do Sol9 Si
+Ec--co la dimora di Dio con gli uomini 
 
             </Testo>
         </Canzone>

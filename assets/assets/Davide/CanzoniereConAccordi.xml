@@ -6,7 +6,7 @@
         <Genere>Straniere</Genere> 
     </Generi>
     <Canzoni>
-        <Canzone Numero="1" Titolo="Prova it" Genere="Italiane">
+        <Canzone Numero="1" Titolo="L'isola che non c'è" Genere="Italiane">
             <Testo>
  Re                                   La
 Seconda stella a destra, questo é il cammino
@@ -47,7 +47,7 @@ forse é ancora piú pazzo di te
 
             </Testo>
         </Canzone>		
-        <Canzone Numero="2" Titolo="Prova straniera" Genere="Straniere">
+        <Canzone Numero="2" Titolo="The river" Genere="Straniere">
             <Testo>
 Mi-   Sol   Re   Do
 Mi-   Sol   Do

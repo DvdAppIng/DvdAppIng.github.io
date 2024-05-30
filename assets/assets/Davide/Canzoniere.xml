@@ -1,1 +1,107 @@
+<?xml version="1.0"?>
+<Canzoniere Version="1">
+    <Generi>
+        <Genere>Tutte</Genere>
+        <Genere>Italiane</Genere>
+        <Genere>Straniere</Genere> 
+    </Generi>
+    <Canzoni>
+        <Canzone Numero="1" Titolo="Prova it" Genere="Italiane">
+            <Testo>
+ Re                                   La
+Seconda stella a destra, questo é il cammino
+      Sol                Re
+e poi dritto, fino al mattino
+       Si-       Fa#7    Sol
+poi la strada la trovi da te
+           Re   La      Re
+porta all'isola che non c'é
+Forse questo ti sembrerá strano,
+ma la ragione ti ha un po' preso la mano
+ed ora sei quasi convinto che
+non puó esistere un'isola che non c'é
+E a pensarci, che pazzia,
+e chi é saggio, chi é maturo lo sa
+non puó esistere nella realtá
+Son d'accordo con voi, non esiste una terra
+dove non ci son santi né eroi
+e se non ci son ladri, se non c'é mai la guerra
+forse é proprio l'isola che non c'é che non c'é
+E non é un'invenzione
+e neanche un gioco di parole
+se ci credi ti basta perché
+poi la strada la trovi da te
 
+Son d'accordo con voi niente ladri e gendarmi,
+ma che razza di isola é?
+Niente odio e violenza, né soldati né armi
+forse é proprio l'isola che non c'é... che non c'é...
+Seconda stella a destra, questo é il cammino
+e poi dritto fino al mattino
+non ti puoi sbagliare perchè
+quella é l'isola che non c'è
+E ti prendono in giro se continui a cercarla
+ma non darti per vinto perché
+chi ci ha giá rinunciato e ti ride alle spalle
+forse é ancora piú pazzo di te
+
+            </Testo>
+        </Canzone>		
+        <Canzone Numero="2" Titolo="Prova straniera" Genere="Straniere">
+            <Testo>
+I come from down in the valley
+Where mister when you're young
+They bring you up to do like your daddy done
+Me and Mary we met in high school
+When she was just seventeen
+We'd drive out of this valley down
+to where the fields were green
+
+We'd go...
+Rit:
+ down to the river
+And into the river we'd dive
+Oh down to the river we'd ride
+
+Then I got Mary pregnant
+And man that was all she wrote
+And for my nineteenth birthday
+I got a union card and a wedding coat
+We went down to the courthouse
+And the judge put it all to rest
+No wedding day smiles, no walk down the aisle
+No flowers, no wedding dress
+
+That night we went...
+Rit.
+
+I got a job working construction
+for the Johnstown Company
+But lately there ain't been much work
+on account of the economy
+Now all the things that seemed so important
+Well mister they vanished right into the air
+Now I just act like I don't remember
+Mary acts like she don't care
+
+But I remember us riding in my brother's car
+Her body tan and wet down at the reservoir
+At night on them banks I'd lie awake
+And pull her close
+just to feel each breath she'd take
+Now those memories come back to haunt me
+They haunt me like a curse
+Is a dream a lie if it don't come true
+Or is it something worse,
+
+That sends me down to the river
+Though I know the river is dry
+That sends me down to the river tonight
+Down to the river
+
+My baby and I
+Oh down to the river we ride
+            </Testo>
+        </Canzone>				
+    </Canzoni>
+</Canzoniere>

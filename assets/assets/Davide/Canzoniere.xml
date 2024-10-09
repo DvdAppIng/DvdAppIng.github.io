@@ -46,8 +46,104 @@ chi ci ha giá rinunciato e ti ride alle spalle
 forse é ancora piú pazzo di te
 
             </Testo>
-        </Canzone>		
-        <Canzone Numero="2" Titolo="The river" Genere="Straniere">
+        </Canzone>      
+                <Canzone Numero="2" Titolo="Rimmel" Genere="Italiane">
+            <Testo>
+E qualcosa rimane
+tra le pagine chiare e le pagine scure
+e cancello il tuo nome dalla mia facciata
+e confondo i miei alibi e le tue ragioni
+i miei alibi e le tue ragioni
+
+Chi mi ha fatto le carte
+e mi ha chiamato vincente ma e uno zingaro e' un trucco
+e un futuro invadente fossi stato un po' piu' giovane
+l'avrei distrutto con la fantasia
+l'avrei stracciato con la fantasia
+
+Rit:
+    Ora le tue labbra puoi spedirle
+    Ad un indirizzo nuovo
+    E la mia faccia sovrapporla
+    A quella di chissà chi altro
+    Ancora i tuoi quattro assi
+    Bada bene di un colore solo
+    Li puoi nascondere o giocare con chi vuoi
+    O farli rimanere buoni amici come noi
+
+Do REm Mi- Fa
+Do REM Mi- Fa
+
+Santa voglia di vivere e dolce venere di rimmel
+come quando fuori pioveva e tu mi domandavi
+se per caso avevo ancora quella foto
+in cui tu sorridevi e non guardavi
+Ed il vento passava sul tuo collo
+di pelliccia e sulla tua persona
+e quando io senza capire ho detto si
+hai detto e tutto quel che hai di me
+e' tutto quel che ho di te
+
+Rit.            
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="3" Titolo="Generale" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="4" Titolo="7 e 40" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="5" Titolo="Mi ritorni in mente" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="6" Titolo="Ho messo via" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="7" Titolo="Non è tempo per noi" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="8" Titolo="Marlon Brando" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="9" Titolo="Non l'hai mica capito" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="10" Titolo="Albachiara" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="11" Titolo="Ho imparato a sognare" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="12" Titolo="Io vagabondo" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="13" Titolo="Destinazione paradiso" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="14" Titolo="Gli anni" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="15" Titolo="Come mai" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="16" Titolo="50 Special" Genere="Italiane">
+            <Testo>
+            </Testo>
+        </Canzone>              
+        <Canzone Numero="100" Titolo="The river" Genere="Straniere">
             <Testo>
 I come from down in the valley
 Where mister when you're young
@@ -102,6 +198,50 @@ Down to the river
 My baby and I
 Oh down to the river we ride
             </Testo>
-        </Canzone>				
-    </Canzoni>
+        </Canzone>              
+        <Canzone Numero="101" Titolo="Wonderful tonight" Genere="Straniere">
+            <Testo>
+            </Testo>
+        </Canzone>       
+        <Canzone Numero="102" Titolo="Too much love will kill you" Genere="Straniere">
+            <Testo>
+            </Testo>
+        </Canzone>       
+        <Canzone Numero="103" Titolo="39" Genere="Straniere">
+            <Testo>
+            </Testo>
+        </Canzone>       
+        <Canzone Numero="104" Titolo="Love rescue me" Genere="Straniere">
+            <Testo>
+            </Testo>
+        </Canzone>       
+        <Canzone Numero="105" Titolo="With or without you" Genere="Straniere">
+            <Testo>
+            </Testo>
+        </Canzone>       
+        <Canzone Numero="106" Titolo="I wish you were here" Genere="Straniere">
+            <Testo>
+            </Testo>
+        </Canzone>       
+        <Canzone Numero="107" Titolo="Always" Genere="Straniere">
+            <Testo>
+            </Testo>
+        </Canzone>       
+        <Canzone Numero="108" Titolo="Knocking on Heaven's door" Genere="Straniere">
+            <Testo>
+            </Testo>
+        </Canzone>       
+        <Canzone Numero="109" Titolo="Wind of change" Genere="Straniere">
+            <Testo>
+            </Testo>
+        </Canzone>       
+        <Canzone Numero="110" Titolo="Carrie" Genere="Straniere">
+            <Testo>
+            </Testo>
+        </Canzone>       
+        <Canzone Numero="112" Titolo="Where you think you are going" Genere="Straniere">
+            <Testo>
+            </Testo>
+        </Canzone>       
+	</Canzoni>
 </Canzoniere>

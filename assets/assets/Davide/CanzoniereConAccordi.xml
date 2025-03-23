@@ -119,7 +119,7 @@ e' tutto quel che ho di te
 Rit.            
             </Testo>
         </Canzone>              
-         <Canzone Numero="3" Titolo="Generale" Genere="Italiane">             
+        <Canzone Numero="3" Titolo="Generale" Genere="Italiane">             
             <Testo>
 LA RE LA RE
 
@@ -637,26 +637,366 @@ Rit.
         </Canzone>              
         <Canzone Numero="12" Titolo="Io vagabondo" Genere="Italiane">
             <Testo>
+Intro:
+RE LA SIm LA
+RE            LA
+Io un giorno crescerò
+SOL               LA       RE DO SOL
+e nel cielo della vita volerò
+RE          LA
+ma un bimbo che ne sa
+SOL                    LA       SIm
+sempre azzurra non può essere l'età
+
+SOL MIm           LA6               RE
+Poi, una notte di settembre mi svegliai
+               SOL
+il vento sulla pelle
+LA                                RE
+sul mio corpo il chiarore delle stelle
+SIm                MIm
+chissà dov'era casa mia
+  LA               FA#7
+e quel bambino che giocava in un cortile!
+
+Rit:
+    RE      LA            SIm
+    Io, vagabondo che son io
+        LA                 RE
+    vagabondo che non sono altro
+             LA           SIm
+    soldi in tasca non ne ho
+       LA                 RE LA FA#
+    ma lassù mi è rimasto Dio
+
+Sì, la strada è ancora là
+un deserto mi sembrava la città
+ma un bimbo che ne sa
+sempre azzurra non può essere l'età
+
+Poi, una notte di settembre me ne andai
+il fuoco di un camino
+non è caldo come il sole del mattino
+chissà dov'era casa mia
+e quel bambino che giocava in un cortile!
+
+Rit. (3 volte)
+                
             </Testo>
         </Canzone>              
         <Canzone Numero="13" Titolo="Destinazione paradiso" Genere="Italiane">
             <Testo>
+SOL
+Un viaggio a senso solo
+      DO
+senza ritorno se non in volo
+      SOL
+senza fermate né confini
+     DO
+solo orizzonti neanche troppo lontani
+
+SOL DO9 SOL DO9
+
+SOL                         DO
+In questo girotondo d'anime
+SOL                          DO
+chi si volta è perso e resta qua
+SOL                      DO
+lo so per certo amico mi son voltato anch'io
+SOL                          DO
+e per raggiungerti ho dovuto correre.
+LAm                             DO
+Ma più mi guardo in giro e vedo che
+LAm                              DO
+c'è un mondo che va avanti anche se
+                 SOL                  DO
+se tu non ci sei più se tu non ci sei più.
+
+E dimmi perché
+in questo girotondo d' anime non c'è
+un posto per scrollarsi via di dosso
+quello che ci è stato detto e
+quello che oramai si sa, e allora sai che c'è
+
+c'è che c'è,
+c'è che prendo un treno che va a paradiso città
+e vi saluto a tutti e salto su     
+prendo il treno e non ci penso più.
+
+Rit:
+    SOL
+    Un viaggio a senso solo
+    DO
+    senza ritorno se non in volo
+    SOL
+    senza fermate né confini
+    DO
+    solo orizzonti neanche troppo lontani
+    MIm
+    io mi prenderò il mio posto
+    DO
+    e tu seduta lì al mio fianco
+    SOL DO
+    mi dirai, destinazione paradiso
+
+Rit.
+
+SOL     DO
+c'è che c'è,
+SOL                                       DO
+c'è che prendo un treno che va a paradiso città
+      MIm
+io mi prenderò il mio posto
+       DO
+e tu seduta lì al mio fianco
+     SOL                   DO
+mi dirai, destinazione paradiso
+         SOL
+paradiso città.
+
             </Testo>
         </Canzone>              
         <Canzone Numero="14" Titolo="Gli anni" Genere="Italiane">
             <Testo>
+SOL
+
+MIm    DO             SOL           RE
+Stessa storia, stesso posto, stesso bar
+MIm    DO             SOL        RE/FA#     MIm
+stessa gente che vien dentro, consuma e poi va
+       DO RE          SOL
+non lo so, che faccio qui
+        DO RE        MIm        RE       DO
+esco un pò, e vedo i fari delle auto che mi
+           MIm      RE        DO       RE   SOL
+guardano e sembrano chiedermi chi cerchiamo noi
+
+Rit:
+    SOL            RE         LAm
+    Gli anni d'oro del grande Real
+                      DO              RE
+    Gli anni di Happy Days e di Ralph Malph
+                     DO          RE
+    Gli anni delle immense compagnie
+                     DO   RE        SOL
+    Gli anni in motorino, sempre in due
+    SOL              RE             LAm
+    Gli anni di "Che belli erano i film"
+                     DO          RE
+    Gli anni dei Roy Rogers come jeans
+                     DO         RE
+    Gli anni di "Qualsiasi cosa fai"
+                 DO           RE       MIm RE DO
+    Gli anni del "Tranquillo, siam qui no--o--oi"
+               MIm RE DO RE SOL
+    "siamo qui no--o--o--o--oi"
+
+stessa storia stesso posto stesso bar
+una coppia che conosco c’avran la mia età
+come va, salutano
+cosi io, vedo le fedi alle dita dei due
+che porco giuda potrei essere io qualche anno fa
+
+Rit.
+
+Stessa storia, stesso posto, stesso bar
+stan quasi chiudendo poi me ne andrò a casa mia
+solo lei, davanti a me
+cosa vuoi, il tempo passa per tutti lo sai
+nessuno indietro lo riporterà neppure noi
+
+Rit.
+                
             </Testo>
         </Canzone>              
         <Canzone Numero="15" Titolo="Come mai" Genere="Italiane">
             <Testo>
+Intro:
+SOL RE DO SOL DO SOL RE SOL
+
+SOL            MIm          DO         RE
+Le notti non finiscono, all'alba nella via
+SOL                MIm           DO         RE
+le porto a casa insieme a me, ne faccio melodia
+  DO              RE       SOL    RE/FA# Mim
+e poi mi trovo a scrivere, chilometri di lettere
+    DO        SOL          RE
+sperando di vederti ancora qui
+
+È inutile parlarne sai, non capiresti mai
+Seguirti fino all'alba e poi, vedere dove vai
+Mi sento un po' bambino ma, con te lo so non finirà
+il sogno di sentirsi dentro un film
+
+  DO            SOL          DO    SOL
+E poi all'improvviso, sei arrivata tu
+    DO          SOL           Lam          RE
+Non so chi l'ha deciso, m'hai preso sempre più
+Una quotidiana guerra, con la razionalità
+ma va bene purchè serva, per farmi uscire
+
+Rit:
+    SOL          RE
+    Come mai, ma chi sarai
+    DO                SOL
+    per fare questo a me
+             DO          SOL
+    Notti intere ad aspettarti
+       LAm7      RE
+    ad aspettare te
+          SOL          RE
+    Dimmi come mai, ma chi sarai
+        DO          SOL
+    per farmi stare quì
+          DO          SOL
+    qui seduto in una stanza
+       DO    RE     SOL
+    pregando per un si
+
+Gli amici se sapessero, che sono proprio io
+Pensare che credevano, che fossi quasi un dio
+Perchè non mi fermavo mai, nessuna storia inutile
+Uccidersi d'amore, ma per chi?
+
+Lo sai all'improvviso, sei arrivata tu
+Non so chi l'ha deciso, m'hai preso sempre più
+Una quotidiana guerra, con la razionalità
+ma va bene purchè serva, per farmi uscire
+SOL RE
+
+Rit. (2 volte)
+                
             </Testo>
         </Canzone>              
         <Canzone Numero="16" Titolo="50 Special" Genere="Italiane">
             <Testo>
+Intro:
+SOL DO MIm RE DO SOL RE (2 volte)
+
+SOL            LA7
+Vespe truccate anni sessanta
+DO                   SOL
+girano in centro sfiorando i novanta
+SOL              LA7
+rosse di fuoco comincia la danza
+   DO                     SOL
+di frecce con dietro attaccata una targa
+Lam                   RE
+Dammi una special l'estate che avanza
+Lam                   RE
+dammi una vespa e ti porto in vacanza
+
+Rit:
+               SOL             DO
+    Ma quant'è bello andare in giro
+           MIm           RE
+    con le ali sotto ai piedi
+               DO            SOL
+    se hai una vespa special che
+                     RE
+    ti toglie i problemi
+    Ma quant'è bello andare in giro
+    per i colli bolognesi
+    se hai una vespa special che
+    ti toglie i problemi
+                  DO
+    La scuola non va
+              SOL                  DO
+    ma ho una vespa, una donna non ho
+           SOL                Mim
+    ho una vespa e domenica è già
+           SOL          RE
+    e una vespa mi porterà
+            RE            RE
+    mi porterà... mi porterà
+            SOL DO MIm RE DO SOL RE
+    fuori città
+
+SOL DO MIm RE DO SOL RE (2 volte)
+
+Esco di fretta dalla mia stanza
+a marce ingranate dalla prima alla quarta
+devo fare in fretta devo andare a una festa
+fammi fare un giro prima sulla mia vespa
+Dammi una special l'estate che avanza
+dammi una vespa e ti porto in vacanza
+
+Rit.
+                
             </Testo>
         </Canzone>                  
         <Canzone Numero="17" Titolo="Certe notti" Genere="Italiane">
             <Testo>
+      MI                  LA
+Certe notti la macchina è calda
+          SI       LA     MI
+e dove ti porta lo decide lei
+      DO#m                LA
+Certe notti la strada non conta
+               SI
+che quello che conta è sentire che vai
+      SOL#m              LA
+Certe notti la radio che passa Neil Young
+       DO#m             LA
+sembra avere capito chi sei
+      MI                    LA
+Certe notti somigliano a un vizio
+                SI        LA       MI
+che tu non vuoi smettere, smettere mai.
+RE
+
+Certe notti fai un po' di cagnara
+che sentano che non cambierai più
+Quelle notti fra cosce e zanzare
+e nebbia e locali a cui dai del tu
+Certe notti c'hai qualche ferita
+che qualche tua amica disinfetterà
+Certe notti coi bar che son chiusi
+al primo autogrill c'e' chi festeggerà.
+
+Rit:
+    DO#m             SI
+    E si può restare soli
+    LA          MI 
+    certe notti qui
+    LA             SI
+    che chi s'accontenta gode
+    LA     MI
+    così così
+          LA          SI
+    Certe notti o sei sveglio
+          MI    SOL#m   LA
+    o non sarai sveglio mai
+         LA       SI            RE
+    Ci vediamo da Mario prima o poi.
+
+Certe notti ti senti padrone
+di un posto che tanto di giorno non c'è
+Certe notti se sei fortunato
+bussi alla porta di chi è come te
+C'è la notte che ti tiene fra le sue tette
+un po' mamma un po' porca com'è
+Quelle notti da farci l'amore
+fin quando fa male, fin quando ce n'è.
+
+Rit.
+    Tanto Mario riapre prima o poi.
+    Certe notti qui, certe notti qui
+    certe notti qui, certe notti...
+
+Assolo (accordi strofa)
+
+Certe notti sei solo più allegro,
+più ingordo, più ingenuo e coglione che puoi
+Quelle notti son proprio quel vizio
+che non voglio smettere, smettere mai.
+
+Rit.
+    Ci vediamo da Mario prima o poi.
+    certe notti qui certe notti qui.
+    certe notti qui.
+MI
+                
             </Testo>
         </Canzone>      
         <Canzone Numero="100" Titolo="The river" Genere="Straniere">

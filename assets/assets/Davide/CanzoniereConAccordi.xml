@@ -571,23 +571,23 @@ e tutto il mondo fuori
         <Canzone Numero="11" Titolo="Ho imparato a sognare" Genere="Italiane">
             <Testo>
 Intro:
-SOL LAm DO SOL
+RE MIm SOL (2 volte)
 
-     SOL                      LAm
+     RE                       MIm
 Ho imparato a sognare che non ero bambino
-        DO             SOL
+        SOL            RE
 che non ero neanche un’età
-          SOL                   LAm
+          RE                   MIm
 Quando un giorno di scuola mi durava una vita
-         DO                 SOL
+         SOL                RE
 e il mio mondo finiva un pò là
-         DO                   SOL
+         SOL                  RE
 Tra quel prete palloso che ci dava da fare
-         LAm                 SOL
+         MIm                 RE
 e il pallone che andava come fosse a motore
-          DO             LAm
+          SOL            MIm
 C’era chi era incapace a sognare
-      RE      SOL
+      LA      RE
 e chi sognava già
 
 Ho imparato a sognare e ho iniziato a sperare
@@ -600,21 +600,21 @@ C’era chi era incapace a sognare
 e chi sognava già
 
 Rit:
-            LAm                    RE
+            MIm                    LA
     Tra una botta che prendo e una botta che do
-           SOL                  DO
+           RE                   SOL
     tra un amico che perdo e un amico che avrò
-           LAm                RE
+           MIm                LA
     che se cado una volta una volta cadrò
-         SOL              DO
+         RE                SOL
     e da terra da li m’alzerò
-            LAm                      DO
+            MIm                     SOL
     C’è che ormai che ho imparato a sognare
-    RE       SOL
+    LA        RE
     non smetterò
 
 Strumentale:
-SOL LAm DO SOL
+RE MIm RE (2 volte)
 
 Ho imparato a sognare quando inizi a scoprire
 che ogni sogno ti porta più in là
@@ -626,8 +626,8 @@ C’era chi era incapace a sognare
 e chi sognava già
 
 Strumentale:
-DO SOL DO SOL DO SOL RE
-DO SOL DO SOL LAm RE
+SOL RE SOL RE SOL RE LA
+SOL RE SOL RE MIm RE LA
 
 Rit.
     C’è che ormai che ho imparato a sognare
@@ -1077,10 +1077,128 @@ Oh down to the river we ride
         </Canzone>      
         <Canzone Numero="101" Titolo="Wonderful tonight" Genere="Straniere">
             <Testo>
+SOL RE DO RE SOL (2 volte)
+
+SOL              RE 
+It's late in the evening
+DO                   RE             SOL
+she's wondering what clothes to wear
+SOL             RE          DO          RE                DO
+She puts on her make-up and brushes her long blonde hair
+DO           RE       SOL RE/FA#     MIm
+And then she asks me, "Do I look all right?"
+           DO             RE             SOL 
+And I say, "Yes, you look wonderful tonight"
+
+SOL RE DO RE SOL (2 volte)
+
+We go to a party and everyone turns to see
+This beautiful lady that's walking around with me
+And then she asks me, "Do I look all right?"
+And I say, "Yes, you look wonderful tonight"
+	SOL6
+	       DO        RE
+	I feel wonderful because I see
+	    SOL  RE/FA#        MIm
+	The love light in your eyes
+	        DO          RE
+	And the wonder of it all
+	            DO             RE
+	Is that you just don't realize
+	                SOL
+	how much I love you
+
+SOL RE DO RE SOL (2 volte)
+
+It's time to go home now and I've got an aching head
+So I give her the car keys and she helps me to bed
+And then I tell her, as I turn out the light
+I say, "My darling, you were wonderful tonight
+SOL6
+
+Oh my darling, you were wonderful tonight"
+				
             </Testo>
         </Canzone>       
         <Canzone Numero="102" Titolo="Too much love will kill you" Genere="Straniere">
             <Testo>
+SOL SOL/RE/DO SOL RE DO RE
+
+             SOL           DO9   RE      SOL
+I'm just the pieces of the man I used to be
+SOL RE/FA# MIm
+Too many bitter tears
+    RE              DO
+are raining down on me.
+     LAm           MIm
+I am far away from home,
+              LAm         MIm
+And I've been facing this alone
+            RE RE4/RE  DO RE
+For much too long...   Oh
+
+I feel like no-one ever told the truth to me
+About growing up
+and what a struggle it would be.
+In my tangled state of mind,
+I've been looking back to find
+Where I went wrong.
+
+Rt:
+	SOL                DO
+	Too much love will kill you
+		   MIm                RE
+	If you can't make up your mind;
+	SOL              DO
+	Torn between the lover
+			MIm            RE
+	And the love you leave behind.
+		   SOL        DO
+	You're headed for disaster
+			 MIm            DO#dim
+	'Cos you never read the signs:
+	SOL                DOadd9   RE    SOL
+	Too much love will kill you every time.
+
+I'm just the shadow of the man I used to be
+And it seems
+like there's no way out of this for me.
+I used to bring you sunshine;
+Now all I ever do
+Is bring you down. Ooh-ooh
+
+How would it be if you were standing in my shoes?
+Can't you see
+that it's impossible to choose?
+No, there's no making sense of it:
+Every way I go
+I'm bound to lose. Oh-ooh
+
+Rit:
+	Too much love will kill you
+	Just as sure as none at all.
+	It'll drain the power that's in you,
+	Make you bleed and scream and crawl.
+	And the pain will make you crazy;
+	You're the victim of your crime.
+	Too much love will kill you every time.
+
+Strumentale (accordi della strofa):
+SOL DO SOL RE/FA# MIm RE DO DO
+LAm MIm LAm MIm RE RE4/RE DO RE
+
+Rit:
+	Yeah, too much love will kill you;
+	It'll make your life a lie
+	Yes, too much love will kill you
+	And you won't understand why.
+	You'd give your life, You'd sell your soul,
+	But here it comes again:
+	Too much love will kill you, in the end.
+	SOL/RE/DO  RE
+	       SOL
+	In the end
+					
             </Testo>
         </Canzone>       
         <Canzone Numero="103" Titolo="39" Genere="Straniere">

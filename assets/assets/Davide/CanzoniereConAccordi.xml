@@ -171,13 +171,13 @@ Tra due minuti è quasi giorno
         </Canzone>              
         <Canzone Numero="4" Titolo="7 e 40" Genere="Italiane">
             <Testo>
-FA
+FA                       SIb                  FA     SIb
 Mi sono informato c'è un treno che parte alle 7 e 40
-                                            SIb
+FA                     SIb                  FA           SIb
 non hai molto tempo il traffico è lento nell'ora di punta
    REm                                 SOL
 Ti bastano dieci minuti per giungere a casa, la nostra
-    DO                   SIb          DO
+    DO                   SIb          FA
 la chiave, ricorda, che sempre lì, lì sulla finestra
       REm                                 SOL
 E nel far le valigie ricordati di non scordare
@@ -204,7 +204,8 @@ presto presto vai...
     Sui miei occhi da un minuto sceso un velo
           DO         FA      DO             FA
     forse solo suggestione o paura o chissà che
-    possibile che abbia fin da ora gi bisogno di te...
+    REm                          SIb               DO
+    è possibile che abbia fin da ora gi bisogno di te...
 
 Mi sono informato c'è un volo che parte alle 8 e 50
 non ho molto tempo il traffico lento nell'ora di punta
@@ -571,7 +572,7 @@ e tutto il mondo fuori
         <Canzone Numero="11" Titolo="Ho imparato a sognare" Genere="Italiane">
             <Testo>
 Intro:
-RE MIm SOL (2 volte)
+RE MIm SOL RE (2 volte)
 
      RE                       MIm
 Ho imparato a sognare che non ero bambino
@@ -614,7 +615,7 @@ Rit:
     non smetterò
 
 Strumentale:
-RE MIm RE (2 volte)
+RE MIm SOL RE (2 volte)
 
 Ho imparato a sognare quando inizi a scoprire
 che ogni sogno ti porta più in là

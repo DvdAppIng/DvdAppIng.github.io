@@ -1068,11 +1068,142 @@ Ed è stata tutta vita
         </Canzone>              
         <Canzone Numero="19" Titolo="È stata tua la colpa" Genere="Italiane">
             <Testo>
+Harm
+DO REm DO REm
+DO REm DO REm 
+DO                                   REm
+È stata tua la colpa allora adesso che vuoi?
+DO                         REm
+Volevi diventare come uno di noi
+DO          LAm DO               LAm
+E come rimpiangi quei giorni che eri
+FA              RE
+Un burattino ma senza fili
+  RE                        SOL
+E invece adesso i fili ce l'hai
+
+Adesso non fai un passo se dall'alto non c'è
+Qualcuno che comanda e muove i fili per te
+Adesso la gente di te più non riderà
+Non sei più un saltimbanco
+Ma vedi quanti fili che hai
+
+È stata tua la scelta allora adesso che vuoi?
+Sei diventato proprio come uno di noi
+A tutti gli agguati del gatto e la volpe
+L'avevi scampata sempre
+Però adesso rischi di più
+
+Adesso non fai un passo se dall'alto non c'è
+Qualcuno che comanda e muove i fili per te
+
+Harm
+DO REm DO REm
+
+E adesso che ragioni come uno di noi
+I libri della scuola non te li venderai
+Come facesti quel giorno
+Per comprare il biglietto e entrare
+Nel teatro di Mangiafuoco
+Quei libri adesso li leggerai
+
+    MI        LAm
+    Vai vai e leggili tutti
+         RE                 SOL
+    E impara quei libri a memoria
+    MI                LAm
+    C'è scritto che i saggi e gli onesti
+        RE                    SOL
+    Son quelli che fanno la storia
+    RE        LAm        RE               LAm
+    Fanno la guerra, la guerra è una cosa seria
+    REm         DO       SOL
+    Buffoni e burattini, non la faranno mai
+
+Harm
+DO REm DO REm DO REm
+
+È stata tua la scelta allora adesso che vuoi?
+Sei diventato proprio come uno di noi
+Prima eri un buffone, un burattino di legno
+Ma adesso che sei normale
+Quanto è assurdo il gioco che fai...
+
+DO REm DO REm
 
             </Testo>
         </Canzone>            
         <Canzone Numero="20" Titolo="Venderò" Genere="Italiane">
             <Testo>
+Intro:
+DO SOL LAm FA DO SOL
+DO FA DO FA 
+
+Harm
+DO FA DO FA DO SOL DO DO4 DO
+
+     DO        FA     DO
+Venderò le mie scarpe nuove
+DO            FA    DO
+ad un vecchio manichino
+    REm    REm7  SOL          DO
+per vedere se si muove se sta fermo
+        SOL            DO DO4
+o se mi segue nel cammino
+
+Harm
+DO FA DO FA DO SOL DO DO4 DO
+
+Venderò il mio diploma ai maestri del progresso
+per costruire un nuovo automa
+che dia a loro più ricchezza e a me il successo
+
+Harm
+DO FA DO FA DO SOL DO DO4 DO
+
+Ai signori mercanti d'arte venderò la mia pazzia
+mi terranno un po' in disparte
+chi è normale non ha molta fantasia
+
+Rit:
+        LAm                    MIm
+    Raffaele è contento non ha fatto il soldato
+          FA         DO       SOL
+    ma ha girato e conosce la gente
+         LAm                         MIm
+    e mi dice stai attento che resti fuori dal gioco
+               FA           DO          SOL SOL4 SOL7
+    se non hai niente da offrire al mercato
+
+Venderò la mia sconfitta a chi ha bisogno
+di sentirsi forte
+e come un quadro che sta in soffitta
+gli parlerò della mia cattiva sorte
+
+Harm
+DO FA DO FA DO SOL DO
+
+Rit:
+        LAm                      MIm
+    Raffaele è contento non si è mai laureato
+              FA         DO       SOL
+    ma ha studiato e guarisce la gente
+         LAm                        MIm
+    e mi dice stai attento ti fanno fuori dal gioco
+               FA            DO        SOL7
+    se non hai niente da offrire al mercato
+
+Venderò la mia rabbia a tutta quella brava gente
+che vorrebbe vedermi in gabbia
+e forse allora mi troverebbe divertente
+
+REm SOL DO LAm FA SOL DO
+Laila là...
+
+         REm            SOL          LAm
+    Ogni cosa ha il suo prezzo ma nessuno saprà
+           FA       SOL      DO FA DO
+    quanto costa la mia libertà
 
             </Testo>
         </Canzone>            
@@ -1303,11 +1434,31 @@ Scrivile, scrivile Scrivile, scrivile...
 
             </Testo>
         </Canzone>            
-        <Canzone Numero="" Titolo="" Genere="Italiane">
+        <Canzone Numero="24" Titolo="Sogni di R&R" Genere="Italiane">
             <Testo>
 
             </Testo>
         </Canzone>            
+        <Canzone Numero="25" Titolo="Il pescatore" Genere="Italiane">
+            <Testo>
+
+            </Testo>
+        </Canzone>            
+        <Canzone Numero="26" Titolo="Samarcanda" Genere="Italiane">
+            <Testo>
+
+            </Testo>
+        </Canzone>            
+        <Canzone Numero="27" Titolo="Ti sento vivere" Genere="Italiane">
+            <Testo>
+
+            </Testo>
+        </Canzone>       
+        <Canzone Numero="" Titolo="" Genere="Italiane">
+            <Testo>
+
+            </Testo>
+        </Canzone>        
         <Canzone Numero="100" Titolo="The river" Genere="Straniere">
             <Testo>
 Mi-   Sol   Re   Do
@@ -2205,10 +2356,20 @@ Rit.
 
             </Testo>
         </Canzone>            
-        <Canzone Numero="" Titolo="" Genere="Straniere">
+        <Canzone Numero="115" Titolo="Shallow" Genere="Straniere">
             <Testo>
 
             </Testo>
-        </Canzone>            
+        </Canzone>  
+         <Canzone Numero="116" Titolo="All I want is you" Genere="Straniere">
+            <Testo>
+
+            </Testo>
+        </Canzone>   
+         <Canzone Numero="" Titolo="" Genere="Straniere">
+            <Testo>
+
+            </Testo>
+        </Canzone>             
     </Canzoni>
 </Canzoniere>

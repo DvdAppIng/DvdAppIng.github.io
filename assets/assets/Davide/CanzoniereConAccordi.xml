@@ -75,7 +75,7 @@ tra le pagine chiare e le pagine scure
 e cancello il tuo nome dalla mia facciata
 Re-               Mi-        Fa
 e confondo i miei alibi e le tue ragioni
-Do           Sol        Do
+Do           Sol        Do   Sol
 i miei alibi e le tue ragioni
 
 Chi mi ha fatto le carte
@@ -1456,18 +1456,18 @@ finché il polso cammina facciamo mattina
 tenendoci su... coi
 
 Rit:
-	SOL                 DO DO7+
-	Sogni di rock'n'roll
-	SOL                 DO DO7+
-	Sogni di rock'n'roll
-	SOL                 DO
-	Sogni di rock'n'roll
-					LAm    RE
-	e guai a chi ci sveglia
-	Sogni di rock'n'roll
-	Sogni di rock'n'roll
-	Sogni di rock'n'roll
-	sognando il meglio
+    SOL                 DO DO7+
+    Sogni di rock'n'roll
+    SOL                 DO DO7+
+    Sogni di rock'n'roll
+    SOL                 DO
+    Sogni di rock'n'roll
+                    LAm    RE
+    e guai a chi ci sveglia
+    Sogni di rock'n'roll
+    Sogni di rock'n'roll
+    Sogni di rock'n'roll
+    sognando il meglio
 
 Solo:
 SOL DO RE DO SOL DO RE DO
@@ -1511,14 +1511,14 @@ due occhi enormi di paura
 eran gli specchi di un'avventura.
 
 Rit:
-		  SOL            RE
-	La La La La La La La La
-			 LA          RE
-	La La La La La La La La
-			 SOL   LA    SIm
-	La La La La La La La La
-	SOL      RE    LA    RE
-	La La La La La La La La
+          SOL            RE
+    La La La La La La La La
+             LA          RE
+    La La La La La La La La
+             SOL   LA    SIm
+    La La La La La La La La
+    SOL      RE    LA    RE
+    La La La La La La La La
 
 E chiese al vecchio, "Dammi il pane
 ho poco tempo e troppa fame"
@@ -1591,19 +1591,19 @@ figlio del lampo, degno di un re
 presto, più presto perchè possa scappare
 dategli la bestia più veloce che c'è
 
-	LA
-	Corri cavallo, corri ti prego
-	RE                           MI
-	fino a Samarcanda io ti guiderò
-	DO#m                    RE
-	non ti fermare, vola ti prego
-	RE                            MI
-	corri come il vento che mi salverò
+    LA
+    Corri cavallo, corri ti prego
+    RE                           MI
+    fino a Samarcanda io ti guiderò
+    DO#m                    RE
+    non ti fermare, vola ti prego
+    RE                            MI
+    corri come il vento che mi salverò
 
 Rit:
-	   LA
-	Oh oh cavallo, oh oh cavallo,
-	oh oh cavallo, oh oh cavallo, oh oh
+       LA
+    Oh oh cavallo, oh oh cavallo,
+    oh oh cavallo, oh oh cavallo, oh oh
 
 LA MI LA LA MI LA
 LA MI LA LA MI LA
@@ -1628,14 +1628,14 @@ eri lontanissimo due giorni fa,
 ho temuto che per ascoltar la banda
 non facessi in tempo ad arrivare qua
 
-	LA
-	Non è poi così lontano Samarcanda
-	RE                      MI7
-	corri cavallo, corri di là
-	DO#m                             RE
-	ho cantato insieme a te tutta la notte
-	RE                             MI7
-	corri come il vento che ci arriverà
+    LA
+    Non è poi così lontano Samarcanda
+    RE                      MI7
+    corri cavallo, corri di là
+    DO#m                             RE
+    ho cantato insieme a te tutta la notte
+    RE                             MI7
+    corri come il vento che ci arriverà
 
 Rit.
 
@@ -1662,33 +1662,33 @@ E poi per cosa dire
 A metà io so che mi bloccherei
 
 Rit:
-		   DO        SOL
-	Perché non è facile
-		  DO         RE
-	Forse nemmeno utile
-		  DO          MIm             SOL
-	Certe cose chiare dentro poi non escono
-		DO   RE SOL
-	Restano restano
+           DO        SOL
+    Perché non è facile
+          DO         RE
+    Forse nemmeno utile
+          DO          MIm             SOL
+    Certe cose chiare dentro poi non escono
+        DO   RE SOL
+    Restano restano
 
-	SOL
-	Vorrei dirti vorrei
-	RE       DOadd9
-	Ti sento vivere
-			 LAm                     MIm
-	In tutto quello che faccio e non faccio ci sei
-	   DO                RE   DO RE
-	Mi sembra che tu sia qui, sempre
-	SOL
-	Vorrei dirti vorrei
-			 DO
-	Ti sento vivere
-			 SOL           DOadd9
-	Dovunque guardo ci sei tu
-			 SOL         DOadd9
-	Ogni discorso sempre tu
-			SOL        DO    RE     SOL
-	Ogni momento io ti sento sempre più
+    SOL
+    Vorrei dirti vorrei
+    RE       DOadd9
+    Ti sento vivere
+             LAm                     MIm
+    In tutto quello che faccio e non faccio ci sei
+       DO                RE   DO RE
+    Mi sembra che tu sia qui, sempre
+    SOL
+    Vorrei dirti vorrei
+             DO
+    Ti sento vivere
+             SOL           DOadd9
+    Dovunque guardo ci sei tu
+             SOL         DOadd9
+    Ogni discorso sempre tu
+            SOL        DO    RE     SOL
+    Ogni momento io ti sento sempre più
 
 Seduta là a parlare
 Con i tuoi amici che bella sei
@@ -1705,6 +1705,67 @@ Rit.
 
             </Testo>
         </Canzone>       
+        <Canzone Numero="28" Titolo="Il gatto e la volpe" Genere="Italiane">
+            <Testo>
+DO                LAm         REm  SOL
+Quanta fretta, ma dove corri, dove vai?
+DO                LAm        REm SOL
+Se ci ascolti per un momento capirai
+DO                MI7         LAm
+Lui è il gatto ed io la volpe stiamo in società
+   REm    SOL     DO 
+di noi ti puoi fidar
+DO LAm DO LAm
+
+Puoi parlarci dei tuoi problemi, dei tuoi guai
+i migliori in questo campo siamo noi
+è una ditta specializzata, fa un contratto e vedrai
+che non ti pentirai
+
+Noi scopriamo talenti e non sbagliamo mai
+noi sapremo sfruttare le tue qualità
+dacci solo quattro monete e ti iscriviamo al concorso
+per la celebrità!
+DO7
+
+Rit:
+    FA                SOL         DO          LAm
+    Non vedi che è un vero affare non perdere l'occasione
+    REm       SOL        DO DO7
+    se no poi te ne pentirai,
+    FA         SOL
+    Non capita tutti i giorni
+    MIm          La7        RE7
+    di avere due consulenti due impresari,
+    SOL
+    che si fanno in quattro per te!
+
+Avanti, non perder tempo, firma qua
+è un normale contratto, è una formalità
+tu ci cedi tutti i diritti e noi faremo di te
+un divo da hit parade!
+
+Strumentale:
+DO LAm REm SOL DO LAm REm SOL
+DO MIm LA7 RE7 SOL DO DO7
+
+Rit.
+
+Quanta fretta, ma dove corri, dove vai?
+Che fortuna che hai avuto ad incontrare noi!
+Lui è il gatto io la volpe siamo in società
+di noi ti puoi fidar...
+
+di noi ti puoi fidar...
+di noi ti puoi fidar!
+
+            </Testo>
+        </Canzone>        
+        <Canzone Numero="" Titolo="" Genere="Italiane">
+            <Testo>
+
+            </Testo>
+        </Canzone>        
         <Canzone Numero="" Titolo="" Genere="Italiane">
             <Testo>
 
@@ -2643,23 +2704,23 @@ I find myself longin' for change
 And in the bad times I fear myself
 
 Rit:
-	LAm                   RE
-	I'm off the deep end, watch as I dive in
-	SOL        RE       MIm
-	I'll never meet the ground
-	LAm                        RE
-	Crash through the surface, where they can't hurt us
-	      SOL          RE      MIm
-	We're far from the shallow now
-	LAm            RE
-	In the sha-ha--sha-ha-low
-	SOL               RE       MIm
-	In the sha-ha-sha-la-la-la-low
-	LAm            RE
-	In the sha-ha--sha-ha-ha-low
-	      SOL          RE      MIm
-	We're far from the shallow now
-MIm	
+    LAm                   RE
+    I'm off the deep end, watch as I dive in
+    SOL        RE       MIm
+    I'll never meet the ground
+    LAm                        RE
+    Crash through the surface, where they can't hurt us
+          SOL          RE      MIm
+    We're far from the shallow now
+    LAm            RE
+    In the sha-ha--sha-ha-low
+    SOL               RE       MIm
+    In the sha-ha-sha-la-la-la-low
+    LAm            RE
+    In the sha-ha--sha-ha-ha-low
+          SOL          RE      MIm
+    We're far from the shallow now
+MIm 
 SIm REadd9 LA MIm7 SIm REadd9 LA
 Wooaaaah...
 
@@ -2681,12 +2742,12 @@ You say you want
 your story to remain untold
 
 Rit:
-			FA#m        RE
-	All the promises we make
-			 FA#m          RE
-	from the cradle to the grave
-		 LA    RE      LA
-	When all I want is you
+            FA#m        RE
+    All the promises we make
+             FA#m          RE
+    from the cradle to the grave
+         LA    RE      LA
+    When all I want is you
 LA LA9 LA LA9 LA LA9 LA  RE RE9 RE
 LA LA9 LA LA9 LA LA9 LA  RE RE9 RE
 

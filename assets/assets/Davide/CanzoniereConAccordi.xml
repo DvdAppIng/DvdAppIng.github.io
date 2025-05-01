@@ -4,6 +4,7 @@
         <Genere>Tutte</Genere>
         <Genere>Italiane</Genere>
         <Genere>Straniere</Genere> 
+        <Genere>Cartoni</Genere> 
     </Generi>
     <Canzoni>
         <Canzone Numero="1" Titolo="L'isola che non c'è" Genere="Italiane">
@@ -3139,6 +3140,552 @@ Rit.
             </Testo>
         </Canzone>   
          <Canzone Numero="" Titolo="" Genere="Straniere">
+            <Testo>
+
+            </Testo>
+        </Canzone>             
+         <Canzone Numero="200" Titolo="Daitarn III" Genere="Cartoni">
+            <Testo>
+Intro:
+LAm SOL LAm
+Daitarn Daitarn Daitarn
+SOL LAm
+Daitarn Daitarn Daitarn
+
+LAm                   REm
+Uno per tre e tre per uno perché
+LAm                 REm
+Insieme noi usciamo sempre dai guai
+DO                    MI
+E difendiam la Terra, dall'ombra della guerra
+LAm       SOL        FA  SOL
+Il nostro cuore batterà, per la libertà
+DO                        MI
+Intrighi e i loschi piani dei mostri disumani
+LAm       SOL          FA  SOL
+Il nostro raggio spazzerà, nell'immensità
+
+Rit:
+    LAm
+    Daitarn, Daitarn
+                    REm
+    Arriva già il nemico scatta
+       SOL
+    Ma tu ci sei amico Daitarn
+                   DO MI
+    Evviva Daitarn 3
+    LAm
+    Daitarn, Daitarn
+                       REm
+    Per noi tu sei davvero forte
+                       SOL
+    Per noi tu sei davvero grande
+                   DO MI
+    Evviva Daitarn 3
+
+FA MIm REm MIm FA
+
+Noi siamo un trio all'erta e pieni di brio
+Seguiam la scia se un meganoide ci spia
+E il Mach-Patrol ci porta,
+nell'occhio all'avventura
+Verso l'ignoto corre e va, come un fulmine
+E in aria si trasforma, in un robot che ha un'arma
+Ha l'energia solare che, è invincibile
+
+Rit.
+FA   MIm          REm MIm
+Daitarn... arriva il nemico... prepararsi...
+REm                     MI
+Robot a energia solare, Daitarn
+
+Rit.
+
+Rit.
+
+            </Testo>
+         <Canzone Numero="201" Titolo="Jeeg Robot d'acciacio" Genere="Cartoni">
+            <Testo>
+Intro:
+LAm RE LAm RE LAm RE LAm RE
+
+LAm
+corri ragazzo laggiù
+LAm
+vola tra lampi di blu
+REm               LAm
+corri in aiuto di tutta la gente
+MI        LAm
+dell'umanità
+
+Rit:
+    DO
+    corri e va per la terra
+    LAm
+    vola e va tra le stelle
+    FA     REm            SOL
+    tu che puoi diventare Jeeg
+
+    DO
+    Jeeg va, cuore e acciaio,
+    LAm
+    Jeeg va, cuore e acciaio,
+    REm                 SOL
+    cuore di un ragazzo che
+    DO                 MI
+    senza paura sempre lotterà
+
+LAm
+se dalla terra nascerà,
+LAm
+la forza che ci attaccherà
+DO           FA
+noi restiamo tutti con te,
+       MI
+perché tu...
+       LAm 
+tu sei Jeeg!!!
+
+LAm FA MI LAm FA MI
+LAm RE LAm RE LAm RE LAm RE
+LAm RE LAm RE LAm RE LAm RE
+
+quando il domani verrà,
+il tuo domani sarà
+coi tuoi poteri tu salvi il futuro
+dell'umanità
+
+Rit.
+
+LAm
+se dallo spazio arriverà
+LAm
+una nemica civiltà
+DO           FA
+noi restiamo tutti con te
+       MI
+perché tu...
+       Lam
+tu sei Jeeg!!!
+
+LAm FA MI LAm FA MI LAm
+
+            </Testo>
+        </Canzone>             
+         <Canzone Numero="202" Titolo="Capitan Harlock" Genere="Cartoni">
+            <Testo>
+DO
+Capitan Harlock
+Capitan Harlock
+SOL
+Capitan Harlock-Harlock-Harlock
+
+DO
+un pirata tutto nero
+        LAm
+che per casa ha solo il ciel
+FA             DO
+ha cambiato in astronave
+RE       SOL
+il suo velier (urrà-urrà-urrà)
+
+DO
+il suo teschio è una bandiera
+         LAm
+che vuol dire libertà
+FA            DO
+vola all'arrembaggio
+        RE           SOL
+però un cuore grande ha (uau-uau-uau)
+
+DO LAm FA DO REm SOL
+
+DO
+il suo teschio è una bandiera
+LAm
+che vuol dire libertà
+FA            DO
+vola all'arrembaggio
+        RE           SOL
+però un cuore grande ha
+(urrà-urrà-urrà)
+
+DO
+Capitan Harlock-Harlock-Harlock
+Capitan Harlock
+
+Rit:
+    LAm   MIm     FA               DO
+    fammi provare Capitano un'avventura
+         FA     DO
+    dove io son l'eroe
+            RE            SOL
+    che combatte accanto a te
+    LAm   MIm    FA                DO
+    fammi volare Capitan senza una meta
+             FA           DO
+    tra i pianeti sconosciuti
+           RE              SOL
+    per rubare a chi ha di più
+
+    FA FAm DO SOL
+    FA FAm DO SOL
+
+Capitan Harlock-Harlock-Harlock
+
+come un lampo è il suo pugnale
+che lui lancia contro il mal
+ma è un uomo generoso
+come il mar (uau-uau-uau)
+DO
+nel suo occhio c'è l'azzurro
+LAm
+nel suo braccio acciaio c'è
+FA DO
+nero è il suo mantello
+RE SOL
+mentre il cuore bianco è
+(urrà-urrà-urrà)
+DO
+Capitan Harlock-Harlock-Harlock
+Capitan Harlock
+
+Rit.
+
+nel suo occhio c'è l'azzurro
+nel suo braccio acciaio c'è
+nero è il suo mantello
+mentre il cuore bianco è
+(urrà-urrà-urrà)
+
+DO
+Capitan Harlock-Harlock-Harlock
+Capitan Harlock
+
+Rit.
+
+            </Testo>
+        </Canzone>             
+         <Canzone Numero="203" Titolo="Daltanious" Genere="Cartoni">
+            <Testo>
+FA
+Daltanious, Daltanious, fuori!!!
+
+FA
+È Daltanious che compare giù,
+DO
+E il nemico non esiste più,
+FA
+È Daltanious che ci aiuterà,
+    SOL7
+Superbalestra, frecce, spada, lame boomerang
+         DO               LAm
+Odia gli stupidi, aiuta i deboli,
+          DO           SOL
+Dagli invasori ci difenderà,
+    FA# FA                    DO
+Lui si sacrifica, lo sa che è l'ultima
+         RE7       SOL7
+Speranza dell'umanità
+
+         DO                  LAm
+Extraterrestre via da questa terra mia,
+         DO                 SOL
+Togli le zampe o ce le lascerai,
+   FA# FA                           DO
+Ti spacca in quattro lui, ci fa una croce su,
+         FA SOL7 DO
+E tu non ci sei più...
+
+Per Daltanious, che compare giù,
+E il nemico non esiste più,
+È Daltanious che ci aiuterà,
+Non sia arrende mai, troppo forte,
+Non è nato ancora chi lo batterà
+
+Ha in mente Kento e va,
+Con le astrogambe va,
+E il suo leone in petto ruggirà,
+Tutto disintegra quando gli girano
+Le lame boo--me--rang
+
+    LAm
+    Trappole, agguati, trabocchetti
+                     FA
+    imboscate lo circondano
+    LAm
+    Mostri giganti e striscianti serpenti
+            FA
+    è in pericolo!
+               DO     SOL  FA
+    Daltanious non si fermerà,
+             DO    SOL  FA
+    è troppo forte vincerà
+    
+    FA#m7/5- DO/SOL MI/SOL# LA LA7
+
+         RE               SIm
+Odia gli stupidi, aiuta i deboli,
+          RE             LA
+Dagli invasori ci difenderà,
+    SOL# SOL                  RE
+Lui si sacrifica, lo sa che è l'ultima
+         MI7       LA7
+Speranza dell'umanità
+      RE                     SIm
+Extraterrestre via da questa terra mia,
+         RE                 LA
+Togli le zampe o ce le lascerai,
+      SOL# SOL              RE
+Tutto disintegra quando gli girano
+        SOL7+ LA7 RE
+Le lame boo---me--rang
+
+SOL
+Per Daltanious, che compare giù,
+RE
+E il nemico non esiste più,
+SOL
+È Daltanious che ci aiuterà,
+SIm                  MI7
+Non sia arrende mai, troppo forte,
+      SOL                    LA7
+Non è nato ancora chi lo batterà
+
+Per Daltanious, che compare giù,
+E il nemico non esiste più,
+È Daltanious che ci aiuterà,
+Non sia arrende mai, troppo forte,
+Non è nato ancora chi lo batterà
+
+Per Daltanious, che compare giù,
+E il nemico non esiste più,
+È Daltanious che ci aiuterà,
+Non sia arrende mai, troppo forte,
+Non è nato ancora chi lo batterà...
+
+            </Testo>
+        </Canzone>             
+         <Canzone Numero="204" Titolo="Il grande Mazinga" Genere="Cartoni">
+            <Testo>
+Intro:
+DO DO
+Mazinga!
+Mazinga!
+Mazinga!
+
+DO
+trema,
+                           SOL
+il regno delle Tenebre del Male
+                             LAm
+dalla Fortezza della Scienza arriva
+FA                SOL
+con i suoi pugni atomici
+DO  LAm   FA FA
+Mazinga, Robot
+DO  LAm   FA FA
+Mazinga, Robot
+
+vola,
+si tuffa dalle stelle giù in picchiata
+se sei il nemico prega è già finita
+la morte batte i denti, c'è
+
+Mazinga, Robot
+Mazinga, Robot (braccia rotanti!)
+Mazinga, Robot (doppio laser!)
+Mazinga, Robot (bomba di fuoco!)
+
+          LAm                          MIm
+    ha la mente di Tetsuya ma tutto il resto fa da sè
+          LAm                       MIm
+    non conosce la paura nè sa il dolore che cos'è
+           FA       FA#            DO LAm
+    lotta, cade, si rialza, sempre vincerà
+
+Mazinga, Robot
+DO DO FA FA
+Mazinga, Robot (raggi fotonici!)
+RE RE SOL SOL
+Mazinga, Robot (lama del diavolo!)
+RE RE SOL SOL
+Mazinga, Robot (doppio boomerang!)
+MI
+Mazinga!
+FA#
+Mazinga!
+SOL
+Mazinga!
+LA
+Mazinga!
+
+RE
+forte,
+        LA
+con una mano spacca una montagna
+                              SIm
+dagli occhi sputa fuori raggi gamma
+    LA
+non c'è chi è forte più di te
+RE  SIm  SOL SOL
+Mazinga, Robot
+RE  SIm  SOL SOL
+Mazinga, Robot
+
+      SIm                          FA#m
+ha la mente di Tetsuya ma tutto il resto fa da sè
+      SIm                       FA#m
+non conosce la paura nè sa il dolore che cos'è
+       SOL              SOL#            RE FA# SIm
+se hai bisogno puoi chiamarlo, come un fulmine verrà
+
+RE  SIm  SOL SOL
+Mazinga, Robot
+RE  SIm  SOL SOL
+Mazinga, Robot
+
+Mazinga, Robot (bombe jet!)
+Mazinga, Robot (luce atomica!)
+Mazinga, Robot (spada diabolica!)
+Mazinga, Robot (spirale perforante!)
+Mazinga, Robot (lama atomica!)
+Mazinga, Robot (pugno atomico!)
+Mazinga, Robot (pugni rotanti!)
+Mazinga, Robot (doppio laser!)
+Mazinga, Robot (doccia di fuoco!)
+Mazinga, Robot (razzi fotonici!)
+Mazinga, Robot (lama diabolica!)
+Mazinga, Robot (doppio boomerang!)
+
+            </Testo>
+         <Canzone Numero="205" Titolo="Mazinga Z" Genere="Cartoni">
+            <Testo>
+Intro:
+LAm FA LAm
+
+LAm
+quando udrai un fragor
+SOL         LAm
+a mille decibel
+su dal ciel piomberà
+REm  MI
+Mazinger
+DO
+veloce e distruttore come un lampo
+       LAm
+non da scampo
+REm
+odia la paura
+                 MI
+non conosce la pietà
+
+    LAm
+    alto là falsità
+    SOL
+    fermati malvagità
+    FA
+    su di voi avvoltoi
+    MI       LAm
+    c'è Mazinger
+    MI
+    c'è Mazinger... si!!
+
+    LAm SOL DO REm LAm
+    FA MI7/4 MI
+
+LAm SOL                   DO LAm
+    con gli occhi può incendiare
+        FA       MI
+un'astronave che va
+
+quando tu soffrirai
+sotto la schiavitù
+su dal ciel piomberà
+Mazinger
+col cuore fermo nell'immenso vuoto
+va contro l'ignoto se lassù lo incontrerà
+
+    ama la verità
+    gli oppressi difenderà
+    per la tua libertà
+    c'è Mazinger
+    LAm
+    Mazinga Z Mazinga Z
+    FA MI
+    uoooh.....
+    LAm
+    Mazinga Z Mazinga Z
+    FA MI 
+    uoooh.....
+    Lam
+
+            </Testo>
+         <Canzone Numero="206" Titolo="UFO Robot" Genere="Cartoni">
+            <Testo>
+SOL
+Ufo Robot Ufo Robot
+Ufo Robot Ufo Robot
+        DO
+si trasforma in un razzo missile
+        SOL
+con circuiti di mille valvole
+       FA               SOL
+tra le stelle sprinta e va
+       DO
+mangia libri di cibernetica
+    SOL
+insalate di matematica
+       FA           SOL
+e a giocar su Marte va
+
+DO SOL FA SOL
+
+       DO
+lui respira nell'aria cosmica
+        SOL
+è un miracolo di elettronica
+      FA      SOL
+ma un cuore umano ha
+
+Rit:
+    FAm    DO
+    ma chi è?
+    FAm    DO 
+    ma chi è?
+
+    MIm REm SOL
+    SOL
+    Ufo Robot Ufo Robot
+
+    raggi laser che sembran fulmini
+    è protetto da scudi termici
+    sentinella lui ci fa
+    quando schiaccia un pulsante magico
+    lui diventa un ipergalattico
+    lotta per l'umanità
+    DO FA SOL FA SOL DO FA SOL FA SOL
+    SOL
+    Ufo Robot Ufo Robot
+    Ufo Robot Ufo Robot
+
+si trasforma in un razzo missile
+con circuiti di mille valvole
+tra le stelle sprinta e va
+lui respira nell'aria cosmica
+è un miracolo di elettronica
+ma un cuore umano ha
+
+Rit.
+
+si trasforma in un razzo missile
+con circuiti di mille valvole
+tra le stelle sprinta e va
+Ufo Robot Ufo Robot
+Ufo Robot Ufo Robot
+
+            </Testo>
+         <Canzone Numero="" Titolo="" Genere="Cartoni">
             <Testo>
 
             </Testo>

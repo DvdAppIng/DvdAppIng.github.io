@@ -3093,7 +3093,7 @@ Rit.
 
             </Testo>
         </Canzone>  
-         <Canzone Numero="116" Titolo="All I want is you" Genere="Straniere">
+        <Canzone Numero="116" Titolo="All I want is you" Genere="Straniere">
             <Testo>
 Intro:
 LA RE LA RE
@@ -3139,12 +3139,12 @@ Rit.
 
             </Testo>
         </Canzone>   
-         <Canzone Numero="" Titolo="" Genere="Straniere">
+        <Canzone Numero="" Titolo="" Genere="Straniere">
             <Testo>
 
             </Testo>
         </Canzone>             
-         <Canzone Numero="200" Titolo="Daitarn III" Genere="Cartoni">
+        <Canzone Numero="200" Titolo="Daitarn III" Genere="Cartoni">
             <Testo>
 Intro:
 LAm SOL LAm
@@ -3204,7 +3204,8 @@ Rit.
 Rit.
 
             </Testo>
-         <Canzone Numero="201" Titolo="Jeeg Robot d'acciacio" Genere="Cartoni">
+        </Canzone>                
+        <Canzone Numero="201" Titolo="Jeeg Robot d'acciacio" Genere="Cartoni">
             <Testo>
 Intro:
 LAm RE LAm RE LAm RE LAm RE
@@ -3272,7 +3273,7 @@ LAm FA MI LAm FA MI LAm
 
             </Testo>
         </Canzone>             
-         <Canzone Numero="202" Titolo="Capitan Harlock" Genere="Cartoni">
+        <Canzone Numero="202" Titolo="Capitan Harlock" Genere="Cartoni">
             <Testo>
 DO
 Capitan Harlock
@@ -3366,7 +3367,7 @@ Rit.
 
             </Testo>
         </Canzone>             
-         <Canzone Numero="203" Titolo="Daltanious" Genere="Cartoni">
+        <Canzone Numero="203" Titolo="Daltanious" Genere="Cartoni">
             <Testo>
 FA
 Daltanious, Daltanious, fuori!!!
@@ -3466,7 +3467,7 @@ Non è nato ancora chi lo batterà...
 
             </Testo>
         </Canzone>             
-         <Canzone Numero="204" Titolo="Il grande Mazinga" Genere="Cartoni">
+        <Canzone Numero="204" Titolo="Il grande Mazinga" Genere="Cartoni">
             <Testo>
 Intro:
 DO DO
@@ -3559,7 +3560,8 @@ Mazinga, Robot (lama diabolica!)
 Mazinga, Robot (doppio boomerang!)
 
             </Testo>
-         <Canzone Numero="205" Titolo="Mazinga Z" Genere="Cartoni">
+         </Canzone>    
+        <Canzone Numero="205" Titolo="Mazinga Z" Genere="Cartoni">
             <Testo>
 Intro:
 LAm FA LAm
@@ -3621,7 +3623,8 @@ va contro l'ignoto se lassù lo incontrerà
     Lam
 
             </Testo>
-         <Canzone Numero="206" Titolo="UFO Robot" Genere="Cartoni">
+        </Canzone>    
+        <Canzone Numero="206" Titolo="UFO Robot" Genere="Cartoni">
             <Testo>
 SOL
 Ufo Robot Ufo Robot
@@ -3685,6 +3688,7 @@ Ufo Robot Ufo Robot
 Ufo Robot Ufo Robot
 
             </Testo>
+        </Canzone>             
          <Canzone Numero="" Titolo="" Genere="Cartoni">
             <Testo>
 

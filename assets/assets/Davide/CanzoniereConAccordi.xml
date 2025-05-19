@@ -1983,7 +1983,7 @@ solo Laura e la mia coscienza
 
             </Testo>
         </Canzone>
-        <Canzone Numero="32" Titolo="Albachiare" Genere="Italiane">
+        <Canzone Numero="32" Titolo="Albachiara" Genere="Italiane">
             <Testo>
 Intro:
 FA7+ DO SOL7
@@ -2532,12 +2532,16 @@ ti culla leggero nelle sere d’inverno,
 ti riporta le voci degli amanti di ieri
 
 Rit:
-            FA                    DO         SOL
-    E in un giorno di pioggia che ti ho conosciuta,
+            FA                    
+    E in un giorno di pioggia 
+        DO         SOL
+    che ti ho conosciuta,
         DO                SOL     LAm
     il vento dell’ovest rideva gentile
-            FA                      DO         SOL
-    e in un giorno di pioggia ho imparato ad amarti
+            FA                      
+    e in un giorno di pioggia 
+           DO         SOL
+    ho imparato ad amarti
            LAm               FA SOL  LAm
     mi hai preso per mano portandomi via
 
@@ -3318,7 +3322,7 @@ When lights go down
 
             </Testo>
         </Canzone>
-        <Canzone Numero="112" Titolo="Where you think you are going" Genere="Straniere">
+        <Canzone Numero="112" Titolo="Where do you think you are going" Genere="Straniere">
             <Testo>
 [Intro]
 Lam Fa Sol Mi7/4

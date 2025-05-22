@@ -2583,11 +2583,26 @@ FA DO SOL FA DO RE LAm
 
             </Testo>
         </Canzone>
-        <Canzone Numero="" Titolo="" Genere="Italiane">
+        <Canzone Numero="39" Titolo="dieci ragazze" Genere="Italiane">
             <Testo>
 
             </Testo>
         </Canzone>
+        <Canzone Numero="40" Titolo="La mi banda suona il rock" Genere="Italiane">
+            <Testo>
+
+            </Testo>
+        </Canzone>        
+        <Canzone Numero="41" Titolo="Se è vero che ci sei" Genere="Italiane">
+            <Testo>
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="42" Titolo="" Genere="Italiane">
+            <Testo>
+
+            </Testo>
+        </Canzone>        
         <Canzone Numero="" Titolo="" Genere="Italiane">
             <Testo>
 
@@ -3593,6 +3608,22 @@ your story to remain untold
 Rit.
 
             </Testo>
+        </Canzone>
+        <Canzone Numero="117" Titolo="Take Me Home, Country Roads" Genere="Straniere">
+            <Testo>
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="118" Titolo="Patience" Genere="Straniere">
+            <Testo>
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="119" Titolo="" Genere="Straniere">
+            <Testo>
+
+            </Testo>
+        </Canzone>
         </Canzone>
         <Canzone Numero="" Titolo="" Genere="Straniere">
             <Testo>

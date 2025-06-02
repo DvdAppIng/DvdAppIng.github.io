@@ -668,7 +668,7 @@ Rit:
     vagabondo che non sono altro
              LA           SIm
     soldi in tasca non ne ho
-       LA                 RE LA FA#
+       LA                 RE DO SOL
     ma lassù mi è rimasto Dio
 
 Sì, la strada è ancora là
@@ -2532,14 +2532,14 @@ ti culla leggero nelle sere d’inverno,
 ti riporta le voci degli amanti di ieri
 
 Rit:
-            FA                    
-    E in un giorno di pioggia 
+            FA
+    E in un giorno di pioggia
         DO         SOL
     che ti ho conosciuta,
         DO                SOL     LAm
     il vento dell’ovest rideva gentile
-            FA                      
-    e in un giorno di pioggia 
+            FA
+    e in un giorno di pioggia
            DO         SOL
     ho imparato ad amarti
            LAm               FA SOL  LAm
@@ -2714,7 +2714,7 @@ e per chi quel giorno lì inseguiva una sua chimera
 Rit.
 
             </Testo>
-        </Canzone>        
+        </Canzone>
         <Canzone Numero="41" Titolo="Se è vero che ci sei" Genere="Italiane">
             <Testo>
 Intro:
@@ -2795,7 +2795,7 @@ e capisco di esser solo...
             <Testo>
 
             </Testo>
-        </Canzone>        
+        </Canzone>
         <Canzone Numero="" Titolo="" Genere="Italiane">
             <Testo>
 
@@ -3233,7 +3233,7 @@ RE LA SIm SOL
 
             </Testo>
         </Canzone>
-        <Canzone Numero="106" Titolo="I wish you were here" Genere="Straniere">
+        <Canzone Numero="106" Titolo="Wish you were here" Genere="Straniere">
             <Testo>
 SOL MIm SOL MIm SOL
 MIm LA MIm LA SOL
@@ -3804,23 +3804,23 @@ Rit.
         </Canzone>
         <Canzone Numero="117" Titolo="Take Me Home, Country Roads" Genere="Straniere">
             <Testo>
-SOL           MIm
+DO            LAm
 Almost heaven, West Virginia,
-RE                    DO         SOL
+SOL                   FA         DO
 Blue Ridge Mountains, Shenandoah River
-                   MIm
+DO                 LAm
 Life is old there, older than the trees,
-RE                          DO             SOL
+SOL                         FA             DO
 younger than the mountains, growing like a breeze
 
 Rit:
-            SOL            RE
+            DO             SOL
     Country roads, take me home
-           MIm        DO
+           LAm       FA
     to the place I belong
-            SOL             RE
+            DO              SOL
     West Virginia, mountain mamma,
-            DO            SOL
+            FA            DO
     take me home, country roads
 
 All my memories gather round her,
@@ -3830,21 +3830,21 @@ misty taste of moonshine, teardrop in my eye
 
 Rit.
 
-MIm        RE           SOL
+LAm        SOL          DO
 I hear her voice in the morning hour, she calls me,
-    DO          SOL        RE
+    FA       DO            SOL
 the radio reminds me of my home far away
-    MIm              FA            DO
+    LAm              SIb           FA
 And driving down the road I get a feeling
-       SOL                   RE               RE7
+       DO                    SOL               SOL7
 that I should have been home yesterday, yesterday
 
 Rit.
 
 Rit.
-        RE                SOL
+        SOL               DO
 Take me home now, country roads
-        RE                SOL
+        SOL               DO
 Take me home now, country roads
 
             </Testo>
@@ -3920,11 +3920,229 @@ SOL RE
 Some more patience
 ...
 SOL RE
-                
+
             </Testo>
         </Canzone>
-        <Canzone Numero="119" Titolo="" Genere="Straniere">
+        <Canzone Numero="119" Titolo="Have you ever seen the rain" Genere="Straniere">
             <Testo>
+Intro:
+LAm FA DO SOL DO
+
+DO
+Someone told me long ago
+DO
+There's a calm before the storm
+  SOL                   DO
+I know It's been comin' for some time
+
+When it's over, so they say
+It'll rain a sunny day
+I know.. Shinin' down like water
+
+Rit:
+    FA        SOL
+    I want to know
+             DO            LAm
+    Have you ever seen the rain?
+    FA        SOL
+    I want to know
+             DO            LAm
+    Have you ever seen the rain?
+    FA     SOL             DO
+    Comin' down on a sunny day?
+
+Yesterday, and days before
+Sun is cold and rain is hard,
+I know Been that way for all my time
+'Til forever, on it goes
+
+Through the circle, fast and slow,
+I know It can't stop, I wonder
+
+Rit.
+
+Rit.
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="120" Titolo="In your arms" Genere="Straniere">
+            <Testo>
+Intro
+LA MI LA MI
+
+        LA
+Oh, the way I feel tonight
+           RE                    LA
+You better wrap me up good and tight
+          MI
+In your arms
+         LA
+In your arms
+
+LA
+Just like a bee in a honeycomb
+          RE                    LA
+I'm gonna make myself right at home
+         MI
+In your arms
+         LA
+In your arms
+
+Rit:
+    LA7       RE
+    Well, it don't take much to keep me satisfied
+           LA
+    Just a little bit of lovin' that's bonafide
+             SI
+    And your arms keep me tangled up all the time
+           SI
+    Like a kitten with a ball of twine
+
+Yeah baby, that's where I want to stay
+For the rest of my natural days
+In your arms
+In your arms
+
+(saxaphone solo)
+
+Rit.
+
+Yeah baby, that's where I want to stay
+For the rest of my natural days
+In your arms
+In your arms
+
+In your arms
+In your arms
+Well In your arms
+In your arms
+In your arms
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="121" Titolo="Pretty woman" Genere="Straniere">
+            <Testo>
+       LA             FA#m
+Pretty woman, walking down the street
+       LA                  FA#m
+Pretty woman, the kind I'd like to meet
+       RE               MI7
+Pretty woman, I don't believe you
+You're not the truth
+MI
+No one could look as good as you
+Mercy!
+
+Pretty woman, won't you pardon me?
+Pretty woman, I couldn't help but see
+Pretty woman, you look lovely as can be
+Are you lonely just like me?
+
+Rit:
+    REm           SOL7
+    Pretty woman, stop a while
+    DO            LAm
+    Pretty woman, talk a while
+    REm           SOL7               DO
+    Pretty woman, give your smile to me
+    REm           SOL7
+    Pretty woman, yeah, yeah, yeah
+    DO            LAm
+    Pretty woman, look my way
+    REm           SOL7                 DO LA
+    Pretty woman, say you'll stay with me
+
+         FA#m     REm
+'Cause I need you
+               MI7
+I'll treat you right
+LA          FA#m
+Come to me, baby
+REm     MI7
+Be mine tonight
+
+Pretty woman, don't walk on by
+Pretty woman, don't make me cry
+Pretty woman, don't walk away, hey
+Okay
+If that's the way it must be, okay
+I guess I'll go on home, it's late
+There'll be tomorrow night, but wait
+MI7
+What do I see?
+Is she walking back to me?
+Yeah, she's walking back to me
+               LA
+Oh, oh, pretty woman
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="122" Titolo="I want it all" Genere="Straniere">
+            <Testo>
+Strumentale:
+SIm SOL LA SIm LA
+
+          SIm                SOL
+Adventure seeker on an empty street,
+              LA                    SIm LA
+Just an alley creeper, light on his feet,
+                SIm                         SOL
+A young fighter screaming, with no time for doubt
+                      LA
+With the pain and the anger
+                SIm LA
+can't see a way out
+
+                  RE                  LA
+It ain't much I'm asking, I heard him say,
+                SOL                   LA SOL
+Gotta find me a future move out of my way.
+
+Rit:
+              SIm            SOL
+    I want it all, I want it all,
+              LA                 SIm LA
+    I want it all, and I want it now.
+    I want it all, I want it all,
+    I want it all, and I want it now.
+
+Listen all you people, come gather round,
+I gotta get me a game plan
+gotta shake you to the ground...
+Just give me what I know is mine,
+People do you hear me, just give me the sign.
+
+It ain't much I'm asking, if you want the truth
+Here's to the future for the dreams of youth,
+
+Rit.
+SI MI FA#
+
+SI
+I'm a man with a one track mind,
+MI               FA#
+So much to do in one life time
+(people do you hear me)
+      SI
+Not a man for compromise and
+MI                    A#
+where's and why's and living lies
+       SOL
+So I'm living it all, yes I'm living it all,
+        LA
+And I'm giving it all, and I'm giving it all,
+
+Strumentale:
+SIm SOL LA MI SIm SOL LA MI
+SIm SOL LA MI SIm SOL LA MI
+SOL SOL SOL SOL LA7/4
+
+It ain't much I'm asking, if you want the truth,
+Here's to the future, hear the cry of youth,
+
+Rit.
+
+Rit.
 
             </Testo>
         </Canzone>
@@ -3933,6 +4151,7 @@ SOL RE
 
             </Testo>
         </Canzone>
+
         <Canzone Numero="200" Titolo="Daitarn III" Genere="Cartoni">
             <Testo>
 Intro:

@@ -3,8 +3,8 @@
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Italiane</Genere>
-        <Genere>Straniere</Genere> 
-        <Genere>Cartoni</Genere> 
+        <Genere>Straniere</Genere>
+        <Genere>Cartoni</Genere>
     </Generi>
     <Canzoni>
         <Canzone Numero="1" Titolo="L'isola che non c'è" Genere="Italiane">
@@ -45,7 +45,7 @@ poi la strada la trovi da te
     ma che razza di isola é?
     Niente odio e violenza, né soldati né armi
     forse é proprio l'isola che non c'é... che non c'é...
-    
+
 Seconda stella a destra, questo é il cammino
 e poi dritto fino al mattino
 non ti puoi sbagliare perchè
@@ -61,14 +61,14 @@ chi ci ha giá rinunciato e ti ride alle spalle
 forse é ancora piú pazzo di te
 
             </Testo>
-        </Canzone>                  
+        </Canzone>
         <Canzone Numero="2" Titolo="Rimmel" Genere="Italiane">
             <Testo>
 Intro:
 Do Re- Mi- Fa
 Do Re- Mi- Fa
 
-Do 
+Do
 E qualcosa rimane
 Fa            Sol         Do          La-
 tra le pagine chiare e le pagine scure
@@ -86,11 +86,11 @@ l'avrei distrutto con la fantasia
 l'avrei stracciato con la fantasia
 
 Rit:
-    La- 
+    La-
     Ora le tue labbra puoi spedirle
           Mi-
     Ad un indirizzo nuovo
-    Fa 
+    Fa
     E la mia faccia sovrapporla
       Do
     A quella di chissà chi altro
@@ -98,7 +98,7 @@ Rit:
     Ancora i tuoi quattro assi
          Mi-
     Bada bene di un colore solo
-    Fa                      Sol 
+    Fa                      Sol
     Li puoi nascondere o giocare con chi vuoi
     Fa                     Sol
     O farli rimanere buoni amici come noi
@@ -110,17 +110,17 @@ Santa voglia di vivere e dolce venere di rimmel
 come quando fuori pioveva e tu mi domandavi
 se per caso avevo ancora quella foto
 in cui tu sorridevi e non guardavi
-                
+
 Ed il vento passava sul tuo collo
 di pelliccia e sulla tua persona
 e quando io senza capire ho detto si
 hai detto e tutto quel che hai di me
 e' tutto quel che ho di te
 
-Rit.            
+Rit.
             </Testo>
-        </Canzone>              
-        <Canzone Numero="3" Titolo="Generale" Genere="Italiane">             
+        </Canzone>
+        <Canzone Numero="3" Titolo="Generale" Genere="Italiane">
             <Testo>
 LA RE LA RE
 
@@ -167,9 +167,9 @@ Di questo treno che è mezzo vuoto
 E mezzo pieno e va veloce verso il ritorno
 Tra due minuti è quasi giorno
 È quasi casa è quasi amore
-                
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="4" Titolo="7 e 40" Genere="Italiane">
             <Testo>
 FA                       SIb                  FA     SIb
@@ -186,7 +186,7 @@ E nel far le valigie ricordati di non scordare
 qualche cosa di tuo che a te poi mi faccia pensare
       LAm                 REm
 e ora basta non stare più qui
-LAm                  REm 
+LAm                  REm
 ti rendi conto anche tu
 SIb                   FA
 che noi soffriamo di più
@@ -224,12 +224,12 @@ presto presto eee presto presto eie
   FA          LAb         SIb  FA
 presto presto fai presto ... dididididi...
   FA  LAb SIb FA
-                
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="5" Titolo="Mi ritorni in mente" Genere="Italiane">
             <Testo>
-SOL SIm DO 
+SOL SIm DO
 
 Rit:
 SOL           MIm   RE         DO
@@ -271,9 +271,9 @@ che non scordo...
 Rit.
 SOL MI7 MI4/7
 che non scordo...
-                
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="6" Titolo="Ho messo via" Genere="Italiane">
             <Testo>
 SOL DO MIm DO RE
@@ -346,9 +346,9 @@ Rit.
      MIm     RE         SOL DO
     riesca a metter via te
 SOL DO MIm DO RE
-                
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="7" Titolo="Non è tempo per noi" Genere="Italiane">
             <Testo>
 SOL RE DO MI-
@@ -402,9 +402,9 @@ ma siam bravi a raccoglierci.
     Non ridiamo, non piangiamo non amiamo come voi
     Forse ingenui o testardi poco furbi casomai
     Non è tempo per noi e forse non lo sarà mai!
-                    
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="8" Titolo="Marlon Brando" Genere="Italiane">
             <Testo>
 SOL DO RE4 RE (2 volte)
@@ -425,7 +425,7 @@ prima pero' portami a sognare".
 
        MIm        DO                 RE
     Un fascio di luce va dal proiettore
-    SIm       DO              RE  
+    SIm       DO              RE
     per un sogno da duemila li-i-i-ire
 
 Rit:
@@ -464,9 +464,9 @@ SOL DO RE4 RE (x3)
     Marlon Brando e' sempre       lui
 
 SOL DO RE4 RE (2 volte)
-SOL         
+SOL
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="9" Titolo="Non l'hai mica capito" Genere="Italiane">
             <Testo>
 RE SOL RE LA SOL RE
@@ -476,7 +476,7 @@ Scusa non ho capito vuoi ripetere, che cosa avevi da fare
 di tanto importante da non potere proprio proprio rimandare
                 SOL                                    RE
 Non mi dire, ti prego, non mi dire che dovevi solo studiare
-                      LA                                     RE  RE4  RE 
+                      LA                                     RE  RE4  RE
 e ti sembra un buon motivo, questo, per non farti neanche sentire!
                  SOL
 Sì ti ho capito, t'interessa più la scuola
@@ -496,7 +496,7 @@ Rit.
     Ti voglio bene smetti di giocare
               RE
     ti voglio bene a un certo punto ti devi dare
-              LA                                           RE 
+              LA                                           RE
     ti voglio bene non puoi farti eternamente corteggiare!
 
          SOL
@@ -512,11 +512,11 @@ Ti voglio bene ... non capisci niente ...
 Ti voglio bene ... bene un accidente
           LA                  SOL
 Ti voglio bene ... nonostante tutto .... ti voglio
-RE 
+RE
 Ti voglio bene oh! Ti voglio bene oh! Ti voglio bene oh!
-            
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="10" Titolo="Albachiara" Genere="Italiane">
             <Testo>
 Intro:
@@ -532,7 +532,7 @@ RE              SOL
 sei fresca come l'aria
 Diventi rossa se qualcuno ti guarda
 sei fantastica quando sei assorta
-nei tuoi problemi, 
+nei tuoi problemi,
 nei tuoi pensieri
 
 DO                SOL                   LAm
@@ -567,9 +567,9 @@ E qualche volta fai pensieri strani
 con una mano, una mano ti sfiori
 Tu sola dentro la stanza
 e tutto il mondo fuori
-                
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="11" Titolo="Ho imparato a sognare" Genere="Italiane">
             <Testo>
 Intro:
@@ -634,9 +634,9 @@ SOL RE SOL RE MIm RE LA
 Rit.
     C’è che ormai che ho imparato a sognare
     non smetterò
-                
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="12" Titolo="Io vagabondo" Genere="Italiane">
             <Testo>
 Intro:
@@ -668,7 +668,7 @@ Rit:
     vagabondo che non sono altro
              LA           SIm
     soldi in tasca non ne ho
-       LA                 RE LA FA#
+       LA                 RE DO SOL
     ma lassù mi è rimasto Dio
 
 Sì, la strada è ancora là
@@ -683,9 +683,9 @@ chissà dov'era casa mia
 e quel bambino che giocava in un cortile!
 
 Rit. (3 volte)
-                
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="13" Titolo="Destinazione paradiso" Genere="Italiane">
             <Testo>
 SOL
@@ -722,7 +722,7 @@ quello che oramai si sa, e allora sai che c'è
 
 c'è che c'è,
 c'è che prendo un treno che va a paradiso città
-e vi saluto a tutti e salto su     
+e vi saluto a tutti e salto su
 prendo il treno e non ci penso più.
 
 Rit:
@@ -757,7 +757,7 @@ mi dirai, destinazione paradiso
 paradiso città.
 
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="14" Titolo="Gli anni" Genere="Italiane">
             <Testo>
 SOL
@@ -808,9 +808,9 @@ cosa vuoi, il tempo passa per tutti lo sai
 nessuno indietro lo riporterà neppure noi
 
 Rit.
-                
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="15" Titolo="Come mai" Genere="Italiane">
             <Testo>
 Intro:
@@ -867,9 +867,9 @@ ma va bene purchè serva, per farmi uscire
 SOL RE
 
 Rit. (2 volte)
-                
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="16" Titolo="50 Special" Genere="Italiane">
             <Testo>
 Intro:
@@ -924,9 +924,9 @@ Dammi una special l'estate che avanza
 dammi una vespa e ti porto in vacanza
 
 Rit.
-                
+
             </Testo>
-        </Canzone>                  
+        </Canzone>
         <Canzone Numero="17" Titolo="Certe notti" Genere="Italiane">
             <Testo>
       MI                  LA
@@ -959,7 +959,7 @@ al primo autogrill c'e' chi festeggerà.
 Rit:
     DO#m             SI
     E si può restare soli
-    LA          MI 
+    LA          MI
     certe notti qui
     LA             SI
     che chi s'accontenta gode
@@ -998,10 +998,10 @@ Rit.
     certe notti qui certe notti qui.
     certe notti qui.
 MI
-                
+
             </Testo>
-        </Canzone>      
-        <Canzone Numero="18" Titolo="Balorda nostalgia" Genere="Italiane">          
+        </Canzone>
+        <Canzone Numero="18" Titolo="Balorda nostalgia" Genere="Italiane">
             <Testo>
 La- La-9 La- Fa
 Do Do7+ Do Sol
@@ -1019,7 +1019,7 @@ Io le ho risposto che
 
 Rit:
     Re-    Do     Fa     Re-    Do     Sol
-    Vorrei Vorrei Vorrei Vorrei Vorrei Vorrei 
+    Vorrei Vorrei Vorrei Vorrei Vorrei Vorrei
     Tornare a quando Ci bastava
     Do
     Ridere, piangere, fare l'amore
@@ -1030,7 +1030,7 @@ Rit:
     Con il telecomando in mano
         Sol
     Non so più come fare senza te
-                           
+
     Te che mi fai, vivere e dimenticare
     Tu che mentre cucini ti metti a cantare
     E tu chiamala se vuoi la ﬁne
@@ -1049,7 +1049,7 @@ Ti sembra la maniera (Che vai e mi lasci qua)
 Ti cerco ancora in casa quando mi prude la schiena
                             La-
 E metto ancora un piatto in più quando apparecchio a cena
-So soltanto che 
+So soltanto che
 
 Rit.
               La- La-9 Fa Do
@@ -1064,14 +1064,14 @@ Magari è già ﬁnita
 Però ti voglio bene
                  Do
 Ed è stata tutta vita
-                
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="19" Titolo="È stata tua la colpa" Genere="Italiane">
             <Testo>
 Harm
 DO REm DO REm
-DO REm DO REm 
+DO REm DO REm
 DO                                   REm
 È stata tua la colpa allora adesso che vuoi?
 DO                         REm
@@ -1133,12 +1133,12 @@ Quanto è assurdo il gioco che fai...
 DO REm DO REm
 
             </Testo>
-        </Canzone>            
+        </Canzone>
         <Canzone Numero="20" Titolo="Venderò" Genere="Italiane">
             <Testo>
 Intro:
 DO SOL LAm FA DO SOL
-DO FA DO FA 
+DO FA DO FA
 
 Harm
 DO FA DO FA DO SOL DO DO4 DO
@@ -1207,7 +1207,7 @@ Laila là...
     quanto costa la mia libertà
 
             </Testo>
-        </Canzone>            
+        </Canzone>
         <Canzone Numero="21" Titolo="Scatole" Genere="Italiane">
             <Testo>
 MI SI DO#m MI LA MI SI
@@ -1284,7 +1284,7 @@ Ma le canzoni in fondo sono solo scatole
 Dove la gente si rifugia quando fuori piove
 
             </Testo>
-        </Canzone>            
+        </Canzone>
         <Canzone Numero="22" Titolo="La storia infinita" Genere="Italiane">
             <Testo>
 MI LA MI LA MI
@@ -1366,7 +1366,7 @@ Aspetta, aspetta, aspetta com’è che fa?
 MI LA MI DO#m LA MI
 
             </Testo>
-        </Canzone>            
+        </Canzone>
         <Canzone Numero="23" Titolo="Scrivile scemo" Genere="Italiane">
             <Testo>
 LA MI
@@ -1434,8 +1434,8 @@ MI        DO#      FA#m
 Scrivile, scrivile Scrivile, scrivile...
 
             </Testo>
-        </Canzone>            
-        <Canzone Numero="24" Titolo="Sogni di R&R" Genere="Italiane">
+        </Canzone>
+        <Canzone Numero="24" Titolo="Sogni di Rock and roll" Genere="Italiane">
             <Testo>
 SOL              DO      RE
 Siamo qui già le quattro e siamo qui
@@ -1444,7 +1444,7 @@ finestrini socchiusi su strade indifese
              RE                DO
 dai nostri pesanti pesanti HP
 E così anche il sabato è andato così
-si è bevuto ballato qualcuno ha imbarcato 
+si è bevuto ballato qualcuno ha imbarcato
 il più scemo le ha prese e ha una faccia così
 
 MIm        SIm
@@ -1491,7 +1491,7 @@ playback fan, playback fan
 Rit.
 
             </Testo>
-        </Canzone>            
+        </Canzone>
         <Canzone Numero="25" Titolo="Il pescatore" Genere="Italiane">
             <Testo>
 RE SOL RE LA RE SOL RE LA
@@ -1558,7 +1558,7 @@ e aveva un solco lungo il viso
 come una specie di sorriso.
 
             </Testo>
-        </Canzone>            
+        </Canzone>
         <Canzone Numero="26" Titolo="Samarcanda" Genere="Italiane">
             <Testo>
 Intro:
@@ -1641,7 +1641,7 @@ non facessi in tempo ad arrivare qua
 Rit.
 
             </Testo>
-        </Canzone>            
+        </Canzone>
         <Canzone Numero="27" Titolo="Ti sento vivere" Genere="Italiane">
             <Testo>
 Intro:
@@ -1705,7 +1705,7 @@ Rit.
 Rit.
 
             </Testo>
-        </Canzone>       
+        </Canzone>
         <Canzone Numero="28" Titolo="Il gatto e la volpe" Genere="Italiane">
             <Testo>
 DO                LAm         REm  SOL
@@ -1714,7 +1714,7 @@ DO                LAm        REm SOL
 Se ci ascolti per un momento capirai
 DO                MI7         LAm
 Lui è il gatto ed io la volpe stiamo in società
-   REm    SOL     DO 
+   REm    SOL     DO
 di noi ti puoi fidar
 DO LAm DO LAm
 
@@ -1761,7 +1761,7 @@ di noi ti puoi fidar...
 di noi ti puoi fidar!
 
             </Testo>
-        </Canzone>        
+        </Canzone>
         <Canzone Numero="29" Titolo="Tanta voglia di lei" Genere="Italiane">
             <Testo>
 Intro:
@@ -1769,7 +1769,7 @@ DO MI7 LAm LAm/SOL FA SOL
 
 DO  SOL             DO
 Mi dispiace di svegliarti
-         MI       LAm 
+         MI       LAm
 forse un uomo non sarò
 FA      LA7           REm  REm7
 ma d'un tratto so che devo lasciarti
@@ -1790,11 +1790,11 @@ Rit:
     il mio amore si potrebbe svegliare
     FA     SOL   DO MI7
     chi la scalderà?
-                        LAm 
+                        LAm
     Strana amica di una sera
     FA     SOL  DO MI
     io ringrazierò
-                        LAm 
+                        LAm
     la tua pelle sconosciuta e sincera
     FA       SOL        DO
     ma nella mente c'e' tanta,
@@ -1819,7 +1819,7 @@ ho capito che cos'era importante
 il mio posto è solo là
 
             </Testo>
-        </Canzone>        
+        </Canzone>
         <Canzone Numero="30" Titolo="La canzone del sole" Genere="Italiane">
             <Testo>
 Intro:
@@ -1875,7 +1875,7 @@ una donna donna donna dimmi
 cosa vuol dir sono una donna ormai
 Io non conosco quel sorriso sicuro che hai
 non so chi sei non so più chi sei
-mi fai paura oramai purtroppo 
+mi fai paura oramai purtroppo
 
 ma ti ricordi le onde grandi e noi
 gli spruzzi e le tue risa
@@ -1894,7 +1894,7 @@ sono gli occhi di una donna ancora pieni d’amore
 Eh eh… nanana
 
             </Testo>
-        </Canzone>        
+        </Canzone>
         <Canzone Numero="31" Titolo="Laura non c'è" Genere="Italiane">
             <Testo>
           LAm           FA
@@ -1942,7 +1942,7 @@ e io così non ce la faccio
 
 Rit.
 
-REm   SOL     DO  Lam 
+REm   SOL     DO  Lam
 Forse è difficile così
 REm    SOL          LAm SOL DO MIm
 ma non so che cosa fare
@@ -1982,8 +1982,8 @@ solo Laura e la mia coscienza
     Laura c'è
 
             </Testo>
-        </Canzone>        
-        <Canzone Numero="32" Titolo="Albachiare" Genere="Italiane">
+        </Canzone>
+        <Canzone Numero="32" Titolo="Albachiara" Genere="Italiane">
             <Testo>
 Intro:
 FA7+ DO SOL7
@@ -2042,7 +2042,7 @@ Strumentale:
 DO SOL LAm DO FA DO RE SOL7 RE SOL7
 
             </Testo>
-        </Canzone>        
+        </Canzone>
         <Canzone Numero="33" Titolo="Vita spericolata" Genere="Italiane">
             <Testo>
 Intro:
@@ -2061,7 +2061,7 @@ voglio una vita che non è mai tardi
 di quelle che non dormi mai
 FA
 voglio una vita...
-   SOL                  DO 
+   SOL                  DO
 di quelle che non si sa mai
 
 Rit:
@@ -2100,7 +2100,7 @@ voglio una vita che non è mai tardi
 di quelle che non dormi mai
 FA
 voglio una vita...
-SOL               DO  
+SOL               DO
 vedrai che vita vedrai
 
 FAm DO FAm DO FAm DO FAm
@@ -2113,7 +2113,7 @@ FAm DO FAm DO FAm DO FAm
     o forse non ci incontreremo mai
       FA             DO        SOL
     ognuno a rincorrere i suoi guai
-    
+
     e poi ci troveremo come le stars
     a bere del whisky al Roxy Bar
     o forse non ci incontreremo mai
@@ -2130,12 +2130,677 @@ voglio una vita che se ne frega
 che se ne frega di tutto sì
 
             </Testo>
-        </Canzone>                
+        </Canzone>
+        <Canzone Numero="34" Titolo="Cuoricini" Genere="Italiane">
+            <Testo>
+RE
+Oggi mi sento una pozzanghera
+Se l’ansia mi afferra
+Con lo sguardo verso il cielo
+Ma il morale per terra
+SOL
+Se mi trascuri impazzisco come maionese
+RE
+Ci sto male, male male male
+SOL
+Vorrei svagarmi ma oggi una canzone
+             RE
+Dura come un temporale
+Anche se è molto popolare
+
+LAm
+E mi hai buttato via
+      DO
+In un sabato qualunque
+         SOL
+Mentre andavi in cerca
+               Sim
+Di uno slancio di modernità
+
+Rit:
+    MIm
+    Ma tu volevi solo
+    SOL
+    cuoricini, cuoricini
+                    MIm
+    Pensavi solo ai cuoricini, cuoricini
+                  LAm
+    Stramaledetti cuoricini, cuoricini
+                      DO            RE
+    Che mi tolgono il gusto di sbagliare tutto
+    SOL
+    Poi mi uccidi, poi mi uccidi
+                      MIm
+    Quegli occhi sono due fucili, due fucili
+                    LAm
+    Che sparano sui cuoricini, cuoricini
+                  DO            RE
+    Persino sotto alla notizia crolla il mondo
+
+RE
+Un divano e due telefoni
+È la tomba dell’amore
+Ce l’ha detto anche un dottore
+Porta un chilo di gelato
+E poi nel dubbio porta un fiore
+E almeno un kiss, please
+SOL
+E se oggi ho le pupille
+                            RE
+Più grandi del cuore non mi giudicare
+Male male male
+SOL
+Che dovrei dire io che ti parlavo
+     RE
+E tu nemmeno ti mettevi ad ascoltare
+Tu mettevi solo
+
+Rit.
+
+LAm                  DO
+Ma fortunatamente un sabato qualunque
+           SOL
+Mi hai portato via da tutta quanta
+LAm
+La modernità
+Ma dove scappi senza
+
+    SOL
+    Cuoricini, cuoricini
+                    RE
+    Per l’autostima cuoricini, cuoricini
+                 LAm
+    Che medicina cuoricini, cuoricini
+                      DO
+    Ma che tolgono il gusto di sbagliare tutto
+    SOL
+    Poi mi uccidi, poi mi uccidi
+                          RE
+    Quegli occhi sono due fucili, due fucili
+                    LAm
+    Che sparano sui cuoricini, cuoricini
+                  DO                           SOL
+    Persino sotto alla notizia crolla il mondo...
+    RE
+    Cuoricini, cuoricini
+    LAm
+    Cuoricini, cuoricini
+                       DO
+    Persino sotto alla notizia crolla il mondo
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="35" Titolo="Una storia importante" Genere="Italiane">
+            <Testo>
+Intro:
+LAm FA7+ SOL LAm FA7+ SOL
+
+LAm          FA7+         SOL
+Quante scuse ho inventato io
+LAm         FA7+          SOL
+pur di fare sempre a modo mio
+          REm7
+evitare così
+                LAm9
+una storia importante
+MIm7        REm7
+non volevo così
+     LAm              SOL FA7+
+ritrovarmi già grande...
+
+Quanta gente ho incontrato io
+quante storie, quante compagnie
+ora voglio di più
+una storia importante
+quello che sei tu
+forse sei tu
+
+Rit:
+    DO            SOL         LAm
+    Fermati un istante parla chiaro
+         DO            FA  MI
+    come non hai fatto mai
+                     LAm SOL
+    dimmi un po' chi sei
+    DO           SOL   LAm
+    Non riesco a liberarmi
+           DO               FA  MI
+    questa vita mi disturba sai
+               LAm FAm          LAm
+    come ti vorrei quanto ti vorrei
+
+    FA7+ SOL LAm FA7+ SOL
+
+LAm                    REm7
+Apro le mie mani per riceverti,
+          REm
+ma un pensiero mi porta via
+SOL                       DO
+mentre tu le chiudi per difenderti,
+       MI
+la tua paura è anche un po' la mia
+LAm                        REm7
+forse noi dobbiamo ancora crescere
+           REm
+forse è un alibi, è una bugia
+               SOL           MI
+se ti cerco ti nascondi poi ritorni
+
+
+Rit:
+    Fermati un istante parla chiaro
+    metti gli occhi dentro ai miei
+    come ti vorrei
+    Non riesco a liberarmi
+    questa vita mi disturba sai
+    come ti vorrei quanto ti vorrei
+    come ti vorrei quanto ti vorrei
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="36" Titolo="Adesso tu" Genere="Italiane">
+            <Testo>
+Intro:
+MIm MIm6 MIm MIm6
+
+MIm           MIm6      MIm MIm6
+Nato ai bordi di periferia
+MIm             MIm6         LAm LAm4
+dove i tram non vanno avanti più
+LAm
+dove l'aria è popolare
+MIm
+è più facile sognare
+DO              SI7           MIm
+che guardare in faccia la realtà
+
+Quanta gente giovane va via
+a cercare più di quel che ha
+forse perchè i pugni presi
+a nessuno li ha mai resi
+e dentro fanno male ancor di più
+
+    MIm       LAm7           RE
+    Ed ho imparato che nella vita
+            SOL    RE/FA# MIm
+    nessuno mai ci dà di più
+              LAm7         SIm7
+    ma quanto fiato quanta salita
+             DO                  RE4
+    andare avanti senza voltarsi mai
+
+Rit:
+    RE   SOL RE/FA# MIm SOL
+    E ci sei adesso tu
+              DO
+    a dare un senso ai giorni miei
+       SOL   LAm        RE
+    va tutto bene dal momento
+           SOL RE/FA# MIm SOL/RE   DO
+    che ci sei adesso tu, ma non dimentico
+    SOL         LAm   RE7/4
+    tutti gli amici miei
+               SOL
+    che sono ancora là ...
+
+        LAm7             SIm7
+E ci si trova sempre più soli
+         SOL    RE/FA#   MIm
+a questa età non sai non sai
+          LAm7            SIm7
+ma quante corse ma quanti voli
+         DO                 RE
+andare avanti senz'arrivare mai
+
+Rit:
+    RE   SOL RE/FA# MIm SOL/RE
+    E ci sei adesso tu
+              DO
+    al centro dei pensieri miei
+       SOL     LAm       RE4          SOL RE/FA#
+    la parte interna dei respiri tu sarai
+           MIm SOL        DO
+    la volontà che non si limita
+    SOL        LAm7      RE7/4
+    tu che per me sei già
+           SOL
+    una rivincita.
+
+SOL    LAm    RE4
+Adesso sai chi è
+SOL
+quell'uomo che c'è in me ...
+
+MIm           MIm6      MIm MIm6
+Nato ai bordi di periferia
+MIm                     LAm LAm4
+dove non ci torno quasi più
+         LAm
+resta il vento che ho lasciato
+MIm
+come un treno già passato
+DO           SI7
+oggi che mi stai accanto
+DO           SI7
+oggi che ci sei soltanto
+DO           SI7
+oggi che ci sei
+      MIm
+adesso tu
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="37" Titolo="Su di noi" Genere="Italiane">
+            <Testo>
+Intro:
+DO MIm DO MIm
+
+DO
+Su di noi... ci avresti scommesso tu
+MIm
+su di noi... mi vendi un sorriso tu
+LA                                REm
+se lo vuoi... cantare, sognare, sperare così
+SOL
+Su di noi... gli amici dicevano
+MI
+no vedrai, è tutto sbagliato
+LAm
+su di noi nemmeno una nuvola
+FA
+su di noi l'amore è una favola
+SOL
+su di noi se tu vuoi volare
+
+    MIm
+    lontano dal mondo portati dal vento
+    LAm
+    non chiedermi dove si va
+    RE
+    noi due respirando lo stesso momento
+    SOL                    SI7
+    per fare l'amore qua e là
+    MIm
+    mi stavi vicino e non mi accorgevo
+       LAm
+    di quanto importante eri tu
+        RE
+    adesso ci siamo, fai presto, ti amo
+        SOL                  SI7
+    non perdere un attimo in più
+
+MIm
+su di noi nemmeno una nuvola
+DO
+su di noi l'amore è una favola
+RE              SI
+su di noi se tu vuoi volare
+SOL
+Su di noi ancora una volta dai
+SI
+su di noi se tu vuoi volare
+
+    MIm
+    ti porto lontano nei campi di grano
+    LAm
+    che nascono dentro di me
+    RE
+    nei sogni proibiti di due innamorati
+    SOL                     SI7
+    nel posto più bello che c'è
+
+    MIm
+    lontani dal mondo, portati dal vento
+    LAm
+    respira la tua libertà
+    RE
+    giocare un momento poi corrersi incontro
+    SOL                    SI7
+    per fare l'amore qua e là
+
+MIm
+su di noi nemmeno una nuvola
+DO
+su di noi l'amore è una favola
+RE                   SI
+su di noi se tu vuoi volare
+
+    MIm
+    Mi stavi vicino e non mi accorgevo
+    LAm
+    di quanto importante eri tu
+    RE
+    adesso ci siamo, fai presto ti amo
+    SOL                      SI7
+    non perdere un attimo in più
+MIm        DO
+Su di noi ancora una volta dai
+RE            SI7
+su di noi, di te non mi stanco mai
+MIm        DO
+Su di noi ancora una volta dai
+RE            SI7
+su di noi, di te non mi stanco mai
+MIm            DO
+noi, solo noi, su di noi, solo noi
+RE           SI7
+su di noi, ancora una volta dai
+MIm           DO
+su di noi, di te non mi stanco mai
+RE             SI7        MIm
+noi, solo noi, su di noi, solo noi
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="38" Titolo="Un giorno di pioggia" Genere="Italiane">
+            <Testo>
+LAm
+Addio, addio e un bicchiere levato
+   DO                     SOL
+al cielo d’Irlanda e alle nuvole gonfie
+   LAm
+Un nodo alla gola ed un ultimo sguardo
+     REm                      FA
+alla vecchia AnnaLiff e alle strade del porto
+   LAm
+Un sorso di birra per le verdi brughiere
+     DO                SOL
+e un altro ai mocciosi coperti di fango,
+     LAm
+e un brindisi anche agli gnomi a alle fate,
+      REm                  FA        LAm
+ai folletti che corrono sulle tue strade
+
+Strum:
+DO SOL LAm FA SOL DO SOL LAm
+
+      LAm
+Hai i fianchi robusti di una vecchia signora
+    DO                     SOL
+e i modi un po’ rudi della gente di mare,
+       LAm
+ti trascini tra fango, sudore e risate
+   REm                   FA
+la puzza di alcool nelle notti d’estate
+     LAm
+E un vecchio compagno ti segue paziente,
+   DO               SOL
+il mare si sdraia fedele ai tuoi piedi,
+   LAm
+ti culla leggero nelle sere d’inverno,
+      REm                 FA       LAm
+ti riporta le voci degli amanti di ieri
+
+Rit:
+            FA
+    E in un giorno di pioggia
+        DO         SOL
+    che ti ho conosciuta,
+        DO                SOL     LAm
+    il vento dell’ovest rideva gentile
+            FA
+    e in un giorno di pioggia
+           DO         SOL
+    ho imparato ad amarti
+           LAm               FA SOL  LAm
+    mi hai preso per mano portandomi via
+
+Strum:
+DO SOL LAm FA SOL
+DO SOL LAm FA SOL LAm
+
+LAm
+Hai occhi di ghiaccio ed un cuore di terra
+       DO                  SOL
+hai il passo pesante di un vecchio ubriacone
+   LAm
+ti chiudi a sognare nelle notti d’inverno
+     REm               FA
+e ti copri di rosso e fiorisci d’estate
+       LAm
+I tuoi esuli parlano lingue straniere
+         DO             SOL
+si addormentano soli sognando i tuoi cieli
+       LAm
+si ritrovano persi in paesi lontani
+     REm                  FA      LAm
+a cantare una terra di profughi e santi
+
+Rit.
+
+Strum:
+DO SOL LAm FA SOL DO SOL LAm FA SOL LAm
+FA DO SOL FA DO RE LAm
+
+            FA                   DO      SOL
+    E in un giorno di pioggia ti rivedrò ancora
+         DO                  SOL      LAm
+    e potrò consolare i tuoi occhi bagnati
+          FA                   DO   SOL
+    In un giorno di pioggia saremo vicini,
+          LAm              FA SOL     LAm
+    balleremo leggeri sull’aria di un Reel
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="39" Titolo="dieci ragazze" Genere="Italiane">
+            <Testo>
+LAm
+Ho visto un uomo che moriva per amore,
+                                         FA
+ne ho visto un altro che più lacrime non ha
+       LAm                    FA
+Nessun coltello mai ti può ferir di più
+                                     MI
+di un grande amore che ti stringe il cuor
+
+LAm
+Dieci ragazze per me posson bastare
+                               MI
+dieci ragazze per me voglio dimenticare
+        LAm               DO
+capelli biondi da accarezzare
+         RE                  FA
+e labbra rosse sulle quali morire
+LAm               MI
+Dieci ragazze per me
+LAm        MI
+solo per me
+
+Una la voglio perché sa bene ballare
+Una la voglio perché ancor non sa
+cosa vuol dir l'amore
+Una soltanto perché
+ha conosciuto tutti tranne me
+Dieci ragazze così che dicono solo di sì
+
+Rit:
+    MI                   LAm
+    Vorrei sapere chi ha detto
+                 SOL       DO MI
+    che non vivo più senza te
+    LAm                     SOL       DO
+    Matto, quello è proprio matto perché
+              MI
+    forse non sa
+                     LAm        SOL
+    che posso averne una per il giorno
+    LAm        SOL
+    una per la sera
+    Lam
+    però quel matto mi conosce
+                               MI
+    perché ha detto una cosa vera
+
+(Su di mezzo tono)
+Dieci ragazze per me posson bastare
+dieci ragazze per me voglio dimenticare
+capelli biondi da accarezzare
+e labbra rosse sulle quali morire
+Dieci ragazze così che dicon solo di sì
+
+Rit.
+
+SIm
+Dieci ragazze per me
+SOL
+dieci ragazze per me
+MI
+dieci ragazze per me
+                  SIm SOL
+però io muoio per te
+                  SIm SOL
+però io muoio per te
+
+SIm SOL SIm SOL SIm SOL
+SIm
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="40" Titolo="La mi banda suona il rock" Genere="Italiane">
+            <Testo>
+Intro:
+LAm SOL MIm LAm SOL MIm LAm
+
+LAm                   SOL
+La mia banda suona il rock
+           MIm            LAm
+e tutto il resto all'occorrenza
+sappiamo bene che da noi fare tutto è un'esigenza
+è un rock bambino, soltanto un po' latino
+è una musica che è speranza, è una musica che è pazienza
+è come un treno che è passato con un carico di frutta
+eravamo alla stazione si ma dormivamo tutti
+e la mia banda suona il rock
+per chi l'ha visto e per chi non c'era
+e per chi quel giorno lì inseguiva una sua chimera
+
+Rit:
+           DO SOL MIm  LAm
+    Non svegliatevi oh non ancora
+             DO SOL MIm LAm
+    e non fermateci no, no per favore no
+
+La mia banda suona il rock
+e cambia faccia all'occorrenza
+da quando il trasformismo è diventato un'esigenza
+ci vedrete in crinoline, come brutte ballerine
+ci vedrete danzare come giovani zanzare
+ci vedrete alla frontiera con la macchina bloccata
+ma lui ce l'avrà fatta, la musica è passata
+è un rock bambino soltanto un po' latino
+viaggia senza passaporto e noi dietro col fiato corto
+lui ti penetra nei muri, ti fa breccia nella porta
+ma in fondo viene a dirti che la tua anima non è morta
+
+Rit.
+
+LAm SOL MIm LAm SOL MIm LAm
+
+(Su di mezzo tono)
+La mia banda suona il rock
+        LAb      SIbm
+ed è un'eterna partenza
+        LAb          FAm                      SIbm
+viaggia bene ad onde medie e a modulazione di frequenza
+è un rock bambino soltanto un po' latino
+è una musica che è speranza, è una musica che è pazienza
+è come un treno che è passato con un carico di frutti
+eravamo alla stazione si ma dormivamo tutti
+e la mia banda suona il rock
+per chi l'ha visto e per chi non c'era
+e per chi quel giorno lì inseguiva una sua chimera
+
+Rit.
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="41" Titolo="Se è vero che ci sei" Genere="Italiane">
+            <Testo>
+Intro:
+DO#m LA DO#m LA
+
+                      MI
+Certe volte guardo il mare
+                  DO#m
+questo eterno movimento
+                  SI                  LA
+ma due occhi sono pochi per questo immenso
+                   MI
+e capisco di esser solo
+                      DO#m
+e passeggio dentro il mondo
+                      SI            LA
+ma mi accorgo che due gambe non bastano
+                    MI
+per girarlo e rigirarlo
+
+                       LA
+    E se è vero che ci sei
+                         DO#m
+    batti un colpo amore mio
+                        SI LA
+    ho bisogno di dividere
+                           MI
+    tutto questo insieme a te
+
+certe volte guardo il cielo
+i suoi misteri e le sue stelle
+ma sono troppe le mie notti passate senza te
+per cercare di contarle
+
+    E se è vero che ci sei
+    vado in cerca dei tuoi occhi io
+    che non ho mai cercato niente
+    e forse niente ho avuto mai
+
+Rit:
+    SI                 LA
+    È un messaggio per te
+    sto chiamandoti
+    DO#m
+    sto cercandoti
+    SI
+    sono solo e lo sai
+                       LA
+    è un messaggio per te
+    sto inventandoti
+    DO#m            SI
+    prima che cambi luna
+                    LA
+    e che sia primavera
+
+Strumentale:
+DO#m LA SI DO#m
+
+Eh... se è vero che ci sei
+con i tuoi occhi e le tue gambe io
+riuscirei a girare il mondo
+e a guardare quell'immenso
+E se è vero che ci sei
+a cacciar via la solitudine
+di quest'uomo che ha capito
+il suo limite nel mondo
+
+Rit.
+
+Certe volte guardo il mare
+questo eterno movimento
+ma due occhi sono pochi per questo immenso
+e capisco di esser solo...
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="42" Titolo="" Genere="Italiane">
+            <Testo>
+
+            </Testo>
+        </Canzone>
         <Canzone Numero="" Titolo="" Genere="Italiane">
             <Testo>
 
             </Testo>
-        </Canzone>        
+        </Canzone>
         <Canzone Numero="100" Titolo="The river" Genere="Straniere">
             <Testo>
 Mi-   Sol   Re   Do
@@ -2211,12 +2876,12 @@ My baby and I
    Mi-         Do       Re  Do
 Oh down to the river we ride
             </Testo>
-        </Canzone>      
+        </Canzone>
         <Canzone Numero="101" Titolo="Wonderful tonight" Genere="Straniere">
             <Testo>
 SOL RE DO RE SOL (2 volte)
 
-SOL              RE 
+SOL              RE
 It's late in the evening
 DO                   RE             SOL
 she's wondering what clothes to wear
@@ -2224,7 +2889,7 @@ SOL             RE          DO          RE                DO
 She puts on her make-up and brushes her long blonde hair
 DO           RE       SOL RE/FA#     MIm
 And then she asks me, "Do I look all right?"
-           DO             RE             SOL 
+           DO             RE             SOL
 And I say, "Yes, you look wonderful tonight"
 
 SOL RE DO RE SOL (2 volte)
@@ -2254,9 +2919,9 @@ I say, "My darling, you were wonderful tonight
 SOL6
 
 Oh my darling, you were wonderful tonight"
-                
+
             </Testo>
-        </Canzone>       
+        </Canzone>
         <Canzone Numero="102" Titolo="Too much love will kill you" Genere="Straniere">
             <Testo>
 SOL SOL/RE/DO SOL RE DO RE
@@ -2335,15 +3000,15 @@ Rit:
     SOL/RE/DO  RE
            SOL
     In the end
-                    
+
             </Testo>
-        </Canzone>       
+        </Canzone>
         <Canzone Numero="103" Titolo="39" Genere="Straniere">
             <Testo>
 Intro:
 DO LAm MI SIb MIb SIb DO FA
 SOL RE MIm DO SOL RE DO SOL
-SOL RE MIm DO 
+SOL RE MIm DO
 DO7+ RE SOL SOL4 SOL
 
        RE                     MIm
@@ -2408,18 +3073,18 @@ RE
     For my life
           RE
     Still ahead
-         SOL 
+         SOL
     Pity me
     SOL RE MIm DO
     DO7+ RE SOL SOL4 SOL
-                    
+
             </Testo>
-        </Canzone>       
+        </Canzone>
         <Canzone Numero="104" Titolo="Love rescue me" Genere="Straniere">
             <Testo>
 (Harm)
 DO FA DO
-DO SOL 
+DO SOL
 DO DO7 FA
 DO SOL DO
 
@@ -2427,7 +3092,7 @@ DO
 Love rescue me
      FA                 DO
 Come forth and speak to me
-                             SOL                 
+                             SOL
 Raise me up and don't let me fall
 DO           DO7
 No man is my enemy
@@ -2494,10 +3159,10 @@ And my word you must believe in love
        DO  SOL      DO
 I said love, rescue me
 
-    DO                         
-    Oh yeah, oh yeah, oh yeah, 
-    FA          DO         
-    Hooooooooo, Hoooooooo, 
+    DO
+    Oh yeah, oh yeah, oh yeah,
+    FA          DO
+    Hooooooooo, Hoooooooo,
     (Harm)
     FA                    SOL
     Hoooooooo, Hoooooooo, Hoooooooo, Hoooooooo, Hoooooooo
@@ -2514,9 +3179,9 @@ I stand at the entrance to a new world I can see
 The ruins to the right of me
 Will soon have lost sight of me
 Love rescue me
-                
+
             </Testo>
-        </Canzone>       
+        </Canzone>
         <Canzone Numero="105" Titolo="With or without you" Genere="Straniere">
             <Testo>
 RE LA SIm SOL
@@ -2543,7 +3208,7 @@ Rit:
 
 RE LA SIm SOL
 
-And you give yourself away, 
+And you give yourself away,
 and you give yourself away
 And you give, And you give,
 And you give yourself away
@@ -2552,7 +3217,7 @@ My hands are tied,
 my body bruised, she's got me with
 nothing to win, and nothing left to lose
 
-And you give yourself away, 
+And you give yourself away,
 and you give yourself away
 And you give, And you give,
 And you give yourself away
@@ -2563,12 +3228,12 @@ Oh oh oh oh (4 volte)
 
 Rit.
     With or without you
-    
+
 RE LA SIm SOL
-                
+
             </Testo>
-        </Canzone>       
-        <Canzone Numero="106" Titolo="I wish you were here" Genere="Straniere">
+        </Canzone>
+        <Canzone Numero="106" Titolo="Wish you were here" Genere="Straniere">
             <Testo>
 SOL MIm SOL MIm SOL
 MIm LA MIm LA SOL
@@ -2599,14 +3264,14 @@ How I wish, how I wish you were here.
 We're just two lost souls swimming in a fish bowl
 year after year
 Running over the same old ground.
-What have we found? The same old fears. 
+What have we found? The same old fears.
 Wish you were here...
 
 MIm SOL MIm SOL
 MIm LA MIm LA SOL
-                
+
             </Testo>
-        </Canzone>       
+        </Canzone>
         <Canzone Numero="107" Titolo="Always" Genere="Straniere">
             <Testo>
 Intro:
@@ -2689,7 +3354,7 @@ to say these words to you
 
 Assolo
 MI SI FA#m DO#m SI
-MI SI LA SI 
+MI SI LA SI
 LA SI
 
             LA
@@ -2703,11 +3368,11 @@ we'll find a place where the sun still shines
 
 Rit.
 
-SI LA 
-MI SI DO#m SI LA MI             
+SI LA
+MI SI DO#m SI LA MI
 
             </Testo>
-        </Canzone>       
+        </Canzone>
         <Canzone Numero="108" Titolo="Knocking on Heaven's door" Genere="Straniere">
             <Testo>
 SOL             RE           LAm
@@ -2740,9 +3405,9 @@ Got a feeling that's hard to trace
 I feel I'm knocking on heaven's door)
 
 Rit.
-                
+
             </Testo>
-        </Canzone>       
+        </Canzone>
         <Canzone Numero="109" Titolo="Wind of change" Genere="Straniere">
             <Testo>
 Intro:
@@ -2774,9 +3439,9 @@ Rit:
     Take me to the magic of the moment
          DO    SOL
     On a glory night
-              REm          SOL           
-    Where the children of tomorrow 
-           LAm 
+              REm          SOL
+    Where the children of tomorrow
+           LAm
     dream away
     FA             SOL   DO
     In the wind of change
@@ -2810,9 +3475,9 @@ FA SOL MI7 LAm REm MI7
 Rit.
 
 FA REm FA REm LAm REm
-                
+
             </Testo>
-        </Canzone>       
+        </Canzone>
         <Canzone Numero="110" Titolo="Carrie" Genere="Straniere">
             <Testo>
 Intro:
@@ -2831,16 +3496,16 @@ Rit:
     Can't you see it in my eyes
     DO                LAm7     RE  DO RE SOL
     This might be our last goodbye
-    SOL RE   MIm 
-    Ca--a--a-rrie, 
+    SOL RE   MIm
+    Ca--a--a-rrie,
         RE   DO    DO RE MIm
-    Ca--a--a-rrie, 
+    Ca--a--a-rrie,
                 RE
     things they change my friend
-    SOL RE    MIm 
-    Ca--a--a-rrie, 
+    SOL RE    MIm
+    Ca--a--a-rrie,
         RE   DO    DO RE MIm
-    Ca--a--a-rrie, 
+    Ca--a--a-rrie,
                RE4 RE LAm7 SOL
     maybe we'll meet  again,
     (I volta e III volta)
@@ -2855,21 +3520,21 @@ If it's a crime, how come I feel no pain
 Rit.
 
 DO RE MI
-                
+
 Assolo
 RE MIm RE/FA# SOL DO MIm RE
 MIm RE MIm RE/FA# SOL DO MIm RE
 
                 MIm RE SOL SOL4 SOL
 When lights go down
-                
+
             </Testo>
-        </Canzone>       
-        <Canzone Numero="112" Titolo="Where you think you are going" Genere="Straniere">
+        </Canzone>
+        <Canzone Numero="112" Titolo="Where do you think you are going" Genere="Straniere">
             <Testo>
 [Intro]
 Lam Fa Sol Mi7/4
- 
+
 Rit:
     Lam
     Where do you think you're going
@@ -2882,12 +3547,12 @@ Rit:
     Where do you think you're going
     I think you don't know
     You got no way of knowing
-    There's really no place 
+    There's really no place
     Lam
     you can go
- 
+
 Lam  Fa  Rem  Fa
- 
+
 I understand your changes
 Long before you reached the door
 I know where you're going
@@ -2896,9 +3561,9 @@ And now I'm sick of joking
 You know I like you to be free
 Where do you think you're going
 I think you'd better go with me, girl
- 
+
 Lam  Fa  Rem  Fa
- 
+
     Sol
     You say there is no reason
                                 Lam
@@ -2907,15 +3572,15 @@ Lam  Fa  Rem  Fa
     When you ain't with me girl
     Mi7/4                   Lam
     You're gonna be without me
- 
+
 Lam  Fa  Rem  Fa
- 
+
 Rit.
- 
+
 Lam  Fa  Rem  Fa
-                
+
             </Testo>
-        </Canzone>              
+        </Canzone>
         <Canzone Numero="113" Titolo="Tougher than the rest" Genere="Straniere">
             <Testo>
 DO FA SOL FA DO SOL
@@ -2979,7 +3644,7 @@ DO FA SOL FA DO SOL
 DO FA SOL FA DO SOL DO
 
             </Testo>
-        </Canzone>            
+        </Canzone>
         <Canzone Numero="114" Titolo="I'm goin down" Genere="Straniere">
             <Testo>
 LA MI FA#m RE
@@ -3005,9 +3670,6 @@ Rit:
 We get dressed up, and we go out,
 baby, for the night
 We come home early burning, burning
-12/04/25, 14:58 I’M GOIN’ DOWN Accordi 100% Corretti -Bruce Springsteen
-burning in some fire fight
-
 I'm sick and tired of you setting me up, yeah
 Setting me up just
 to knock-a knock-a knock-a me down
@@ -3029,17 +3691,18 @@ But lately girl you get your kicks
 from just driving me down
 
 Rit.
+
 Rit.
 
             </Testo>
-        </Canzone>            
+        </Canzone>
         <Canzone Numero="115" Titolo="Shallow" Genere="Straniere">
             <Testo>
 Intro:
 MIm7 RE/FA# SOL
 DO DOadd9 SOL RE
 MIm7 RE/FA# SOL
-MIm7    RE/FA#    SOL 
+MIm7    RE/FA#    SOL
 Tell me somethin' girl
 DO                    SOL    RE
 Are you happy in this modern world?
@@ -3048,7 +3711,7 @@ MIm7      RE/FA# SOL
 Or do you need more?
 DO                             SOL       RE
 Is there somethin' else you're searchin' for?
-MIm7 RE/FA# SOL 
+MIm7 RE/FA# SOL
 I'm fal----ling
 DO
 In all the good times
@@ -3085,14 +3748,14 @@ Rit:
     In the sha-ha--sha-ha-ha-low
           SOL          RE      MIm
     We're far from the shallow now
-MIm 
+MIm
 SIm REadd9 LA MIm7 SIm REadd9 LA
 Wooaaaah...
 
 Rit.
 
             </Testo>
-        </Canzone>  
+        </Canzone>
         <Canzone Numero="116" Titolo="All I want is you" Genere="Straniere">
             <Testo>
 Intro:
@@ -3138,12 +3801,357 @@ your story to remain untold
 Rit.
 
             </Testo>
-        </Canzone>   
+        </Canzone>
+        <Canzone Numero="117" Titolo="Take Me Home, Country Roads" Genere="Straniere">
+            <Testo>
+DO            LAm
+Almost heaven, West Virginia,
+SOL                   FA         DO
+Blue Ridge Mountains, Shenandoah River
+DO                 LAm
+Life is old there, older than the trees,
+SOL                         FA             DO
+younger than the mountains, growing like a breeze
+
+Rit:
+            DO             SOL
+    Country roads, take me home
+           LAm       FA
+    to the place I belong
+            DO              SOL
+    West Virginia, mountain mamma,
+            FA            DO
+    take me home, country roads
+
+All my memories gather round her,
+miner's lady, stranger to blue water
+Dark and dusty, painted on the sky,
+misty taste of moonshine, teardrop in my eye
+
+Rit.
+
+LAm        SOL          DO
+I hear her voice in the morning hour, she calls me,
+    FA       DO            SOL
+the radio reminds me of my home far away
+    LAm              SIb           FA
+And driving down the road I get a feeling
+       DO                    SOL               SOL7
+that I should have been home yesterday, yesterday
+
+Rit.
+
+Rit.
+        SOL               DO
+Take me home now, country roads
+        SOL               DO
+Take me home now, country roads
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="118" Titolo="Patience" Genere="Straniere">
+            <Testo>
+Intro:
+DO SOL LA RE DO SOL LA RE
+DO SOL DO MIm DO SOL RE
+
+DO
+Shed a tear cause I'm missing you
+SOL
+I'm still alright to smile
+LA                           RE
+Girl I think about you every day now
+
+Was a time when I wasn't sure but you..
+set my mind at ease
+There is no doubt, you're in my heart now
+
+Rit:
+    DO        SOL
+    Sad woman take it slow
+            DO              MIm
+    it will work itself out fine
+    DO             SOL           RE
+    All we need is just a little patience
+    DO        SOL
+    Sad sugar make it slow
+    DO                      MIm
+    and we'll come together fine
+    DO             SOL           RE
+    All we need is just a little patience
+    patience...
+
+I Sit here on the stairs, 'cause I'd
+rather be alone
+If I can't have you right now, I'll wait dear
+Sometimes I get so tense
+but I can't speed up the time
+But you know love
+there's one more thing to consider
+
+Rit:
+    Sad woman take it slow
+    and things will be just fine
+    You and I’ll just use a little patience
+    Sad sugar take the time
+    'cause the lights are shining bright
+    You and I got what it takes to make it
+
+RE
+We don't fake it...
+RE
+Ohh and never break it
+RE
+'Cause I can't take it...
+
+Strumentale:
+DO SOL DO MIm SOL RE
+DO SOL DO MIm SOL RE
+RE SOL RE SOL
+RE SOL
+Little patience... mhh yeah
+RE SOL
+uh.. yeah...
+RE
+Need a little patience... mhh yeah
+SOL RE
+Just a little patience... mhh yeah
+SOL RE
+Some more patience
+...
+SOL RE
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="119" Titolo="Have you ever seen the rain" Genere="Straniere">
+            <Testo>
+Intro:
+LAm FA DO SOL DO
+
+DO
+Someone told me long ago
+DO
+There's a calm before the storm
+  SOL                   DO
+I know It's been comin' for some time
+
+When it's over, so they say
+It'll rain a sunny day
+I know.. Shinin' down like water
+
+Rit:
+    FA        SOL
+    I want to know
+             DO            LAm
+    Have you ever seen the rain?
+    FA        SOL
+    I want to know
+             DO            LAm
+    Have you ever seen the rain?
+    FA     SOL             DO
+    Comin' down on a sunny day?
+
+Yesterday, and days before
+Sun is cold and rain is hard,
+I know Been that way for all my time
+'Til forever, on it goes
+
+Through the circle, fast and slow,
+I know It can't stop, I wonder
+
+Rit.
+
+Rit.
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="120" Titolo="In your arms" Genere="Straniere">
+            <Testo>
+Intro
+LA MI LA MI
+
+        LA
+Oh, the way I feel tonight
+           RE                    LA
+You better wrap me up good and tight
+          MI
+In your arms
+         LA
+In your arms
+
+LA
+Just like a bee in a honeycomb
+          RE                    LA
+I'm gonna make myself right at home
+         MI
+In your arms
+         LA
+In your arms
+
+Rit:
+    LA7       RE
+    Well, it don't take much to keep me satisfied
+           LA
+    Just a little bit of lovin' that's bonafide
+             SI
+    And your arms keep me tangled up all the time
+           SI
+    Like a kitten with a ball of twine
+
+Yeah baby, that's where I want to stay
+For the rest of my natural days
+In your arms
+In your arms
+
+(saxaphone solo)
+
+Rit.
+
+Yeah baby, that's where I want to stay
+For the rest of my natural days
+In your arms
+In your arms
+
+In your arms
+In your arms
+Well In your arms
+In your arms
+In your arms
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="121" Titolo="Pretty woman" Genere="Straniere">
+            <Testo>
+       LA             FA#m
+Pretty woman, walking down the street
+       LA                  FA#m
+Pretty woman, the kind I'd like to meet
+       RE               MI7
+Pretty woman, I don't believe you
+You're not the truth
+MI
+No one could look as good as you
+Mercy!
+
+Pretty woman, won't you pardon me?
+Pretty woman, I couldn't help but see
+Pretty woman, you look lovely as can be
+Are you lonely just like me?
+
+Rit:
+    REm           SOL7
+    Pretty woman, stop a while
+    DO            LAm
+    Pretty woman, talk a while
+    REm           SOL7               DO
+    Pretty woman, give your smile to me
+    REm           SOL7
+    Pretty woman, yeah, yeah, yeah
+    DO            LAm
+    Pretty woman, look my way
+    REm           SOL7                 DO LA
+    Pretty woman, say you'll stay with me
+
+         FA#m     REm
+'Cause I need you
+               MI7
+I'll treat you right
+LA          FA#m
+Come to me, baby
+REm     MI7
+Be mine tonight
+
+Pretty woman, don't walk on by
+Pretty woman, don't make me cry
+Pretty woman, don't walk away, hey
+Okay
+If that's the way it must be, okay
+I guess I'll go on home, it's late
+There'll be tomorrow night, but wait
+MI7
+What do I see?
+Is she walking back to me?
+Yeah, she's walking back to me
+               LA
+Oh, oh, pretty woman
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="122" Titolo="I want it all" Genere="Straniere">
+            <Testo>
+Strumentale:
+SIm SOL LA SIm LA
+
+          SIm                SOL
+Adventure seeker on an empty street,
+              LA                    SIm LA
+Just an alley creeper, light on his feet,
+                SIm                         SOL
+A young fighter screaming, with no time for doubt
+                      LA
+With the pain and the anger
+                SIm LA
+can't see a way out
+
+                  RE                  LA
+It ain't much I'm asking, I heard him say,
+                SOL                   LA SOL
+Gotta find me a future move out of my way.
+
+Rit:
+              SIm            SOL
+    I want it all, I want it all,
+              LA                 SIm LA
+    I want it all, and I want it now.
+    I want it all, I want it all,
+    I want it all, and I want it now.
+
+Listen all you people, come gather round,
+I gotta get me a game plan
+gotta shake you to the ground...
+Just give me what I know is mine,
+People do you hear me, just give me the sign.
+
+It ain't much I'm asking, if you want the truth
+Here's to the future for the dreams of youth,
+
+Rit.
+SI MI FA#
+
+SI
+I'm a man with a one track mind,
+MI               FA#
+So much to do in one life time
+(people do you hear me)
+      SI
+Not a man for compromise and
+MI                    A#
+where's and why's and living lies
+       SOL
+So I'm living it all, yes I'm living it all,
+        LA
+And I'm giving it all, and I'm giving it all,
+
+Strumentale:
+SIm SOL LA MI SIm SOL LA MI
+SIm SOL LA MI SIm SOL LA MI
+SOL SOL SOL SOL LA7/4
+
+It ain't much I'm asking, if you want the truth,
+Here's to the future, hear the cry of youth,
+
+Rit.
+
+Rit.
+
+            </Testo>
+        </Canzone>
         <Canzone Numero="" Titolo="" Genere="Straniere">
             <Testo>
 
             </Testo>
-        </Canzone>             
+        </Canzone>
+
         <Canzone Numero="200" Titolo="Daitarn III" Genere="Cartoni">
             <Testo>
 Intro:
@@ -3204,7 +4212,7 @@ Rit.
 Rit.
 
             </Testo>
-        </Canzone>                
+        </Canzone>
         <Canzone Numero="201" Titolo="Jeeg Robot d'acciacio" Genere="Cartoni">
             <Testo>
 Intro:
@@ -3244,7 +4252,7 @@ DO           FA
 noi restiamo tutti con te,
        MI
 perché tu...
-       LAm 
+       LAm
 tu sei Jeeg!!!
 
 LAm FA MI LAm FA MI
@@ -3272,7 +4280,7 @@ tu sei Jeeg!!!
 LAm FA MI LAm FA MI LAm
 
             </Testo>
-        </Canzone>             
+        </Canzone>
         <Canzone Numero="202" Titolo="Capitan Harlock" Genere="Cartoni">
             <Testo>
 DO
@@ -3366,7 +4374,7 @@ Capitan Harlock
 Rit.
 
             </Testo>
-        </Canzone>             
+        </Canzone>
         <Canzone Numero="203" Titolo="Daltanious" Genere="Cartoni">
             <Testo>
 FA
@@ -3422,7 +4430,7 @@ Le lame boo--me--rang
     Daltanious non si fermerà,
              DO    SOL  FA
     è troppo forte vincerà
-    
+
     FA#m7/5- DO/SOL MI/SOL# LA LA7
 
          RE               SIm
@@ -3466,7 +4474,7 @@ Non sia arrende mai, troppo forte,
 Non è nato ancora chi lo batterà...
 
             </Testo>
-        </Canzone>             
+        </Canzone>
         <Canzone Numero="204" Titolo="Il grande Mazinga" Genere="Cartoni">
             <Testo>
 Intro:
@@ -3560,7 +4568,7 @@ Mazinga, Robot (lama diabolica!)
 Mazinga, Robot (doppio boomerang!)
 
             </Testo>
-         </Canzone>    
+         </Canzone>
         <Canzone Numero="205" Titolo="Mazinga Z" Genere="Cartoni">
             <Testo>
 Intro:
@@ -3618,12 +4626,12 @@ va contro l'ignoto se lassù lo incontrerà
     uoooh.....
     LAm
     Mazinga Z Mazinga Z
-    FA MI 
+    FA MI
     uoooh.....
     Lam
 
             </Testo>
-        </Canzone>    
+        </Canzone>
         <Canzone Numero="206" Titolo="UFO Robot" Genere="Cartoni">
             <Testo>
 SOL
@@ -3654,7 +4662,7 @@ ma un cuore umano ha
 Rit:
     FAm    DO
     ma chi è?
-    FAm    DO 
+    FAm    DO
     ma chi è?
 
     MIm REm SOL
@@ -3688,11 +4696,11 @@ Ufo Robot Ufo Robot
 Ufo Robot Ufo Robot
 
             </Testo>
-        </Canzone>             
+        </Canzone>
          <Canzone Numero="" Titolo="" Genere="Cartoni">
             <Testo>
 
             </Testo>
-        </Canzone>             
+        </Canzone>
     </Canzoni>
 </Canzoniere>

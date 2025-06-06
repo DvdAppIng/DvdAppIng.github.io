@@ -44,7 +44,7 @@ poi la strada la trovi da te
     Son d'accordo con voi niente ladri e gendarmi,
     ma che razza di isola é?
     Niente odio e violenza, né soldati né armi
-    forse é proprio l'isola che non c'é... che non c'é...
+    forse é proprio l'isola che non c'é, che non c'é
 
 Seconda stella a destra, questo é il cammino
 e poi dritto fino al mattino
@@ -219,10 +219,10 @@ e poi di corsa un tassì
 sono certo così
 quando arrivi col treno mi vedi, non piangere
 presto presto eee presto presto eiee
-presto presto vai ... nananan
+presto presto vai... nananan
 presto presto eee presto presto eie
   FA          LAb         SIb  FA
-presto presto fai presto ... dididididi...
+presto presto fai presto... dididididi...
   FA  LAb SIb FA
 
             </Testo>
@@ -511,7 +511,7 @@ Ti voglio bene ... non capisci niente ...
           RE
 Ti voglio bene ... bene un accidente
           LA                  SOL
-Ti voglio bene ... nonostante tutto .... ti voglio
+Ti voglio bene ... nonostante tutto... ti voglio
 RE
 Ti voglio bene oh! Ti voglio bene oh! Ti voglio bene oh!
 
@@ -1927,9 +1927,9 @@ Rit:
     però non è lo stesso tra di noi
                    LAm            DO
     da solo non mi basto stai con me
-           RE                FA
+                             RE           FA
     solo è strano che al suo posto ci sei te
-       SOL LAm DO RE FA
+           LAm RE FA
     ci sei te
 
 Laura dov'è, mi manca sai
@@ -2399,8 +2399,10 @@ DO
 Su di noi... ci avresti scommesso tu
 MIm
 su di noi... mi vendi un sorriso tu
-LA                                REm
-se lo vuoi... cantare, sognare, sperare così
+LA                                
+se lo vuoi... cantare, sognare, 
+REm                
+sperare così
 SOL
 Su di noi... gli amici dicevano
 MI
@@ -2473,6 +2475,7 @@ su di noi se tu vuoi volare
     adesso ci siamo, fai presto ti amo
     SOL                      SI7
     non perdere un attimo in più
+                
 MIm        DO
 Su di noi ancora una volta dai
 RE            SI7
@@ -2583,7 +2586,7 @@ FA DO SOL FA DO RE LAm
 
             </Testo>
         </Canzone>
-        <Canzone Numero="39" Titolo="dieci ragazze" Genere="Italiane">
+        <Canzone Numero="39" Titolo="Dieci ragazze" Genere="Italiane">
             <Testo>
 LAm
 Ho visto un uomo che moriva per amore,
@@ -2657,7 +2660,7 @@ SIm
 
             </Testo>
         </Canzone>
-        <Canzone Numero="40" Titolo="La mi banda suona il rock" Genere="Italiane">
+        <Canzone Numero="40" Titolo="La mia banda suona il rock" Genere="Italiane">
             <Testo>
 Intro:
 LAm SOL MIm LAm SOL MIm LAm
@@ -3911,7 +3914,7 @@ RE SOL RE SOL
 RE SOL
 Little patience... mhh yeah
 RE SOL
-uh.. yeah...
+uh... yeah...
 RE
 Need a little patience... mhh yeah
 SOL RE
@@ -3937,7 +3940,7 @@ I know It's been comin' for some time
 
 When it's over, so they say
 It'll rain a sunny day
-I know.. Shinin' down like water
+I know, hinin' down like water
 
 Rit:
     FA        SOL
@@ -3953,9 +3956,9 @@ Rit:
 
 Yesterday, and days before
 Sun is cold and rain is hard,
-I know Been that way for all my time
+I know, been that way for all my time
+                
 'Til forever, on it goes
-
 Through the circle, fast and slow,
 I know It can't stop, I wonder
 
@@ -4043,7 +4046,7 @@ Rit:
     Pretty woman, stop a while
     DO            LAm
     Pretty woman, talk a while
-    REm           SOL7               DO
+    REm           SOL7               DO DO7
     Pretty woman, give your smile to me
     REm           SOL7
     Pretty woman, yeah, yeah, yeah
@@ -4125,7 +4128,7 @@ So much to do in one life time
 (people do you hear me)
       SI
 Not a man for compromise and
-MI                    A#
+MI                    FA#
 where's and why's and living lies
        SOL
 So I'm living it all, yes I'm living it all,

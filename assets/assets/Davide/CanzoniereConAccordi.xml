@@ -4515,28 +4515,29 @@ SOL DO RE SOL
         </Canzone>
         <Canzone Numero="126" Titolo="Luka" Genere="Straniere">
             <Testo>
+(Barre sul II o III tasto)
 Intro:
-SOL RE DO RE
-MIm RE MIm RE
-DO RE DO RE
+MI SI4 LA9 SI4
+DO#m7 SI4 DO#m7 SI4
+LA9 SI4 LA9 SI4
 
-SOL        RE 
+MI        SI4 
 My name is Luka
-DO            RE          
+LA9            SI4          
 I live on the second floor
-SOL    RE               DO
+MI    SI4               LA9
 I live upstairs from you
-                   RE            
+                   SI4            
 Yes I think you've seen me before
- MIm            RE                
+DO#m7            SI4                
     If you hear something late at night
- MIm             RE                    DO
+DO#m7             SI4                    LA9
     Some kind of trouble some kind of fight
-DO         RE             
+LA9         SI4             
 Just don't ask me what it was
-DO         RE             
+LA9         SI4             
 Just don't ask me what it was
-DO         RE                SOL
+LA9         SI4                MI
 Just don't ask me what it was
 
 I think it's because I'm clumsy
@@ -4549,8 +4550,8 @@ You just don't argue anymore
 You just don't argue anymore
 You just don't argue anymore
 
-SOL RE DO RE
-SOL RE DO RE SOL
+MI SI4 LA9 SI4
+MI SI4 LA9 SI4 MI
 
 Yes I think I'm okay
 I walked into the door again
@@ -4577,9 +4578,10 @@ Just don't ask me what it was
 You just don't argue anymore
 You just don't argue anymore
 You just don't argue anymore
-SOL RE DO RE
-SOL RE DO RE
-MIm RE DO RE SOL
+
+MI SI4 LA9 SI4
+MI SI4 LA9 SI4
+DO#m7 SI4 LA9 SI4 MI
 
             </Testo>
         </Canzone>

@@ -4591,11 +4591,51 @@ DO#m7 SI4 LA9 SI4 MI
 
             </Testo>
         </Canzone>
-        <Canzone Numero="127" Titolo="" Genere="Straniere">
+        <Canzone Numero="127" Titolo="Blowin' in the wind" Genere="Straniere">
+            <Testo>
+DO       FA           DO       
+How many roads must a man walk down
+DO         FA         SOL
+Before you call him a man?
+How many seas must a white dove sail
+Before she sleeps in the sand?
+Yes, 'n' how many times must the cannon balls fly
+Before they're forever banned?
+
+Rit:
+        FA         SOL        DO             LAm
+    The answer, my friend, is blowin' in the wind,
+        FA        SOL            DO
+    The answer is blowin' in the wind
+    (Harm)
+                
+How many years can a mountain exist
+Before it's washed to the sea?
+Yes, 'n' how many years can some people exist
+Before they're allowed to be free?
+Yes, 'n' how many times can a man turn his head,
+Pretending he just doesn't see?
+
+Rit.
+
+How many times must a man look up
+Before he can see the sky?
+Yes, 'n' how many ears must one man have
+Before he can hear people cry?
+Yes, 'n' how many deaths will it take till he knows
+That too many people have died?
+
+Rit.
+
+Rit.
+                
+            </Testo>
+        </Canzone>
+        <Canzone Numero="128" Titolo="" Genere="Straniere">
             <Testo>
 
             </Testo>
-        </Canzone>
+        </Canzone>        
         <Canzone Numero="" Titolo="" Genere="Straniere">
             <Testo>
 

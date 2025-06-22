@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="10">
+<Canzoniere Version="11">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Italiane</Genere>
@@ -517,56 +517,75 @@ Ti voglio bene oh! Ti voglio bene oh! Ti voglio bene oh!
 
             </Testo>
         </Canzone>
-        <Canzone Numero="10" Titolo="Albachiara" Genere="Italiane">
+        <Canzone Numero="10" Titolo="Senza parole" Genere="Italiane">
             <Testo>
-Intro:
-FA7+ DO SOL7
+        LA
+Ho guardato dentro una bugia
+          DO#m
+e ho capito che e' una malattia
+         FA#m                     RE
+che alla fine non si puo' guarire mai
+         LA                 MI              LA MI
+e ho cercato di convincermi che tu non ce l'hai
 
-DO                    SOL
-Respiri piano per non far rumore
-         LAm                   DO
-ti addormenti di sera e ti risvegli col sole
-FA                 DO
-sei chiara come un'alba
-RE              SOL
-sei fresca come l'aria
-Diventi rossa se qualcuno ti guarda
-sei fantastica quando sei assorta
-nei tuoi problemi,
-nei tuoi pensieri
+Ho guardato dentro casa tua
+e ho capito che era una follia
+avere pensato che fossi soltanto mia
+e ho cercato di dimenticare di non guardare
 
-DO                SOL                   LAm
-Ti vesti svogliatamente, non metti mai niente
-              DO
-che possa attirare attenzione
-FA         DO   RE                SOL
-un particolare, solo per farti guardare
+         LA
+E ho guardato la televisione
+        DO#m
+e mi e' venuta come l'impressione
+       FA#
+che mi stessero rubando il tempo e che tu
+RE                        REm
+che tu mi rubi l'amore ma poi ho camminato tanto e fuori
+ LA
+c'era un gran rumore
+    MI
+che non ho più pensato
+a tutte queste cose
+
+DO SOL FA DO SOL FA SOL
+
+     DO
+E ho guardato dentro un'emozione
+        SOL
+e ci ho visto dentro tanto amore
+         FA                               DO SOL
+che ho capito perché non si comanda al cuore
+     FA         SOL
+E va bene così
+          DO SOL       DO MIm LAm7 FA
+senza parole senza parole
+     DO      SOL         DO FA
+E va bene così senza parole
+     DO         SOL
+e va bene così...
+
+      LA
+E guardando la televisione
+       DO#m
+mi e' venuta come l'impressione
+       FA#
+che mi stessero rubando il tempo e che tu
+RE
+che tu mi rubi l'amore
+   REm
+ma poi ho camminato tanto e fuori
+LA
+c'era un grande sole
+        MI
+che non ho più pensato a tutte queste cose
 
 Strumentale:
-DO SOL LAm DO FA DO RE SOL7 RE SOL7
+LA DO#m FA# RE
 
-Respiri piano per non far rumore
-ti addormenti di sera e ti risvegli col sole
-sei chiara come un' alba
-sei fresca come l'aria
-Diventi rossa se qualcuno ti guarda
-sei fantastica quando sei assorta
-nei tuoi problemi, nei tuoi pensieri
-Ti vesti svogliatamente, non metti mai niente
-che possa attirare attenzione
-un particolare, solo per farti guardare
-
-E con la faccia pulita cammini per strada,
-mangiando una mela, coi libri di scuola,
-ti piace studiare
-non te ne devi vergognare!
-E quando guardi con quegli occhi grandi
-forse un pò troppo sinceri, sinceri
-si vede quello che pensi, quello che sogni
-E qualche volta fai pensieri strani
-con una mano, una mano ti sfiori
-Tu sola dentro la stanza
-e tutto il mondo fuori
+     LA       MI         LA RE
+E va bene così senza parole
+     LA       MI         LA DO#m FA#m RE
+E va bene così senza parole (3 volte)
 
             </Testo>
         </Canzone>

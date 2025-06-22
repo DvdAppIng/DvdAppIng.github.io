@@ -4530,7 +4530,7 @@ SOL DO RE SOL
         </Canzone>
         <Canzone Numero="126" Titolo="Luka" Genere="Straniere">
             <Testo>
-(Barrè sul II o III tasto)
+(Barrè sul II)
 Intro:
 MI SI4 LA9 SI4
 DO#m7 SI4 DO#m7 SI4
@@ -4566,11 +4566,11 @@ You just don't argue anymore
 You just don't argue anymore
 
 MI SI4 LA9 SI4
-MI SI4 LA9 SI4 MI
+DO#m7 SI4 LA9 SI4 MI
 
-Yes I think I'm okay
+... Yes I think I'm okay
 I walked into the door again
-Well, if you ask that's what I'll say
+If you ask that's what I'll say
 And it's not your business anyway
     I guess I'd like to be alone
     With nothing broken, nothing thrown
@@ -4596,7 +4596,8 @@ You just don't argue anymore
 
 MI SI4 LA9 SI4
 MI SI4 LA9 SI4
-DO#m7 SI4 LA9 SI4 MI
+DO#m7 SI4 LA9 SI4 
+MI
 
             </Testo>
         </Canzone>
@@ -4606,7 +4607,9 @@ RE       SOL          RE
 How many roads must a man walk down
 RE         SOL        LA
 Before you call him a man?
+RE       SOL          RE
 How many seas must a white dove sail
+RE         SOL        LA4 LA
 Before she sleeps in the sand?
 Yes, 'n' how many times must the cannon
 balls fly
@@ -4620,7 +4623,7 @@ Rit:
         SOL       LA             RE
     The answer is blowin' in the wind
     (Harm)
-    -5 +5 -4 +5 -4 +4 -5 +5 -5 +4 -5 +4
+    -5 +5 -4 +5 -4 +4 -5 +5 -4 +4 -4 +4
 
 Yes, 'n' how many years can a mountain exist
 Before it is washed to the sea?
@@ -4629,7 +4632,7 @@ can some people exist
 Before they're allowed to be free?
 Yes, 'n' how many times can a man
 turn his head,
-Pretending he just doesn't see?
+Pretending that he just doesn't see?
 
 Rit.
 

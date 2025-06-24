@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="10">
+<Canzoniere Version="12">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Italiane</Genere>
@@ -517,56 +517,75 @@ Ti voglio bene oh! Ti voglio bene oh! Ti voglio bene oh!
 
             </Testo>
         </Canzone>
-        <Canzone Numero="10" Titolo="Albachiara" Genere="Italiane">
+        <Canzone Numero="10" Titolo="Senza parole" Genere="Italiane">
             <Testo>
-Intro:
-FA7+ DO SOL7
+        LA
+Ho guardato dentro una bugia
+          DO#m
+e ho capito che e' una malattia
+         FA#m                     RE
+che alla fine non si puo' guarire mai
+         LA                 MI              LA MI
+e ho cercato di convincermi che tu non ce l'hai
 
-DO                    SOL
-Respiri piano per non far rumore
-         LAm                   DO
-ti addormenti di sera e ti risvegli col sole
-FA                 DO
-sei chiara come un'alba
-RE              SOL
-sei fresca come l'aria
-Diventi rossa se qualcuno ti guarda
-sei fantastica quando sei assorta
-nei tuoi problemi,
-nei tuoi pensieri
+Ho guardato dentro casa tua
+e ho capito che era una follia
+avere pensato che fossi soltanto mia
+e ho cercato di dimenticare di non guardare
 
-DO                SOL                   LAm
-Ti vesti svogliatamente, non metti mai niente
-              DO
-che possa attirare attenzione
-FA         DO   RE                SOL
-un particolare, solo per farti guardare
+         LA
+E ho guardato la televisione
+        DO#m
+e mi e' venuta come l'impressione
+       FA#
+che mi stessero rubando il tempo e che tu
+RE                        REm
+che tu mi rubi l'amore ma poi ho camminato tanto e fuori
+ LA
+c'era un gran rumore
+    MI
+che non ho più pensato
+a tutte queste cose
+
+DO SOL FA DO SOL FA SOL
+
+     DO
+E ho guardato dentro un'emozione
+        SOL
+e ci ho visto dentro tanto amore
+         FA                               DO SOL
+che ho capito perché non si comanda al cuore
+     FA         SOL
+E va bene così
+          DO SOL       DO MIm LAm7 FA
+senza parole senza parole
+     DO      SOL         DO FA
+E va bene così senza parole
+     DO         SOL
+e va bene così...
+
+      LA
+E guardando la televisione
+       DO#m
+mi e' venuta come l'impressione
+       FA#
+che mi stessero rubando il tempo e che tu
+RE
+che tu mi rubi l'amore
+   REm
+ma poi ho camminato tanto e fuori
+LA
+c'era un grande sole
+        MI
+che non ho più pensato a tutte queste cose
 
 Strumentale:
-DO SOL LAm DO FA DO RE SOL7 RE SOL7
+LA DO#m FA# RE
 
-Respiri piano per non far rumore
-ti addormenti di sera e ti risvegli col sole
-sei chiara come un' alba
-sei fresca come l'aria
-Diventi rossa se qualcuno ti guarda
-sei fantastica quando sei assorta
-nei tuoi problemi, nei tuoi pensieri
-Ti vesti svogliatamente, non metti mai niente
-che possa attirare attenzione
-un particolare, solo per farti guardare
-
-E con la faccia pulita cammini per strada,
-mangiando una mela, coi libri di scuola,
-ti piace studiare
-non te ne devi vergognare!
-E quando guardi con quegli occhi grandi
-forse un pò troppo sinceri, sinceri
-si vede quello che pensi, quello che sogni
-E qualche volta fai pensieri strani
-con una mano, una mano ti sfiori
-Tu sola dentro la stanza
-e tutto il mondo fuori
+     LA       MI         LA RE
+E va bene così senza parole
+     LA       MI         LA DO#m FA#m RE
+E va bene così senza parole (3 volte)
 
             </Testo>
         </Canzone>
@@ -1316,9 +1335,10 @@ Rit:
     mentre tu sorridevi e non guardavi, no,
         MI              SI
     mia dolce Venеre di Insta
-               FA#m7                             LA
-    perché sei stata l’еstate migliore della mia vita,
-    è la verità
+               FA#m7
+    perché sei stata l’еstate migliore
+              LA
+    della mia vita, è la verità
         FA#7
     sembrava la storia infinita
                 SI
@@ -1387,10 +1407,14 @@ Rit:
     Dicono che sei un po' cresciuta oramai
       RE      LA
     E non sei più
-           MI            DO#         FA#m
-    Quella bambina che baciava Harry Styles in TV
-      RE                     LA
-    E pesano, uccidono, 'sti cazzo di "ti amo"
+           MI            DO#
+    Quella bambina che baciava
+           FA#m
+     Harry Styles in TV
+      RE
+    E pesano, uccidono,
+          LA
+     'sti cazzo di "ti amo"
      MI                        FA#m
     Ballano dentro la bocca un ritmo cubano
        RE                     LA
@@ -1409,12 +1433,16 @@ Rit.
 
 SIm         MI           LA
 E metto Bon Iver se sono giù
-        FA#m                              SIm
-E lo pronuncio sbagliato proprio come fai tu
+        FA#m
+E lo pronuncio sbagliato
+                 SIm
+proprio come fai tu
   MI                    DO#m
 E scusa per l'ansia, mi mangia da dentro
-                  FA#m                   SIm
-E per il cane che scappa con il cancello aperto
+                  FA#m
+E per il cane che scappa
+                SIm
+con il cancello aperto
                MI              LA
 Vedi, non sono bravo a fare restare
              FA#m              SIm
@@ -4189,13 +4217,13 @@ In your arms
 
 Rit:
     LA7       RE
-    Well, it don't take much 
+    Well, it don't take much
     to keep me satisfied
            LA
-    Just a little bit of 
+    Just a little bit of
     lovin' that's bonafide
              SI
-    And your arms keep me 
+    And your arms keep me
     tangled up all the time
            SI
     Like a kitten with
@@ -4396,7 +4424,7 @@ You know I will adore you
 Rit.
 
 (Solo)
-SOL SOL LAm RE 
+SOL SOL LAm RE
 SOL SOL LAm RE
 
     So come on and, please...
@@ -4466,43 +4494,43 @@ SOL SOL
 SOL DO9 RE9
 SOL DO9 RE9
 
-SOL                   
-Another turning point 
+SOL
+Another turning point
   DO9               RE9
 a fork stuck in the road
-SOL                         
-Time grabs you by the wrist 
+SOL
+Time grabs you by the wrist
 DO                   RE
 directs you where to go
-MIm         RE            
-So make the best of these 
+MIm         RE
+So make the best of these
 DO                 SOL
 days and don't ask why
-MIm        RE             
-It's not a question but a 
+MIm        RE
+It's not a question but a
 DO                SOL
 lesson learned in time
 
 Rit:
-         MIm            SOL     
+         MIm            SOL
     It's something unpredictable
            MIm      SOL
     in the end it's right
-      MIm               RE   
-    I hope you have the time 
+      MIm               RE
+    I hope you have the time
             SOL
     of your life
-                
+
 SOL DO RE
 SOL DO RE
 
-So take the photographs and 
+So take the photographs and
 stillframes in your mind
-Hang it on a shelf 
+Hang it on a shelf
 in good health and good time
-Tatoos and memories and 
+Tatoos and memories and
 asking on trial
-For what it's worth 
+For what it's worth
 it was worth all the while
 
 Rit.
@@ -4521,27 +4549,27 @@ SOL DO RE SOL
         </Canzone>
         <Canzone Numero="126" Titolo="Luka" Genere="Straniere">
             <Testo>
-(Barrè sul II o III tasto)
+(Barrè sul II)
 Intro:
 MI SI4 LA9 SI4
 DO#m7 SI4 DO#m7 SI4
 LA9 SI4 LA9 SI4
 
-MI        SI4 
+MI        SI4
 My name is Luka
-LA9            SI4          
+LA9            SI4
 I live on the second floor
 MI    SI4               LA9
 I live upstairs from you
-                   SI4            
+                   SI4
 Yes I think you've seen me before
-DO#m7            SI4                
+DO#m7            SI4
     If you hear something late at night
 DO#m7             SI4                    LA9
     Some kind of trouble some kind of fight
-LA9         SI4             
+LA9         SI4
 Just don't ask me what it was
-LA9         SI4             
+LA9         SI4
 Just don't ask me what it was
 LA9         SI4                MI
 Just don't ask me what it was
@@ -4557,11 +4585,11 @@ You just don't argue anymore
 You just don't argue anymore
 
 MI SI4 LA9 SI4
-MI SI4 LA9 SI4 MI
+DO#m7 SI4 LA9 SI4 MI
 
-Yes I think I'm okay
+... Yes I think I'm okay
 I walked into the door again
-Well, if you ask that's what I'll say
+If you ask that's what I'll say
 And it's not your business anyway
     I guess I'd like to be alone
     With nothing broken, nothing thrown
@@ -4587,11 +4615,64 @@ You just don't argue anymore
 
 MI SI4 LA9 SI4
 MI SI4 LA9 SI4
-DO#m7 SI4 LA9 SI4 MI
+DO#m7 SI4 LA9 SI4 
+MI
 
             </Testo>
         </Canzone>
-        <Canzone Numero="127" Titolo="" Genere="Straniere">
+        <Canzone Numero="127" Titolo="Blowin' in the wind" Genere="Straniere">
+            <Testo>
+RE       SOL          RE
+How many roads must a man walk down
+RE         SOL        LA
+Before you call him a man?
+RE       SOL          RE
+How many seas must a white dove sail
+RE         SOL        LA4 LA
+Before she sleeps in the sand?
+Yes, 'n' how many times must the cannon
+balls fly
+Before they're for-ever banned?
+
+Rit:
+        SOL        LA
+    The answer, my friend,
+        RE             SOL
+     is blowin' in the wind,
+        SOL       LA             RE
+    The answer is blowin' in the wind
+    (Harm)
+    -5 +5 -4 +5 -4 +4 -5 +5 -4 +4 -3 +4 (1v)
+    -5 +5 -4 +6 -5 +4 -5 +5 -4 +4 -3 +4 (1v)
+
+Yes, 'n' how many years can a mountain exist
+Before it is washed to the sea?
+Yes, 'n' how many years
+can some people exist
+Before they're allowed to be free?
+Yes, 'n' how many times can a man
+turn his head,
+And pretend that he just doesn't see?
+
+Rit.
+
+Yes, 'n' how many
+times must a man look up
+Before he can se-e the sky?
+Yes, 'n' how many ears
+must one man have
+Before he can hear people cry?
+Yes, 'n' how many deaths will it take
+till he knows
+That too many people have died?
+
+Rit.
+
+Rit.
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="128" Titolo="" Genere="Straniere">
             <Testo>
 
             </Testo>

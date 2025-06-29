@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="12">
+<Canzoniere Version="11">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Italiane</Genere>
@@ -2542,8 +2542,15 @@ e un brindisi anche agli gnomi a alle fate,
       REm                  FA        LAm
 ai folletti che corrono sulle tue strade
 
-Strum:
-DO SOL LAm FA SOL DO SOL LAm
+(Harm)
+LAm   DO                SOL
++4 -4 +5 +5 -4 +5 +6 +4 -4 +4 -4 +5 -4
+      LAm            FA    SOL
++4 -4 +5 +5 -4 +5 +6 +7 -7 -6 +6
+      DO                SOL
++4 -4 +5 +5 -4 +5 +6 +4 -4 +4 -4 +5 -4
+      LAm      SOL
++4 -4 +5 -4 +4 -4 +4 -3 +4                
 
       LAm
 Hai i fianchi robusti di una vecchia signora
@@ -2599,9 +2606,24 @@ a cantare una terra di profughi e santi
 
 Rit.
 
-Strum:
-DO SOL LAm FA SOL DO SOL LAm FA SOL LAm
-FA DO SOL FA DO RE LAm
+(Harm)
+LAm   DO                SOL
++4 -4 +5 +5 -4 +5 +6 +4 -4 +4 -4 +5 -4
+      LAm            FA    SOL
++4 -4 +5 +5 -4 +5 +6 +7 -7 -6 +6
+      DO                SOL
++4 -4 +5 +5 -4 +5 +6 +4 -4 +4 -4 +5 -4
+      LAm
++4 -4 +5 -4 +4 -4 +4 -3 +4      
+FA       DO FA       
+-6 -6 +6 +5 +7 +7 -7 -6 
+DO          SOL                
++6 +6 -5 +5 +4 -4 +4 -4 +5 -4 +5 +6
+FA       DO FA       
+-6 -6 +6 +5 +7 +7 -7 -6 
+      LAm      SOL
++4 -4 +5 -4 +4 -4 +4 -3 +4                  
+
 
             FA                   DO      SOL
     E in un giorno di pioggia ti rivedrò ancora
@@ -4503,9 +4525,9 @@ Time grabs you by the wrist
 DO                   RE
 directs you where to go
 MIm         RE
-So make the best of these
-DO                 SOL
-days and don't ask why
+So make the best 
+         DO                 SOL
+of these days and don't ask why
 MIm        RE
 It's not a question but a
 DO                SOL
@@ -4526,10 +4548,10 @@ SOL DO RE
 
 So take the photographs and
 stillframes in your mind
-Hang it on a shelf
+...Hang it on a shelf
 in good health and good time
 Tatoos and memories and
-asking on trial
+a-asking on trial
 For what it's worth
 it was worth all the while
 
@@ -4563,9 +4585,9 @@ MI    SI4               LA9
 I live upstairs from you
                    SI4
 Yes I think you've seen me before
-DO#m7            SI4
+DO#m             SI9
     If you hear something late at night
-DO#m7             SI4                    LA9
+DO#m             SI9                    LA9
     Some kind of trouble some kind of fight
 LA9         SI4
 Just don't ask me what it was
@@ -4574,7 +4596,7 @@ Just don't ask me what it was
 LA9         SI4                MI
 Just don't ask me what it was
 
-I think it's because I'm clumsy
+I think (it)'s because I'm clumsy
 I try not to talk too loud
 Maybe it's because I'm crazy
 I try not to act too proud
@@ -4642,8 +4664,9 @@ Rit:
         SOL       LA             RE
     The answer is blowin' in the wind
     (Harm)
-    -5 +5 -4 +5 -4 +4 -5 +5 -4 +4 -3 +4 (1v)
-    -5 +5 -4 +6 -5 +4 -5 +5 -4 +4 -3 +4 (1v)
+    SOL   LA  RE    SOL SOL   LA       RE
+    -5 +5 -4  +5 -4 +4  -5 +5 -4 +4 -3 +4 (1v)
+    -5 +5 -4  +6 -5 +4  -5 +5 -4 +4 -3 +4 (1v)
 
 Yes, 'n' how many years can a mountain exist
 Before it is washed to the sea?

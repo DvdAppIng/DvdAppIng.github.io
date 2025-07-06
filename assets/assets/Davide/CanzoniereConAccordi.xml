@@ -3470,8 +3470,10 @@ Rit:
         </Canzone>
         <Canzone Numero="100" Titolo="The river" Genere="Straniere">
             <Testo>
-Mi-   Sol   Re   Do
-Mi-   Sol   Do
+        Mi-         Sol   Re   Do
+(-3 ->) -4 -4' -4 5 -5 -6 6 -5 -4'  
+        Mi-   Sol   Do
+(-4 ->) -6 6 -5 6 5 -4'     
 
   Mi-                   Sol
 I come from down in the valley
@@ -3481,12 +3483,12 @@ Where mister when you're young
 They bring you up to do like your daddy done
        Do
 Me and Mary we met in high school
-     Sol          Re   Mi-
+     Sol         Re/Fa# Mi-
 When she was just seventeen
      La-
-We'd drive out of this valley down
-   Sol                   Do
-to where the fields were green
+We'd drive out of this valley 
+        Sol                   Do
+down to where the fields were green
 
 We'd go...
 Rit:
@@ -3503,16 +3505,24 @@ And for my nineteenth birthday
 I got a union card and a wedding coat
 We went down to the courthouse
 And the judge put it all to rest
-No wedding day smiles, no walk down the aisle
+No wedding day smiles, 
+no walk down the aisle
 No flowers, no wedding dress
 
 That night we went...
 Rit.
 
-Mi-   Sol  Re   Do
-Mi-   Sol  Do   Sol
-Do   Sol   Re   Mi-
-La-  Sol   Do
+      Mi-        Sol    Re   Do
+(3 ->)-4-4'-4  5 -5  -6 6 -5 -4'
+
+       Mi-  Sol  Do     Sol
+(-4 ->)-6 7 7  7 -8  -9 9  -9
+
+Do    Sol        Re   Mi-
+-8 -9 9 -9-9  -6 6 -5 -4'
+
+            La-     Sol         Do
+-6 6  -5 6  -5 6 -5 -4'  4 -6 5 -4
 
 I got a job working construction
 for the Johnstown Company
@@ -3533,15 +3543,16 @@ They haunt me like a curse
 Is a dream a lie if it don't come true
 Or is it something worse,
 
-That sends me down to the river
-Though I know the river is dry
-That sends me down to the river tonight
-Down to the river
-
-   Re       Sol
-My baby and I
-   Mi-         Do       Re  Do
-Oh down to the river we ride
+    That sends me 
+    down to the river
+    Though I know the river is dry
+    That sends me down to the river tonight
+    Down to the river
+       Re       Sol
+    My baby and I
+       Mi-         Do       Re  Do
+    Oh down to the river we ride
+                
             </Testo>
         </Canzone>
         <Canzone Numero="101" Titolo="Wonderful tonight" Genere="Straniere">

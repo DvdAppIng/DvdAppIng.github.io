@@ -3472,8 +3472,8 @@ Rit:
             <Testo>
         Mi-         Sol   Re   Do
 (-3 ->) -4 -4' -4 5 -5 -6 6 -5 -4'  
-        Mi-   Sol   Do
-(-4 ->) -6 6 -5 6 5 -4'     
+        Mi-   Sol       Do
+(-4 ->) -6 6 -5 6 (-5->)-4'     
 
   Mi-                   Sol
 I come from down in the valley
@@ -3515,14 +3515,14 @@ Rit.
       Mi-        Sol    Re   Do
 (3 ->)-4-4'-4  5 -5  -6 6 -5 -4'
 
-       Mi-  Sol  Do     Sol
-(-4 ->)-6 7 7  7 -8  -9 9  -9
+      Mi- Sol    Do       Sol
+(-4 ->)-6 7 7  7 -8  7 -8 7 7
 
-Do    Sol        Re   Mi-
--8 -9 9 -9-9  -6 6 -5 -4'
+Do    DO     Sol   Re   Mi-
+-8 7 -8 7 7  -6 -6 6 -5 -4'
 
-            La-     Sol         Do
--6 6  -5 6  -5 6 -5 -4'  4 -6 5 -4
+            La-     Sol     Do
+-6 6  6-5 6 -5 -4'  4 -6 5 -4
 
 I got a job working construction
 for the Johnstown Company

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="12">
+<Canzoniere Version="13">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Italiane</Genere>
@@ -3458,7 +3458,75 @@ Rit:
 
             </Testo>
         </Canzone>
-        <Canzone Numero="49" Titolo="" Genere="Italiane">
+        <Canzone Numero="49" Titolo="Il portiere di notte" Genere="Italiane">
+            <Testo>
+MIm              DO
+Vanno via, e non tornano più
+    SIm                            MIm
+non danno neanche il tempo di chiamarli
+       MIm
+e non lasciano niente
+               DO
+non scrivono dietro il mittente
+  RE                           SI7
+e nelle stanze trovo solo luci spente
+   MIm                       DO
+Sapeste che pena per chi organizza la scena
+   RE
+restare dietro al banco
+                    SI7
+come un cane con la sua catena
+  MIm                          RE
+E lei che viene spesso a notte fonda
+        DO              RE
+E’ così bella, è quasi sempre bionda
+   MIm                       RE
+E’ lei che cambia sempre cavaliere
+              DO                     SI7
+e mi parla soltanto quando chiede da bere
+
+Rit:
+                  MIm   RE
+    Ma la porterò via e lei mi seguirà
+    DO                      SI7
+    prenoterò le camere in tutte le città
+                  MIm      RE
+    la porterò lontano per non lasciarla più
+    DO                           SI7
+    la porterò nel vento e se possibile più su
+      SOL                       RE
+    e quando ci sorprenderà l'inverno
+    DO                              SI7
+    non sarò più portiere in questo albergo
+
+Strumentale:
+MIm DO RE SI7
+
+Sapeste che male quando la vedo entrare
+non la posso guardare senza immaginare
+Ma è lei che non immagina per niente
+cosa darei per esserle presente
+ma lei non vede e allora parlo piano
+con la sua forma in un asciugamano
+
+Rit:
+    Ma la porterò via non l'abbandonerò
+    la renderò partecipe di tutto ciò che ho
+    la porterò lontano per non lasciarla mai
+    e mi dirà ti voglio per quello che mi dai
+    E quando insieme prenderemo il largo
+    non sarò più portiere in questo albergo
+      SOL                               RE
+    e insieme dentro al buio che ci inghiotte
+        DO                     SI7
+    non sarò il portiere della notte
+
+Strumentale:
+MIm RE DO SI7 MIm
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="50" Titolo="" Genere="Italiane">
             <Testo>
 
             </Testo>
@@ -5096,8 +5164,7 @@ Rit:
     The answer is blowin' in the wind
     (Harm)
     SOL   LA  RE    SOL SOL   LA       RE
-    -5 +5 -4  +5 -4 +4  -5 +5 -4 +4 -3 +4 (1v)
-    -5 +5 -4  +6 -5 +4  -5 +5 -4 +4 -3 +4 (1v)
+    -5 +5 -4  +5 -4 +4  -5 +5 -4 +4 -3 +4
 
 Yes, 'n' how many years can a mountain exist
 Before it is washed to the sea?
@@ -5109,6 +5176,8 @@ turn his head,
 And pretend that he just doesn't see?
 
 Rit.
+    SOL   LA  RE    SOL SOL   LA       RE
+    -5 +5 -4  +6 -5 +4  -5 +5 -4 +4 -3 +4
 
 Yes, 'n' how many
 times must a man look up
@@ -5167,12 +5236,64 @@ woa stand now oh stand, stand by me
 
             </Testo>
         </Canzone>
-        <Canzone Numero="" Titolo="" Genere="Straniere">
+        <Canzone Numero="129" Titolo="The sound of silence" Genere="Straniere">
+            <Testo>
+LAm                      SOL
+Hello darkness, my old friend,
+                             LAm
+I've come to talk with you again,
+                      FA    DO
+Because a vision softly creeping,
+                        FA      DO
+Left its seeds while I was sleeping,
+        FA                              DO
+And the vision that was planted in my brain
+         LAm
+Still remains
+DO          SOL      LAm
+Within the sound of silence
+
+In restless dreams I walked alone
+Narrow streets of cobblestone,
+'neath the halo of a street lamp,
+I turned my collar to the cold and damp
+When my eyes were stabbed by the flash of a neon light
+That split the night
+And touched the sound of silence
+
+And in the naked light I saw
+Ten thousand people, maybe more
+People talking without speaking,
+People hearing without listening,
+People writing songs that voices never share
+And no one dare
+Disturb the sound of silence
+
+Fools said I, you do not know
+Silence like a cancer grows
+Hear my words that I might teach you,
+Take my arms that I might reach you
+But my words like silent raindrops fell,
+And echoed
+In the wells of silence
+
+And the people bowed and prayed
+To the neon God they made
+And the sign flashed out its warning,
+In the words that it was forming
+And the sign said, the words of the prophets
+Are written on the subway walls
+And tenement halls
+And whisper'd in the sounds of silence
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="130" Titolo="" Genere="Straniere">
             <Testo>
 
             </Testo>
         </Canzone>
-        <Canzone Numero="129" Titolo="" Genere="Straniere">
+        <Canzone Numero="" Titolo="" Genere="Straniere">
             <Testo>
 
             </Testo>

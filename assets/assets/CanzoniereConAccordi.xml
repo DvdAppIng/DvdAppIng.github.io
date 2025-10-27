@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="11">
+<Canzoniere Version="12">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere>
@@ -5773,5 +5773,65 @@ Rit.
 
             </Testo>
         </Canzone>
+        <Canzone Numero="149" Titolo="Non abbandonarmi nell’ora della prova" Genere="Comunione|Quaresima">
+            <Testo>            
+Rit:
+Sol Sol           Re      Mi-    Re Do
+    Non abbandonarmi nell’ora della prova,
+    Sol           Re      La-    Do Re
+    non abbandonarmi nell’ora della prova.
+
+Mi-        Re        Do
+Mi avevano spinto con forza
+  Sol      La-     Re
+volevano farmi cadere,
+dicevano “tutto svanisce,
+nessuno può salvare”.
+
+Do        Si-       Mi-
+Parole di polvere e fango
+   Sol            Re
+confondono i miei pensieri,
+la luce è un respiro lontano,
+non sento la tua voce. 
+
+Rit.
+
+“Adora soltanto il presente,
+un idolo che puoi toccare.
+Ricchezza, successo e potere
+siano maschere del tuo vagare”.
+
+Finisce anche il cielo stellato,
+resta un battito d’ali in fondo al cuore
+e chiuso fra cose mortali,
+mio Signore, io spero in Te. 
+
+Rit.
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="150" Titolo="Fino a quando" Genere="Comunione|Quaresima">
+            <Testo>
+Rit:
+MI- Mi               Do         Si-        Do  Re
+    Fino a quando o mio Signore ti nasconderai
+    Mi              Do          Si-           La
+    Fino a quando o mio Signore mi dimenticherai
+
+Mi-                 Do        Si-      Do  Re
+La tristezza è nel mio cuore ogni momento
+Mi                 Do        Si-       La
+Guarda rispondimi Signore io spero in Te 
+
+Rit.
+
+Conserva la luce ai miei occhi perché io viva
+Solo nella tua misericordia ho confidato 
+
+Rit.
+
+            </Testo>
+        </Canzone>                
     </Canzoni>
 </Canzoniere>

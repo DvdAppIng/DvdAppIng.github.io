@@ -5815,23 +5815,32 @@ Rit.
         <Canzone Numero="150" Titolo="Fino a quando" Genere="Comunione|Quaresima">
             <Testo>
 Rit:
-MI- Mi               Do         Si-        Do  Re
-    Fino a quando o mio Signore ti nasconderai
-    Mi              Do          Si-           La
-    Fino a quando o mio Signore mi dimenticherai
+Mi- Mi               Do         
+    Fino a quando o mio Signore 
+    Si-        Do  Re
+    ti nasconderai
+    Mi              Do          
+    Fino a quando o mio Signore 
+    Si-           La
+    mi dimenticherai
 
-Mi-                 Do        Si-      Do  Re
-La tristezza è nel mio cuore ogni momento
-Mi                 Do        Si-       La
-Guarda rispondimi Signore io spero in Te 
+Mi-                 Do       
+La tristezza è nel mio cuore 
+ Si-      Do  Re
+ogni momento
+Mi                 Do     
+Guarda rispondimi Signore 
+   Si-       La
+io spero in Te 
 
 Rit.
 
-Conserva la luce ai miei occhi perché io viva
-Solo nella tua misericordia ho confidato 
+Conserva la luce ai miei occhi 
+perché io viva
+Solo nella tua misericordia 
+ho confidato 
 
 Rit.
-
             </Testo>
         </Canzone>                
         <Canzone Numero="151" Titolo="Lava queste mani, o Dio" Genere="Salmo">

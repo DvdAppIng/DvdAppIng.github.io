@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="12">
+<Canzoniere Version="13">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere>
@@ -4349,6 +4349,64 @@ Solo nella tua misericordia ho confidato
 Rit.
 
             </Testo>
-        </Canzone>                
+        </Canzone>           
+        <Canzone Numero="151" Titolo="Lava queste mani, o Dio" Genere="Salmo">
+            <Testo>
+Lava queste mani, o Dio,
+Rendi puro il cuore mio
+E sarò più bianco della neve:
+Fammi grazia, o Dio.
+
+Lavami dalle mie colpe,
+Mondami dal mio peccato.
+Ciò che è male agli occhi tuoi l’ho fatto:
+Dio, pietà di me.
+
+Rit:
+    Apri le mie labbra e ti loderò,
+    Dammi un cuore nuovo e vivrò con te.
+
+Non nascondermi il tuo volto,
+Non respingermi da te.
+La mia colpa mi sta sempre innanzi.
+Tu mi salverai.
+
+Uno spirito contrito
+Tu non lo disprezzi, o Dio:
+Tu vuoi la sincerità del cuore.
+Dio, pietà di me.
+
+Rit.
+
+Non privarmi del tuo spirito,
+Rendi saldo il cuore mio.
+Solo per la tua misericordia,
+Dammi forza, o Dio.
+
+Tu sei giusto quando parli,
+Grande è la tua bontà,
+La sapienza insegni nel mio intimo,
+Sei la verità.
+
+Rit.
+    e vivrò con te, e vivrò con te.
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="152" Titolo="Cristo luce del mondo" Genere="Inizio|Pasqua">
+            <Testo>
+Cristo luce del mondo
+Rendiamo grazie a Dio  (2 v.)
+
+La luce del Cristo
+che risorge glorioso
+Disperda le tenebre del cuore
+e dello spirito
+
+Cristo luce del mondo
+Rendiamo grazie a Dio  (2 v.)
+
+            </Testo>
+        </Canzone>
     </Canzoni>
 </Canzoniere>

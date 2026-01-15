@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="13">
+<Canzoniere Version="14">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere>
@@ -4356,7 +4356,7 @@ Rit.
 
             </Testo>
         </Canzone>           
-        <Canzone Numero="151" Titolo="Lava queste mani, o Dio" Genere="Salmo">
+        <Canzone Numero="151" Titolo="Lava queste mani, o Dio" Genere="Salmo">
             <Testo>
 Lava queste mani, o Dio,
 Rendi puro il cuore mio
@@ -4399,7 +4399,7 @@ Rit.
 
             </Testo>
         </Canzone>
-        <Canzone Numero="152" Titolo="Cristo luce del mondo" Genere="Inizio|Pasqua">
+        <Canzone Numero="152" Titolo="Cristo luce del mondo" Genere="Inizio|Pasqua">
             <Testo>
 Cristo luce del mondo
 Rendiamo grazie a Dio  (2 v.)

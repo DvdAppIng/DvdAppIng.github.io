@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="14">
+<Canzoniere Version="15">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere>
@@ -5918,5 +5918,34 @@ Rendiamo grazie a Dio  (2 v.)
 
             </Testo>
         </Canzone>
+ <Canzone Numero="153" Titolo="È risorto il Signore" Genere="Pasqua">
+            <Testo>
+Fa
+                
+Fa     Sib      Fa        Re-   Sib Do
+È risorto il Signore come aveva detto
+          Re-    Sol-    Sib Do
+S'apre il giorno nuovo e canta
+     Sib Do      Sib Do Fa
+la speranza dell'eternità
+
+Sib        Fa     Re-      Do
+Non c'è notte che si porti via
+   Sib   Fa       Do
+il sogno di felicità.
+       Sib  Fa       Re-       Do
+Io non sono polvere, acqua che va.
+   Sib   Fa           Do
+La morte più non vincerà.
+
+Fa     Sib      Fa        Re-   Sib Do
+E' risorto il Signore come aveva detto
+         Re-   Sol-  Sib Do
+Viene il tempo della vita
+      Sib Do          Sib  Do Fa
+dentro il cuore so io risorgerò
+
+            </Testo>
+        </Canzone>        
     </Canzoni>
 </Canzoniere>

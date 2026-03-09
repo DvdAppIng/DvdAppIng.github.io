@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Canzoniere Version="14">
+<Canzoniere Version="15">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Inizio</Genere>
@@ -4414,5 +4414,21 @@ Rendiamo grazie a Dio  (2 v.)
 
             </Testo>
         </Canzone>
+ <Canzone Numero="153" Titolo="È risorto il Signore" Genere="Pasqua">
+            <Testo>
+È risorto il Signore come aveva detto 
+S'apre il giorno nuovo e canta
+la speranza dell'eternità 
+
+Non c'è notte che si porti via il sogno di felicità. 
+Io non sono polvere, acqua che va. 
+La morte più non vincerà. 
+
+E' risorto il Signore come aveva detto
+Viene il tempo della vita
+dentro il cuore so io risorgerò
+
+            </Testo>
+        </Canzone>        
     </Canzoni>
 </Canzoniere>

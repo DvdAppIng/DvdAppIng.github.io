@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
-<Canzoniere Version="16">
+<Canzoniere Version="17">
     <Generi>
         <Genere>Tutte</Genere>
         <Genere>Italiane</Genere>
         <Genere>Straniere</Genere>
         <Genere>Cartoni</Genere>
+		<Genere>RockAndRoll</Genere>
     </Generi>
     <Canzoni>
         <Canzone Numero="1" Titolo="L'isola che non c'è" Genere="Italiane">
@@ -6204,6 +6205,145 @@ Rit.
             </Testo>
         </Canzone>        
          <Canzone Numero="" Titolo="" Genere="Cartoni">
+            <Testo>
+
+            </Testo>
+        </Canzone>
+         <Canzone Numero="300" Titolo="Sea Cruise" Genere="RockAndRoll">
+            <Testo>
+Intro:
+      La La
+(Sax) Re La Re Mi
+
+La
+Old man rhythm is in my shoes,
+it's no use to sittin' here and singin' the blues.
+    Mi
+So, be my guest, you got nothin' to lose.
+La
+Won't you let me take you on a sea cruise?
+
+Rit:
+    La
+    Ooo-wee, ooo-wee, baby..oooo-wee, ooo-wee, baby.
+    Mi
+    Ooo-wee, ooo-wee, baby.
+    La              
+    Won't you let me take you on a sea cruise?
+
+Bridge:
+    Re
+    Feel like jumpin', baby,
+                        La
+    won't you join me please?
+    Re                                          Mi
+    I don't like beggin', but now I'm on bended knees.
+
+
+        La
+Well, I gotta get rockin', get my hat off the rack.
+I get a boogie-woogie like a knife in the back.
+   Mi
+So be my guest, you got nothin' to lose,
+La
+won't you let me take you on a sea cruise?
+
+Rit.
+(Sax) Re La Re Mi
+
+  La
+I gotta get a-movin', baby, I ain't lyin'.
+My heart's beating rhythm, and it's right on time.
+   Mi
+So be my guest, you got nothin' to lose,
+La
+won't you let me take you on a sea cruise?
+
+Rit.
+Bridge
+
+Rit.
+(Sax) Re La Re Mi
+
+Rit.
+
+            </Testo>
+        </Canzone>
+         <Canzone Numero="301" Titolo="In the sun" Genere="RockAndRoll">
+            <Testo>
+Rit:
+	Do						Fa
+    I wanna sit here in the sun
+	Sol                         Do
+    In my Hand just an ice cold Beer
+	Do                 Fa
+    Nothing left to be done
+	Sol                          Do
+    Everything seems so nice and clear
+
+				  Fa   Sol
+    Switch off my mobilphone
+	          D0                     La-
+    The first thing I do when I come home
+	                   Fa
+    All that has to be done
+	Sol                   Do
+    Is to sit here in the sun
+
+Rit.
+
+Do                    Sol
+Don't wanna hurry, no no
+Sol                   Do
+Don't wanna fight, no more
+Do                   Sol
+Don't wanna sell my soul
+Sol                      Do
+Don't wanna be nice, for sure
+
+           Fa                Re-
+The little time I've left on earth
+Sol                       Mi-
+Everyone else can kiss my ass
+                  Fa     Sol
+Cause all I wanna dohohohoho
+                    Do
+Is what I'm telling youuuuu
+
+Rit.
+
+Solo (Sax)
+Do
+Fa Sol Do La- Fa Sol Do La- (2 volte)
+
+Bridge
+                    La
+    People hear me, Life is so fast
+	Do             La
+    Everyday could be the last
+	  Do          La
+    Believe me, I tell you the truth
+	Do       Fa               Sol         
+    Just do, what is good for you.
+
+Never be a fool
+Never tell me what to do
+Never take advice
+Never once or twice
+
+The little time I've left on earth
+Everyone else can kiss my ass
+And what I'm telling youuuuu
+Is what I wanna dohoho.
+
+Rit.
+
+    All that has to be done
+    Is to sit here in the sun (2 volte)
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="" Titolo="" Genere="RockAndRoll">
             <Testo>
 
             </Testo>

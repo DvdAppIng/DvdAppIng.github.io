@@ -3666,7 +3666,76 @@ Rit.
 
             </Testo>
         </Canzone>
-        <Canzone Numero="52" Titolo="" Genere="Italiane">
+        <Canzone Numero="52" Titolo="Comuni immortali" Genere="Italiane">
+            <Testo>
+SOL (4 volte)
+  SOL                   MIm7
+E ciao aspetterei cento vite
+     LAm7  SOL                RE
+Come stai? saprei persino morire
+  SOL       RE/FA#         MIm7
+E ruberò la luna a sta città
+     DO        RE          SOL
+Sarà solo per averti ancora
+ 
+E dai come vuoi vada a finire?
+Resta qua non sarà mica la fine
+Ti porterò il mondo e si inginocchierà
+Sarà solo per averti ancora
+
+    DO                       RE
+    E se fosse nostro questo maledetto posto
+        SOL
+    Ruberei il tramonto
+        RE/FA#        MIm7
+    Per mettertelo al polso
+    DO                     RE
+    E se fuori piove se le strade sono vuote
+       SOL RE/FA# MIm7
+    Ci sarò... ricordati
+    
+Rit:    
+       SOL           DO
+    Quando ti sveglierai
+      DO             RE
+    Prima di addormentarti
+                       SOL       RE/FA#        MIm7
+    E quando ti spoglierò ricorderò di accarezzarti 
+        LAm7                 RE
+    Quando farà paura essere grandi
+      SOL          MIm7          SIm7 RE
+    E penserai che Dio ha creato Lei
+    SOL            MIm7        SIm7
+    Mentre un uomo sfiderà gli dei
+    
+        RE         SOL
+    Per averti ancora
+
+
+Sì lo so cosa ti rende felice
+Quello che non ho saputo mai dire
+Tu lo sai che quando il mare si aprirà
+Sarà solo per averti ancora
+
+    E se è l'ultima volta andrei oltre ogni colonna
+    Che divide il mondo che ci mise contro
+    E se non ritorno se fosse l'ultimo giorno
+    Ci sarò... ricordati
+
+Rit.
+
+  SOL     MIm7            SIm7 RE
+E penserò Dio ha creato a Lei
+  SOL            MIm7        SIm
+Quando un giorno sfiderò gli dei
+    RE           SOL MIm7 SIm7
+Per averti ancora... (4 volte)
+    RE         SOL
+Per averti ancora
+
+            </Testo>
+        </Canzone>
+        <Canzone Numero="53" Titolo="" Genere="Italiane">
             <Testo>
 
             </Testo>
@@ -5586,17 +5655,75 @@ For I can't help falling in love with you
 
             </Testo>
         </Canzone>
-        <Canzone Numero="132" Titolo="" Genere="Straniere">
+        <Canzone Numero="132" Titolo="Why worry" Genere="Straniere">
             <Testo>
+Intro:
+(Barrè II tasto)
+RE LA SOL RE
+RE LA SOL RE
+SOL MI LA SOL LA (2 volte)
+RE SOL LA
+RE SOL LA
+RE SOL LA
+SOL LA
+SIm
+LA
+
+RE    LA         SOL                RE
+Baby, I see this world has made you sad
+LA   SOL           RE 
+Some people can be bad
+SOL             MI
+The things they do,
+                LA LA4 LA
+the things they say
+ 
+But baby, I'll wipe away those bitter tears
+I'll chase away those restless fears
+That turn your blue skies into gray
+
+Rit:
+        RE
+    Why worry
+    SOL              LA             RE
+    There should be laughter after pain
+    SOL              LA             RE
+    There should be sunshine after rain
+    SOL                LA              RE
+    These things have always been the same
+    SOL     LA    RE
+    So why worry now
+    SOL  LA    RE SOL LA
+    Why worry now
+	
+RE SOL LA
+RE SOL LA
+RE SOL LA
+SOL LA
+SIm
+LA
+
+Baby, when I get down I turn to you
+And you make sense of what I do
+And though it isn't hard to say
+But baby, just when this world seems mean and cold
+Our love comes shining red and gold
+And all the rest is by the way
+
+Rit.
 
             </Testo>
         </Canzone>        
+        <Canzone Numero="133" Titolo="" Genere="Straniere">
+            <Testo>
+
+            </Testo>
+        </Canzone>
         <Canzone Numero="" Titolo="" Genere="Straniere">
             <Testo>
 
             </Testo>
         </Canzone>
-
         <Canzone Numero="200" Titolo="Daitarn III" Genere="Cartoni">
             <Testo>
 Intro:
@@ -6204,7 +6331,17 @@ Rit.
                 
             </Testo>
         </Canzone>        
+         <Canzone Numero="208" Titolo="" Genere="Cartoni">
+            <Testo>
+
+            </Testo>
+        </Canzone>
          <Canzone Numero="" Titolo="" Genere="Cartoni">
+            <Testo>
+
+            </Testo>
+        </Canzone>
+		<Canzone Numero="" Titolo="" Genere="Cartoni">
             <Testo>
 
             </Testo>
